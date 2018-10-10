@@ -1,0 +1,12 @@
+scipy==1.0.0
+dash==0.21.1
+dash_core_components==0.13.0rc5
+dash_dangerously_set_inner_html==0.0.1
+dash_html_components==0.10.1
+dash-renderer==0.12.1
+plotly==2.4.1
+Shapely==1.6.4.post1
+matplotlib==2.2.0
+numpy==1.14.1
+pandas==0.22.0
+scikit_learn==0.19.1

@@ -1,0 +1,1793 @@
+date,addrcode,province,district,subdist,village,hi,ci,bi,province_EN,district_EN,subdist_EN
+2017-06-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ห้วยน้ำขาว,22.5,6.47,22.5,Krabi,Khlong Thom,Huai Nam Khao
+2017-06-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,น้ำร้อน,15,4.52,17.5,Krabi,Khlong Thom,Huai Nam Khao
+2017-06-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,ปากกา,17,3.18,17,Nakhon Si Thammarat,Chawang,Huai Prik
+2017-06-01,800904,นครศรีธรรมราช,ทุ่งสง,ควนกรด,หนองเสม็ด,25,4.51,27.5,Nakhon Si Thammarat,Thung Song,Khuan Krot
+2017-06-01,800912,นครศรีธรรมราช,ทุ่งสง,นาโพธิ์,เกาะปราง,15,8.95,42.5,Nakhon Si Thammarat,Thung Song,Na Pho
+2017-06-01,800903,นครศรีธรรมราช,ทุ่งสง,หนองหงส์,เหนือ,17.5,3.93,22.5,Nakhon Si Thammarat,Thung Song,Nong Hong
+2017-06-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,สองแพรก,26,4.28,26,Nakhon Si Thammarat,Thung Yai,Kurae
+2017-06-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,เสม็ดจวน,22.5,3.79,22.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2017-06-01,801003,นครศรีธรรมราช,นาบอน,แก้วแสน,ไร่ยาว,20,6.22,30,Nakhon Si Thammarat,Na Bon,Kaeo Saen
+2017-06-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,พรุเตย,10,1.61,10,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2017-06-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,เขาวง,10,1.14,10,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2017-06-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,รัตนธาร,7.5,0.83,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2017-06-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,ท่าไทร,8.75,4.15,35,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2017-06-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,ขุนพัง,11.25,4.45,41.25,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2017-06-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,ปลายราง,10,4.33,37.5,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2017-06-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,พรุชิง,11.25,4.99,45,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2017-06-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,คีรีใหม่,10,3.98,36.25,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2017-05-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,25,7.19,25,Krabi,Mueang Krabi,Sai Thai
+2017-05-01,800907,นครศรีธรรมราช,ทุ่งสง,เขาโร,หนองปลิง,17.5,2.68,17.5,Nakhon Si Thammarat,Thung Song,Khao Ro
+2017-05-01,800910,นครศรีธรรมราช,ทุ่งสง,น้ำตก,ถ้ำตลอด,17.5,3.05,20,Nakhon Si Thammarat,Thung Song,Namtok
+2017-05-01,800910,นครศรีธรรมราช,ทุ่งสง,น้ำตก,ในไร่,17.5,6.15,27.5,Nakhon Si Thammarat,Thung Song,Namtok
+2017-05-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,15.5,2.47,15.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2017-05-01,801001,นครศรีธรรมราช,นาบอน,นาบอน,นาโพธิ์,15,7.32,22.5,Nakhon Si Thammarat,Na Bon,Na Bon
+2017-04-01,810205,กระบี่,เขาพนม,หน้าเขา,ห้วยน้ำแก้ว,12.5,9.6,72.5,Krabi,Khao Phanom,Na Khao
+2017-04-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,17.5,12.85,57.5,Krabi,Mueang Krabi,Sai Thai
+2017-04-01,810504,กระบี่,อ่าวลึก,คลองหิน,บน,12.5,11.06,55,Krabi,Ao Luek,Khlong Hin
+2017-04-01,801503,นครศรีธรรมราช,ขนอม,ท้องเนียน,ท่าจันทร์,15,8.63,60,Nakhon Si Thammarat,Khanom,Thong Nian
+2017-04-01,800801,นครศรีธรรมราช,ท่าศาลา,ท่าศาลา,ในถุ้ง,12.5,8.11,45,Nakhon Si Thammarat,Tha Sala,Tha Sala
+2017-04-01,802101,นครศรีธรรมราช,นบพิตำ,นบพิตำ,โรงเหล็ก,15,7.52,60,Nakhon Si Thammarat,Nopphitam,Nopphitam
+2017-04-01,801003,นครศรีธรรมราช,นาบอน,แก้วแสน,แก้วแสน,20,10.3,85,Nakhon Si Thammarat,Na Bon,Kaeo Saen
+2017-04-01,800203,นครศรีธรรมราช,พรหมคีรี,อินคีรี,น้ำแคบ,10,6.51,47.5,Nakhon Si Thammarat,Phrom Khiri,In Khiri
+2017-04-01,802002,นครศรีธรรมราช,พระพรหม,นาสาร,พระเพรง,10,8.17,42.5,Nakhon Si Thammarat,Phra Phrom,Na San
+2017-04-01,800305,นครศรีธรรมราช,ลานสกา,ขุนทะเล,สำนักใหม่,22.5,13.48,107.5,Nakhon Si Thammarat,Lan Saka,Khun Thale
+2017-04-01,801402,นครศรีธรรมราช,สิชล,ทุ่งปรัง,ทุ่งคา,10,6.21,45,Nakhon Si Thammarat,Sichon,Thung Prang
+2017-03-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,7.5,6.52,22.5,Krabi,Mueang Krabi,Sai Thai
+2017-03-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,บ้านตูล,8.75,3.27,30,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2017-03-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,วังกลม,8.75,3.75,36.25,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2017-03-01,800904,นครศรีธรรมราช,ทุ่งสง,ควนกรด,ควนกรด,17.5,8.78,45,Nakhon Si Thammarat,Thung Song,Khuan Krot
+2017-03-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ที่วัง,20,2.67,12.5,Nakhon Si Thammarat,Thung Song,Thi Wang
+2017-03-01,800912,นครศรีธรรมราช,ทุ่งสง,นาโพธิ์,นาโพธิ์,22.5,5.65,32.5,Nakhon Si Thammarat,Thung Song,Na Pho
+2017-03-01,800912,นครศรีธรรมราช,ทุ่งสง,นาโพธิ์,บนควน,32.5,6.93,35,Nakhon Si Thammarat,Thung Song,Na Pho
+2017-03-01,800910,นครศรีธรรมราช,ทุ่งสง,น้ำตก,ในไร่,15,4.48,22.5,Nakhon Si Thammarat,Thung Song,Namtok
+2017-03-01,801003,นครศรีธรรมราช,นาบอน,แก้วแสน,แก้วแสน,20,4.74,22.5,Nakhon Si Thammarat,Na Bon,Kaeo Saen
+2017-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ปากแพรก,7.5,0.82,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2017-03-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เหนือโตน,7.5,0.86,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2017-03-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,ท่าไทร,11.25,4.69,42.5,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2017-02-01,810304,กระบี่,เกาะลันตา,คลองยาง,เขาฝาก,20,8.2,25,Krabi,Ko Lanta,Khlong Yang
+2017-02-01,810205,กระบี่,เขาพนม,หน้าเขา,ห้วยน้ำแก้ว,15,10.65,77.5,Krabi,Khao Phanom,Na Khao
+2017-02-01,810407,กระบี่,คลองท่อม,เพหลา,พรุเตย,22.5,5.5,15,Krabi,Khlong Thom,Phela
+2017-02-01,810407,กระบี่,คลองท่อม,เพหลา,พรุเตียว,17.5,6.67,17.5,Krabi,Khlong Thom,Phela
+2017-02-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ทุ่งควนหิน,5,1.71,5,Krabi,Khlong Thom,Huai Nam Khao
+2017-02-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,12.5,8.21,27.5,Krabi,Mueang Krabi,Sai Thai
+2017-02-01,810702,กระบี่,ลำทับ,ดินอุดม,เขาดิน,15,3.19,15,Krabi,Lam Thap,Din Udom
+2017-02-01,810504,กระบี่,อ่าวลึก,คลองหิน,บน,7.5,5.81,25,Krabi,Ao Luek,Khlong Hin
+2017-02-01,801503,นครศรีธรรมราช,ขนอม,ท้องเนียน,ท่าจันทร์,20,10.21,72.5,Nakhon Si Thammarat,Khanom,Thong Nian
+2017-02-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,เหนือคลอง,23.33,2.98,23.33,Nakhon Si Thammarat,Chawang,Huai Prik
+2017-02-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ทุ่งโซน,11.67,6.48,49.17,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2017-02-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,อ่าวมิน,15,3.1,20,Nakhon Si Thammarat,Thung Song,Khao Khao
+2017-02-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,บนควน,25,4.01,27.5,Nakhon Si Thammarat,Thung Song,Thi Wang
+2017-02-01,800912,นครศรีธรรมราช,ทุ่งสง,นาโพธิ์,เกาะปราง,60,11.18,92.5,Nakhon Si Thammarat,Thung Song,Na Pho
+2017-02-01,800910,นครศรีธรรมราช,ทุ่งสง,น้ำตก,ถ้ำตลอด,17.5,4.64,27.5,Nakhon Si Thammarat,Thung Song,Namtok
+2017-02-01,802101,นครศรีธรรมราช,นบพิตำ,นบพิตำ,โรงเหล็ก,20,8.28,67.5,Nakhon Si Thammarat,Nopphitam,Nopphitam
+2017-02-01,801003,นครศรีธรรมราช,นาบอน,แก้วแสน,แก้วแสน,22.5,12.38,100,Nakhon Si Thammarat,Na Bon,Kaeo Saen
+2017-02-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ไร่ยาว,7.5,0.79,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2017-02-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,ช่องเหรียง,7.5,0.8,7.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2017-02-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ไสยาสน์,5,0.5,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2017-02-01,800203,นครศรีธรรมราช,พรหมคีรี,อินคีรี,น้ำแคบ,12.5,7.02,52.5,Nakhon Si Thammarat,Phrom Khiri,In Khiri
+2017-02-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยกลาง,18.75,2.53,18.75,Nakhon Si Thammarat,Phipun,Kathun
+2017-02-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,คีรีใหม่,10,4.76,42.5,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2017-02-01,801402,นครศรีธรรมราช,สิชล,ทุ่งปรัง,ทุ่งคา,12.5,7.51,55,Nakhon Si Thammarat,Sichon,Thung Prang
+2017-01-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,22.5,13.01,40,Krabi,Mueang Krabi,Sai Thai
+2017-01-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,ชายคลอง,17.5,2.16,17.5,Nakhon Si Thammarat,Chawang,Huai Prik
+2017-01-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ไม้เสียบ,10,8.11,60,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2017-01-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,วังเคียน,10,4.95,46.25,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2017-01-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนวัดใหม่,13.75,4.85,47.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2017-01-01,800711,นครศรีธรรมราช,ชะอวด,นางหลง,พรุบัว,7.5,4.44,40,Nakhon Si Thammarat,Cha-uat,Nang Long
+2017-01-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองนนทรีย์,12.5,4.96,47.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2017-01-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,อ่าวมิน,50,23.18,135,Nakhon Si Thammarat,Thung Song,Khao Khao
+2017-01-01,800907,นครศรีธรรมราช,ทุ่งสง,เขาโร,หนองปลิง,27.5,10.33,62.5,Nakhon Si Thammarat,Thung Song,Khao Ro
+2017-01-01,800904,นครศรีธรรมราช,ทุ่งสง,ควนกรด,ควนกรด,75,28.57,195,Nakhon Si Thammarat,Thung Song,Khuan Krot
+2017-01-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ชายคลอง,30,10.6,57.5,Nakhon Si Thammarat,Thung Song,Thi Wang
+2017-01-01,800912,นครศรีธรรมราช,ทุ่งสง,นาโพธิ์,นาโพธิ์,42.5,7.98,52.5,Nakhon Si Thammarat,Thung Song,Na Pho
+2017-01-01,800912,นครศรีธรรมราช,ทุ่งสง,นาโพธิ์,เกาะยวน,42.5,13.38,52.5,Nakhon Si Thammarat,Thung Song,Na Pho
+2017-01-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนประชาสรรค์,36.25,3.62,36.25,Nakhon Si Thammarat,Thung Yai,Kurae
+2017-01-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,จุฬาภรณ์พัฒนา 4,28.75,2.85,28.75,Nakhon Si Thammarat,Thung Yai,Kurae
+2017-01-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ปากแพรก,7.5,0.85,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2017-01-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ป่าเตย,5,0.61,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2017-01-01,801703,นครศรีธรรมราช,บางขัน,วังหิน,หนองเจ,7.5,0.79,7.5,Nakhon Si Thammarat,Bang Khan,Wang Hin
+2017-01-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยทรายขาว,20,2.11,20,Nakhon Si Thammarat,Phipun,Kathun
+2016-12-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,อ้ายเลา,12.5,4.89,42.5,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-12-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,ปากกา,15.19,2.2,15.19,Nakhon Si Thammarat,Chawang,Huai Prik
+2016-12-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,16,2.48,16,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-12-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนประ,7.5,0.82,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-12-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,นิคม,5,0.63,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-12-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,พานแพ,5,0.59,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-12-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยทรายขาว,20.83,2.38,20.83,Nakhon Si Thammarat,Phipun,Kathun
+2016-11-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ท่าไทร,5,2.32,20,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-11-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,กุแหระ,14.17,2.14,14.17,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-10-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ทุ่งโซน,12.5,6.3,42.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2016-10-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ห้วยยวน,10,6.28,37.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2016-10-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ดอนมะปรางค์,7.5,2.58,22.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2016-10-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนมิตร,5,2.01,17.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-10-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,12.5,1.97,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-10-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,15,2.08,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-10-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,17.5,2.67,17.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-10-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ไสเจาะป่า,20,3.01,20,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-09-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,เหนือคลอง,11.67,1.2,11.67,Nakhon Si Thammarat,Chawang,Huai Prik
+2016-09-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ควนสมบูรณ์,15,4.4,38.75,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2016-09-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองนนทรีย์,12.5,7.54,47.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-09-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,10,1.15,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-09-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คอกช้าง,7.5,0.68,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-09-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,นาตำเสา,7.5,0.72,7.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-09-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ควนหินราว,5,0.66,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-09-01,801703,นครศรีธรรมราช,บางขัน,วังหิน,สวน,10,1.09,10,Nakhon Si Thammarat,Bang Khan,Wang Hin
+2016-09-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,กะทูนใต้,8.75,0.81,8.75,Nakhon Si Thammarat,Phipun,Kathun
+2016-08-01,810402,กระบี่,คลองท่อม,คลองท่อมเหนือ,บางเตียว,15,6.06,25,Krabi,Khlong Thom,Khlong Thom Nuea
+2016-08-01,810403,กระบี่,คลองท่อม,คลองพน,ดินนา,20,6.34,22.5,Krabi,Khlong Thom,Khlong Phon
+2016-08-01,810403,กระบี่,คลองท่อม,คลองพน,หินเพิง,17.5,4.76,17.5,Krabi,Khlong Thom,Khlong Phon
+2016-08-01,810803,กระบี่,เหนือคลอง,คลองขนาน,คลองขนาน,6.67,3.02,20,Krabi,Nuea Khlong,Khlong Khanan
+2016-08-01,810803,กระบี่,เหนือคลอง,คลองขนาน,คลองขนาน,10,2.7,13.33,Krabi,Nuea Khlong,Khlong Khanan
+2016-08-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,เขายิก,10,3.47,28.75,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-08-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,อ้ายเลา,8.75,2.77,22.5,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-08-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,เหนือคลอง,10,3.59,28.75,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-08-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,ชายคลอง,10.83,1.76,10.83,Nakhon Si Thammarat,Chawang,Huai Prik
+2016-08-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,บ้านใสเหรียง,7.5,1.88,17.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2016-08-01,800707,นครศรีธรรมราช,ชะอวด,ขอนหาด,ตรอกแค,12.5,4.4,37.5,Nakhon Si Thammarat,Cha-uat,Khon Hat
+2016-08-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,กาโห่ใต้,8.75,2.67,23.75,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-08-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ทุ่งโป๊ะ,11.25,3.29,28.75,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-08-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ท่าประจะ,10,3.39,32.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2016-08-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ลำแบน,15,8.7,55,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2016-08-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,10,1.72,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-08-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,15,2.7,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-08-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,23.81,3.92,23.81,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-08-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,13.89,2.09,13.89,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-08-01,801003,นครศรีธรรมราช,นาบอน,แก้วแสน,แก้วแสน,20,9.05,73.33,Nakhon Si Thammarat,Na Bon,Kaeo Saen
+2016-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ปากแพรก,2.5,0.23,2.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,พรุเตย,5,0.61,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หนองแสง,5,0.56,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-08-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางปริก,5,0.55,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-08-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เกาะปล้าว,7.5,0.96,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-08-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยทรายขาว,11.25,1.66,11.25,Nakhon Si Thammarat,Phipun,Kathun
+2016-07-01,810115,กระบี่,เมืองกระบี่,ไสไทย,ไสไทย,20,8.91,30,Krabi,Mueang Krabi,Sai Thai
+2016-07-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,33.33,12.55,96.67,Krabi,Mueang Krabi,Sai Thai
+2016-07-01,800415,นครศรีธรรมราช,ฉวาง,นาเขลียง,นาเขลียง,12.5,1.92,12.5,Nakhon Si Thammarat,Chawang,Na Khliang
+2016-07-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ท่าแห้ง,10,1.47,10,Nakhon Si Thammarat,Chawang,Na Wae
+2016-07-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,วังโก,12.5,1.92,12.5,Nakhon Si Thammarat,Chawang,Na Wae
+2016-07-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ปากเปียด,15,2.51,15,Nakhon Si Thammarat,Chawang,Na Wae
+2016-07-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,เหนือคลอง,21.25,3.28,21.25,Nakhon Si Thammarat,Chawang,Huai Prik
+2016-07-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนหรัง,10,2.91,26.25,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-07-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังหอน,7.5,1.86,15,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-07-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,คลองใหญ่,7.5,2.69,20,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-07-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนมีชัย,8.75,2.88,22.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-07-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนไม้บ้อง,5,1.7,11.25,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-07-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ไสเตาอ้อย,5,0.48,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-07-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,บางขัน,7.5,0.74,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-07-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หนองแสง,5,0.48,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-07-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,นิคมสายสอง,5,0.48,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-07-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ไสยาสน์,5,0.5,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-07-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,คีรีใหม่,12.5,2.77,27.5,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2016-06-01,810115,กระบี่,เมืองกระบี่,ไสไทย,ไสไทย,36.67,13.39,150,Krabi,Mueang Krabi,Sai Thai
+2016-06-01,810115,กระบี่,เมืองกระบี่,ไสไทย,ไสไทย,16.67,8,73.33,Krabi,Mueang Krabi,Sai Thai
+2016-06-01,730616,นครปฐม,สามพราน,อ้อมใหญ่,อ้อมใหญ่,0,0,0,Nakhon Pathom,Sam Phran,Om Yai
+2016-06-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,เหนือคลอง,15.83,3.12,15.83,Nakhon Si Thammarat,Chawang,Huai Prik
+2016-06-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ควนดินแดง,7.5,1.57,17.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2016-06-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,บ้านใสเหรียง,7.5,2.46,22.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2016-06-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขาพระทอง,15,3.24,30,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2016-06-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,วังเคียน,8.75,2.47,20,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2016-06-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขากอย,11.25,3.63,30,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2016-06-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ชายคลอง,7.5,1.86,12.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2016-06-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ทุ่งไม้ใผ่,10,2.31,18.75,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2016-06-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,11.25,1.97,11.25,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-06-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,9.01,1.45,9.01,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-06-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,เสม็ดจวน,12.5,1.83,12.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-06-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนแดง,15,2.18,15,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-06-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,หนองคล้า,10,1.43,10,Nakhon Si Thammarat,Thung Yai,Prik
+2016-06-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ไสเทียม,17.5,2.43,17.5,Nakhon Si Thammarat,Thung Yai,Prik
+2016-06-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,อวดพัน,15,2.26,15,Nakhon Si Thammarat,Thung Yai,Prik
+2016-06-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,พรุเตย,5,0.57,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-06-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ไร่ยาว,5,0.57,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-06-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หน้าเขา,7.5,0.84,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-06-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,ช่องเหรียง,5,0.53,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-06-01,801703,นครศรีธรรมราช,บางขัน,วังหิน,น้ำร้อน,7.5,0.84,7.5,Nakhon Si Thammarat,Bang Khan,Wang Hin
+2016-06-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยกลาง,15,2.31,15,Nakhon Si Thammarat,Phipun,Kathun
+2016-06-01,800113,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ไชยมนตรี,หนองบัว,16.67,7.51,53.33,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Chai Montri
+2016-05-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,เหนือคลอง,22.5,3.49,22.5,Nakhon Si Thammarat,Chawang,Huai Prik
+2016-05-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,กาโห่ใต้,11.25,3.36,23.75,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-05-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนวัดใหม่,7.5,2.3,16.25,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-05-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนหนองหงษ์,5,1.64,12.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-05-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ทุ่งโป๊ะ,6.25,2.01,15,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-05-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,กาโห่เหนือ,10,2.56,21.25,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-05-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,บ่อปลา,31.25,4.84,31.25,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-05-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,12.2,1.76,12.2,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-05-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ป่าไม้,15,2.31,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-05-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,17.5,2.4,17.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-05-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,15,2.7,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-05-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนประชาสรรค์,30,4.27,30,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-05-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,จุฬาภรณ์พัฒนา 4,22.5,3.67,22.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-05-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนแดง,20,3.19,20,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-05-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนตอ,7.5,0.81,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-05-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ไร่ยาว,5,0.58,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-05-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,นิคมสายสอง,5,0.47,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-05-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เคี่ยมงาม,7.5,0.86,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-05-01,801703,นครศรีธรรมราช,บางขัน,วังหิน,น้ำหัก,7.5,0.81,7.5,Nakhon Si Thammarat,Bang Khan,Wang Hin
+2016-05-01,760208,เพชรบุรี,เขาย้อย,ห้วยโรง,ห้วยโรง,3,0.59,3,Phetchaburi,Khao Yoi,Huai Rong
+2016-05-01,750209,สมุทรสงคราม,บางคนที,จอมปลวก,จอมปลวก,7,1.7,10,Samut Songkhram,Bang Khonthi,Chom Pluak
+2016-04-01,810304,กระบี่,เกาะลันตา,คลองยาง,คลองยาง,10,5,23.33,Krabi,Ko Lanta,Khlong Yang
+2016-04-01,810406,กระบี่,คลองท่อม,พรุดินนา,พรุดินนา,7.5,2.45,10,Krabi,Khlong Thom,Phru Din Na
+2016-04-01,810407,กระบี่,คลองท่อม,เพหลา,เพหลาเหนือ,7.5,1.75,7.5,Krabi,Khlong Thom,Phela
+2016-04-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,บ้านตูล,12.5,4.11,28.75,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2016-04-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ควนเงิน,10,3.37,27.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2016-04-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,กุมแป,13.75,4.15,32.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2016-04-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,วังกลม,8.75,2.17,13.75,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2016-04-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,หนองยาว,11.25,3.42,22.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2016-04-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังอ่าง,5,2.24,17.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-04-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองนนทรีย์,7.5,1.59,11.25,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-04-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,คลองใหญ่,7.5,2.96,15,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-04-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนมีชัย,7.5,4.41,22.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,15,2.84,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,15,2.7,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,23.81,3.92,23.81,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,13.89,2.18,13.89,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-04-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,พรุเตย,5,0.65,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางจันสี,7.5,0.87,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,พานแพ,7.5,0.7,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ควนหินราว,5,0.5,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-04-01,801703,นครศรีธรรมราช,บางขัน,วังหิน,ห้วยบ้าน,2.5,0.26,2.5,Nakhon Si Thammarat,Bang Khan,Wang Hin
+2016-04-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ปากจัง,18.75,2.69,18.75,Nakhon Si Thammarat,Phipun,Kathun
+2016-04-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยทรายขาว,17.5,3.01,17.5,Nakhon Si Thammarat,Phipun,Kathun
+2016-03-01,810302,กระบี่,เกาะลันตา,เกาะลันตาน้อย,คลองหมาก,50,14.64,87.5,Krabi,Ko Lanta,Ko Lanta Noi
+2016-03-01,810304,กระบี่,เกาะลันตา,คลองยาง,คลองยาง,27.5,8.46,42.5,Krabi,Ko Lanta,Khlong Yang
+2016-03-01,730213,นครปฐม,กำแพงแสน,รางพิกุล,รางพิกุล,0,0,0,Nakhon Pathom,Kamphaeng Saen,Rang Phikun
+2016-03-01,730402,นครปฐม,ดอนตูม,ห้วยพระ,ห้วยพระ,0,0,0,Nakhon Pathom,Don Tum,Huai Phra
+2016-03-01,730303,นครปฐม,นครชัยศรี,วัดแค,วัดแค,0,0,0,Nakhon Pathom,Nakhon Chai Si,Wat Khae
+2016-03-01,730607,นครปฐม,สามพราน,บางช้าง,บางช้าง,0,0,0,Nakhon Pathom,Sam Phran,Bang Chang
+2016-03-01,801503,นครศรีธรรมราช,ขนอม,ท้องเนียน,เตล็ด,10,2.4,16.67,Nakhon Si Thammarat,Khanom,Thong Nian
+2016-03-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,เหนือคลอง,8.75,1.81,15,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-03-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,เหนือคลอง,16.67,1.96,16.67,Nakhon Si Thammarat,Chawang,Huai Prik
+2016-03-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,เหนือคลอง,15,2.35,15,Nakhon Si Thammarat,Chawang,Huai Prik
+2016-03-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนหนองหงษ์,11.25,2.55,22.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-03-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ทุ่งโป๊ะ,7.5,1.94,15,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-03-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ลำแบน,7.5,1.95,16.25,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2016-03-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ดอนมะปรางค์,7.5,1.52,12.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2016-03-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนหรัง,12.5,3.46,32.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-03-01,800611,นครศรีธรรมราช,เชียรใหญ่,การะเกด,ท่าลิพง,12.5,3.07,32.5,Nakhon Si Thammarat,Chian Yai,Karaket
+2016-03-01,800809,นครศรีธรรมราช,ท่าศาลา,ไทยบุรี,ประตูข้าง,10,4.37,33.33,Nakhon Si Thammarat,Tha Sala,Thai Buri
+2016-03-01,800902,นครศรีธรรมราช,ทุ่งสง,ชะมาย,ดานบาป,6.67,1.4,6.67,Nakhon Si Thammarat,Thung Song,Chamai
+2016-03-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,12.5,1.97,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-03-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,12.5,2.18,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-03-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,17.5,2.64,17.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-03-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ไสเจาะป่า,20,2.94,20,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-03-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,เสม็ดจวน,12.5,1.92,12.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-03-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,พรุนูด,15,2.63,15,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-03-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนแดง,15,2.74,15,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-03-01,801101,นครศรีธรรมราช,ทุ่งใหญ่,ท่ายาง,ยางสองขอน,12.5,1.93,12.5,Nakhon Si Thammarat,Thung Yai,Tha Yang
+2016-03-01,801101,นครศรีธรรมราช,ทุ่งใหญ่,ท่ายาง,กรุงหยันใต้,12.5,2.06,12.5,Nakhon Si Thammarat,Thung Yai,Tha Yang
+2016-03-01,802102,นครศรีธรรมราช,นบพิตำ,กรุงชิง,เปียน,10,2.94,10,Nakhon Si Thammarat,Nopphitam,Krung Ching
+2016-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ไร่ยาว,10,4.3,27.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนประหน้าเขา,5,0.44,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-03-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,เขาวง,15,0.96,15,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-03-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,ควนไทร,7.5,0.63,7.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-03-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,พรุพรี,7.5,0.65,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-03-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ป่าเตย,10,0.87,10,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-03-01,800201,นครศรีธรรมราช,พรหมคีรี,พรหมโลก,ในหมง,17.5,4.18,30,Nakhon Si Thammarat,Phrom Khiri,Phrom Lok
+2016-03-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยกลาง,20,2.11,20,Nakhon Si Thammarat,Phipun,Kathun
+2016-03-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยกลาง,21.67,3.2,20.83,Nakhon Si Thammarat,Phipun,Kathun
+2016-03-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,ขุนพัง,8.75,2.87,22.5,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2016-03-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,พรุชิง,7.5,2.75,20,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2016-03-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,คีรีใหม่,8.75,2.59,23.75,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2016-03-01,800303,นครศรีธรรมราช,ลานสกา,ท่าดี,มะม่วงทอง,13.33,4.64,30,Nakhon Si Thammarat,Lan Saka,Tha Di
+2016-03-01,801404,นครศรีธรรมราช,สิชล,เสาเภา,ต้นเหรียง,16.67,6.44,50,Nakhon Si Thammarat,Sichon,Sao Phao
+2016-03-01,801604,นครศรีธรรมราช,หัวไทร,แหลม,ท่าเตียน,7.5,1.46,12.5,Nakhon Si Thammarat,Hua Sai,Laem
+2016-03-01,700803,ราชบุรี,ปากท่อ,ดอนทราย,ดอนทราย,14,5.18,20,Ratchaburi,Pak Tho,Don Sai
+2016-03-01,740303,สมุทรสาคร,บ้านแพ้ว,ยกกระบัตร,หมูทอด,0,0,0,Samut Sakhon,Ban Phaeo,Yok Krabat
+2016-03-01,740302,สมุทรสาคร,บ้านแพ้ว,หลักสาม,ทุ่งอินทรีย์,0,0,0,Samut Sakhon,Ban Phaeo,Lak Sam
+2016-02-01,810111,กระบี่,เมืองกระบี่,ทับปริก,ทับปริก,7.5,3,20,Krabi,Mueang Krabi,Thap Prik
+2016-02-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,15,5.05,25,Krabi,Mueang Krabi,Sai Thai
+2016-02-01,810504,กระบี่,อ่าวลึก,คลองหิน,บน,15,2.47,20,Krabi,Ao Luek,Khlong Hin
+2016-02-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,เขายิก,10,3.15,27.5,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-02-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,เหนือคลอง,8.75,2.8,23.75,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-02-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,คอนตอ,12.5,3.81,31.25,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-02-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ลำแบน,15,4.37,38.75,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2016-02-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ดอนมะปรางค์,11.25,2.71,23.75,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2016-02-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ท่าไทร,5,2.19,20,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-02-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองนนทรีย์,10,3.96,32.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-02-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองบัว,7.5,2.62,20,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-02-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนมิตร,10,4.33,35,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2016-02-01,800801,นครศรีธรรมราช,ท่าศาลา,ท่าศาลา,หน้าทับ,20,8.46,67.5,Nakhon Si Thammarat,Tha Sala,Tha Sala
+2016-02-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,22.5,3.36,22.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-02-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,12.5,2.18,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-02-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนประชาสรรค์,20,3.19,22.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-02-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,เสม็ดจวน,30,4.36,30,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-02-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,จุฬาภรณ์พัฒนา 4,22.5,3.67,22.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-02-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนแดง,17.5,2.66,17.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-02-01,801101,นครศรีธรรมราช,ทุ่งใหญ่,ท่ายาง,บางตะเภา,22.5,3.44,22.5,Nakhon Si Thammarat,Thung Yai,Tha Yang
+2016-02-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ไสเทียม,20,3.54,20,Nakhon Si Thammarat,Thung Yai,Prik
+2016-02-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ไร่มุสลิม,30,5.17,30,Nakhon Si Thammarat,Thung Yai,Prik
+2016-02-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,เหนือคลอง,37.5,6.2,37.5,Nakhon Si Thammarat,Thung Yai,Prik
+2016-02-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คอกช้าง,7.5,0.65,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-02-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ไสเตาอ้อย,5,0.45,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-02-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,บ้านนาตำเสา,5,0.36,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-02-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,น้ำนิ่ง,7.5,0.6,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-02-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ควนหินราว,7.5,0.77,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-02-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ปากจัง,26.67,3.63,26.67,Nakhon Si Thammarat,Phipun,Kathun
+2016-02-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยกลาง,26.25,3.16,26.25,Nakhon Si Thammarat,Phipun,Kathun
+2016-02-01,800118,นครศรีธรรมราช,เมืองนครศรีธรรมราช,โพธิ์เสด็จ,ทุ่งแย้,7.5,2.57,17.5,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pho Sadet
+2016-02-01,800305,นครศรีธรรมราช,ลานสกา,ขุนทะเล,คดศอก,17.5,4.09,32.5,Nakhon Si Thammarat,Lan Saka,Khun Thale
+2016-02-01,770206,ประจวบคีรีขันธ์,กุยบุรี,สามกระทาย,นาวัลเปรียง,29,8.05,43,Prachuap Khiri Khan,Kui Buri,Sam Krathai
+2016-02-01,760208,เพชรบุรี,เขาย้อย,ห้วยโรง,ห้วยโรง,16,3.42,20,Phetchaburi,Khao Yoi,Huai Rong
+2016-02-01,700405,ราชบุรี,ดำเนินสะดวก,ดอนกรวย,ดอนกรวย,0,0,0,Ratchaburi,Damnoen Saduak,Don Kruai
+2016-02-01,700607,ราชบุรี,บางแพ,โพหัก,โพหัก,0,0,0,Ratchaburi,Bang Phae,Pho Hak
+2016-02-01,750209,สมุทรสงคราม,บางคนที,จอมปลวก,จอมปลวก,6,1.83,7,Samut Songkhram,Bang Khonthi,Chom Pluak
+2016-02-01,740203,สมุทรสาคร,กระทุ่มแบน,ท่าไม้,หัวแค,0,0,0,Samut Sakhon,Krathum Baen,Tha Mai
+2016-02-01,740303,สมุทรสาคร,บ้านแพ้ว,ยกกระบัตร,หมูทอด,0,0,0,Samut Sakhon,Ban Phaeo,Yok Krabat
+2016-01-01,810403,กระบี่,คลองท่อม,คลองพน,ท่ามะพร้าว,15,8.18,32.5,Krabi,Khlong Thom,Khlong Phon
+2016-01-01,810116,กระบี่,เมืองกระบี่,อ่าวนาง,ช่องพลี,14,6.14,37,Krabi,Mueang Krabi,Ao Nang
+2016-01-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,โคกแร่,10,3.23,32.5,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-01-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,ใสหินตั้ง,13.75,3.92,40,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-01-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,เตาปูน,11.25,4.22,42.5,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2016-01-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ลานนา,5,0.74,7.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2016-01-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ควนดินแดง,7.5,1.75,17.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2016-01-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ท่าข้าม,13.75,3.98,38.75,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2016-01-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ควนเงิน,11.25,3.39,31.25,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2016-01-01,800907,นครศรีธรรมราช,ทุ่งสง,เขาโร,นาบัวทอง,14,5.13,36,Nakhon Si Thammarat,Thung Song,Khao Ro
+2016-01-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,บ่อปลา,15,1.95,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-01-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,10,1.12,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-01-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ป่าไม้,15,2.14,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-01-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,10,1.4,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2016-01-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนประชาสรรค์,15,1.91,15,Nakhon Si Thammarat,Thung Yai,Kurae
+2016-01-01,801101,นครศรีธรรมราช,ทุ่งใหญ่,ท่ายาง,ยางสองขอน,15,2.18,15,Nakhon Si Thammarat,Thung Yai,Tha Yang
+2016-01-01,801101,นครศรีธรรมราช,ทุ่งใหญ่,ท่ายาง,กรุงหยันใต้,12.5,2.1,12.5,Nakhon Si Thammarat,Thung Yai,Tha Yang
+2016-01-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ไสใหญ่,17.5,2.72,17.5,Nakhon Si Thammarat,Thung Yai,Prik
+2016-01-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,อวดพัน,22.5,3.11,22.5,Nakhon Si Thammarat,Thung Yai,Prik
+2016-01-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คลองเสาเหนือ,7.5,0.79,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-01-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ทับกลาง,5,0.47,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2016-01-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,นิคมสายสอง,5,0.41,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-01-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,นาตำเสา,5,0.38,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2016-01-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางปริก,5,0.49,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2016-01-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,บ่อขรบ,12,7.57,52,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2016-01-01,800502,นครศรีธรรมราช,พิปูน,กะทูน,ห้วยกลาง,29.17,3.7,29.17,Nakhon Si Thammarat,Phipun,Kathun
+2016-01-01,800503,นครศรีธรรมราช,พิปูน,เขาพระ,ห้วยตรีต,21.25,3.08,21.25,Nakhon Si Thammarat,Phipun,Khao Phra
+2016-01-01,800106,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าไร่,ท่าไร่,15,7.68,68,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Tha Rai
+2015-12-01,810403,กระบี่,คลองท่อม,คลองพน,ดินนา,22.5,5.52,22.5,Krabi,Khlong Thom,Khlong Phon
+2015-12-01,810116,กระบี่,เมืองกระบี่,อ่าวนาง,ช่องพลี,23.64,12.69,61.82,Krabi,Mueang Krabi,Ao Nang
+2015-12-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,ทุ่งโพธิ์,12.5,5.5,40,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2015-12-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,โคกแร่,10,3.77,27.5,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2015-12-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,เขายิก,10,4.55,35,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2015-12-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,ใสหินตั้ง,10,4.89,40,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2015-12-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,เตาปูน,10,5.7,45,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2015-12-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,กาโห่ใต้,7.5,2.86,20,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-12-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนวัดใหม่,10,4.39,35,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-12-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนหนองหงษ์,10,5.26,40,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-12-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ทุ่งโป๊ะ,5,1.76,12.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-12-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,กาโห่เหนือ,10,5.17,37.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-12-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ท่าไทร,7.5,1.84,20,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2015-12-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนมิตร,10,3.13,30,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2015-12-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ป่าไม้,10,1.61,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-12-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,11.25,2.34,11.25,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-12-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,กุแหระ,7.5,1.28,7.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-12-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,สองแพรก,8.75,1.57,8.75,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-12-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,เสม็ดจวน,15,2.38,15,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-12-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,หนองคล้า,7.5,1.26,7.5,Nakhon Si Thammarat,Thung Yai,Prik
+2015-12-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ควนอุโบสถ,12.5,1.97,12.5,Nakhon Si Thammarat,Thung Yai,Prik
+2015-12-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,อวดพัน,15,2.58,15,Nakhon Si Thammarat,Thung Yai,Prik
+2015-12-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คลองลำนาว,10,1.19,10,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-12-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หนองแสง,5,0.47,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-12-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนออก,2.5,0.23,2.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-12-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,ควนไทร,5,0.59,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2015-12-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เหนือโตน,7.5,0.7,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-11-01,810116,กระบี่,เมืองกระบี่,อ่าวนาง,ช่องพลี,20,5.37,20,Krabi,Mueang Krabi,Ao Nang
+2015-11-01,800907,นครศรีธรรมราช,ทุ่งสง,เขาโร,ทุ่งควาย,17.5,8.97,65,Nakhon Si Thammarat,Thung Song,Khao Ro
+2015-11-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนแดง,12.5,1.81,12.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-11-01,801101,นครศรีธรรมราช,ทุ่งใหญ่,ท่ายาง,บางตะเภา,15,2.17,15,Nakhon Si Thammarat,Thung Yai,Tha Yang
+2015-11-01,801102,นครศรีธรรมราช,ทุ่งใหญ่,ทุ่งสัง,ภูเขาหลัก,12.5,1.84,12.5,Nakhon Si Thammarat,Thung Yai,Thung Sang
+2015-11-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,หนองคล้า,17.5,2.94,17.5,Nakhon Si Thammarat,Thung Yai,Prik
+2015-11-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ไสใหญ่,15,2.21,15,Nakhon Si Thammarat,Thung Yai,Prik
+2015-11-01,800112,นครศรีธรรมราช,เมืองนครศรีธรรมราช,กำแพงเซา,ย่านซื่อ,27.5,5.79,57.5,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Kamphaeng Sao
+2015-11-01,800114,นครศรีธรรมราช,เมืองนครศรีธรรมราช,มะม่วงสองต้น,คลองลาว,32.5,5.2,57.5,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Mamuang Song Ton
+2015-10-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,บ่อปลา,15,2.63,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-10-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,7.5,1.34,7.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-10-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,10,1.56,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-10-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ปริก,12.5,1.97,12.5,Nakhon Si Thammarat,Thung Yai,Prik
+2015-10-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ไสใหญ่,17.5,2.88,17.5,Nakhon Si Thammarat,Thung Yai,Prik
+2015-09-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ห้วยน้ำขาว,15,6.25,25,Krabi,Khlong Thom,Huai Nam Khao
+2015-09-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ไม้เสียบ,7.5,1.6,15,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2015-09-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ห้วยปรง,7.5,3.11,27.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2015-09-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนหนองหงษ์,12.5,4.12,35,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-09-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,กาโห่ใต้,10,3.9,30,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-09-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนวัดใหม่,10,4.33,35,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-09-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนหนองหงษ์,12.5,4.08,35,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-09-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ทุ่งโป๊ะ,10,3.95,32.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-09-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,17.5,2.41,17.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-09-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,12.9,2.2,12.9,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-09-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,15,1.79,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-09-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,10,1.6,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-09-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,10,1.96,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-09-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,หนองคล้า,20,2.61,20,Nakhon Si Thammarat,Thung Yai,Prik
+2015-09-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ไสใหญ่,15,2.1,15,Nakhon Si Thammarat,Thung Yai,Prik
+2015-08-01,810116,กระบี่,เมืองกระบี่,อ่าวนาง,อ่าวนาง,17.5,4,22.5,Krabi,Mueang Krabi,Ao Nang
+2015-08-01,810116,กระบี่,เมืองกระบี่,อ่าวนาง,คลองแห้ง,7.5,6.25,27.5,Krabi,Mueang Krabi,Ao Nang
+2015-08-01,810704,กระบี่,ลำทับ,ดินแดง,เขาไว้ข้าว,60,15.25,90,Krabi,Lam Thap,Din Daeng
+2015-08-01,810701,กระบี่,ลำทับ,ลำทับ,ลำทับ,40,12.7,80,Krabi,Lam Thap,Lam Thap
+2015-08-01,361401,ชัยภูมิ,ภักดีชุมพล,บ้านเจียง,บ้านเจียง,2.5,0.32,2.5,Chaiyaphum,Phakdi Chumphon,Ban Chiang
+2015-08-01,361401,ชัยภูมิ,ภักดีชุมพล,บ้านเจียง,บ้านเจียง,5,0.64,5,Chaiyaphum,Phakdi Chumphon,Ban Chiang
+2015-08-01,361401,ชัยภูมิ,ภักดีชุมพล,บ้านเจียง,บ้านเจียง,7.5,10.45,70,Chaiyaphum,Phakdi Chumphon,Ban Chiang
+2015-08-01,361401,ชัยภูมิ,ภักดีชุมพล,บ้านเจียง,บ้านเจียง,7.5,1.27,10,Chaiyaphum,Phakdi Chumphon,Ban Chiang
+2015-08-01,801905,นครศรีธรรมราช,จุฬาภรณ์,นาหมอบุญ,บ้านทุ่งบก,10,3.99,32.5,Nakhon Si Thammarat,Chulabhorn,Na Mo Bun
+2015-08-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,วังเคียน,10,3.69,30,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2015-08-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนวัดใหม่,7.5,2.54,20,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-08-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,กาโห่เหนือ,10,3.93,32.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-08-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ท่าข้าม,12.5,4.62,40,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-08-01,800701,นครศรีธรรมราช,ชะอวด,ชะอวด,ทุ่งค่าย,12.5,3.84,42.5,Nakhon Si Thammarat,Cha-uat,Cha-Uat
+2015-08-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ลำแบน,15,4.41,55,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2015-08-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,บ่อปลา,17.5,2.35,17.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-08-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,9.9,1.65,9.9,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-08-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยันใต้,10,1.72,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-08-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,12.5,2.51,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-08-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,บางปรน,15,2.78,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ทับกลาง,7.5,0.56,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,บ้านพุหว้า,5,0.5,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-08-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,นิคมสายสอง,2.5,0.25,2.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2015-08-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,น้ำนิ่ง,5,0.47,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-08-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ควนหินราว,5,0.52,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-07-01,810401,กระบี่,คลองท่อม,คลองท่อมใต้,หน้าค่าย,7.5,2.1,7.5,Krabi,Khlong Thom,Khlong Thom Tai
+2015-07-01,810704,กระบี่,ลำทับ,ดินแดง,ดินแดง,73.33,28.67,236.67,Krabi,Lam Thap,Din Daeng
+2015-07-01,361208,ชัยภูมิ,แก้งคร้อ,เก่าย่าดี,ท่ากอก,12.5,3.93,22.5,Chaiyaphum,Kaeng Khro,Kao Ya Di
+2015-07-01,361208,ชัยภูมิ,แก้งคร้อ,เก่าย่าดี,หลุบช้างพลาย,12.5,7.17,45,Chaiyaphum,Kaeng Khro,Kao Ya Di
+2015-07-01,361208,ชัยภูมิ,แก้งคร้อ,เก่าย่าดี,ภูสองชั้น,7.5,1.97,10,Chaiyaphum,Kaeng Khro,Kao Ya Di
+2015-07-01,360306,ชัยภูมิ,คอนสวรรค์,บ้านโสก,บ้านโสก,0,0,0,Chaiyaphum,Khon Sawan,Ban Sok
+2015-07-01,360306,ชัยภูมิ,คอนสวรรค์,บ้านโสก,บ้านโสก,0,0,0,Chaiyaphum,Khon Sawan,Ban Sok
+2015-07-01,360306,ชัยภูมิ,คอนสวรรค์,บ้านโสก,บ้านโสก,0,0,0,Chaiyaphum,Khon Sawan,Ban Sok
+2015-07-01,361008,ชัยภูมิ,ภูเขียว,หนองตูม,สว่าง,0,0,0,Chaiyaphum,Phu Khiao,Nong Tum
+2015-07-01,361008,ชัยภูมิ,ภูเขียว,หนองตูม,หนองหญ้าข้าวนก,5,0.55,5,Chaiyaphum,Phu Khiao,Nong Tum
+2015-07-01,361008,ชัยภูมิ,ภูเขียว,หนองตูม,หนองหญ้ารังกา,0,0,0,Chaiyaphum,Phu Khiao,Nong Tum
+2015-07-01,361008,ชัยภูมิ,ภูเขียว,หนองตูม,โนนทัน,0,0,0,Chaiyaphum,Phu Khiao,Nong Tum
+2015-07-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ทุ่งไม้ใผ่,10,3.59,30,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2015-07-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ทุ่งโซน,10,4.12,35,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2015-07-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ห้วยยวน,7.5,2.75,22.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2015-07-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ท่าข้าม,12.5,5.62,47.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-07-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนมีชัย,12.5,4.41,37.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2015-07-01,800902,นครศรีธรรมราช,ทุ่งสง,ชะมาย,คลองเขเปล,33.82,6.6,30.88,Nakhon Si Thammarat,Thung Song,Chamai
+2015-07-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,10,1.75,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-07-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,20,2.75,20,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-07-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยันใต้,10,1.5,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-07-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยันใต้,10,1.48,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-07-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,12.5,1.99,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-07-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,15,2.55,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-07-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,12.5,1.76,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-07-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,7.5,1.01,7.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-07-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนแดง,15,2.37,15,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-07-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ควนลำภู,15,2.39,15,Nakhon Si Thammarat,Thung Yai,Prik
+2015-07-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนตอ,5,0.46,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-07-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ทับกลาง,5,0.47,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-07-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางจันสี,2.5,0.31,2.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-07-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ไสยาสน์,7.5,0.64,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-07-01,801703,นครศรีธรรมราช,บางขัน,วังหิน,ห้วยบ้าน,2.5,0.24,2.5,Nakhon Si Thammarat,Bang Khan,Wang Hin
+2015-06-01,810304,กระบี่,เกาะลันตา,คลองยาง,ไท,12.5,2.87,12.5,Krabi,Ko Lanta,Khlong Yang
+2015-06-01,810704,กระบี่,ลำทับ,ดินแดง,ปลายทาง,60,42.53,370,Krabi,Lam Thap,Din Daeng
+2015-06-01,810704,กระบี่,ลำทับ,ดินแดง,ปลายทับใหม่,33.05,6.6,47.46,Krabi,Lam Thap,Din Daeng
+2015-06-01,810704,กระบี่,ลำทับ,ดินแดง,ทุ่งคาทอง,78.1,46.01,328.47,Krabi,Lam Thap,Din Daeng
+2015-06-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ตูล,10,3.92,32.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2015-06-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ควนเงิน,12.5,4.91,42.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2015-06-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,กุมแป,7.5,1.78,15,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2015-06-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,วังกลม,10,3.47,30,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2015-06-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,หนองยาว,10,4.59,37.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2015-06-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ชายคลอง,17.5,7.95,47.5,Nakhon Si Thammarat,Thung Song,Thi Wang
+2015-06-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,นาเปลี่ยน,22.5,6.77,45,Nakhon Si Thammarat,Thung Song,Thi Wang
+2015-06-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,วังยวน,12.5,7.79,45,Nakhon Si Thammarat,Thung Song,Thi Wang
+2015-06-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,7.5,1.12,7.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-06-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,17.5,2.54,17.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-06-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,10,1.78,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-06-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,11.25,1.57,11.25,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-06-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,สองแพรก,15,2.43,15,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-06-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ปากแพรก,5,0.61,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-06-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนประ,5,0.52,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-06-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หนองแสง,7.5,0.66,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-06-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางปริก,5,0.51,5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-06-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เกาะปล้าว,2.5,0.31,2.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-05-01,810305,กระบี่,เกาะลันตา,ศาลาด่าน,ศาลาด่าน,15,5.04,17,Krabi,Ko Lanta,Sala Dan
+2015-05-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,นา,20,5.64,23,Krabi,Khlong Thom,Huai Nam Khao
+2015-05-01,810501,กระบี่,อ่าวลึก,อ่าวลึกใต้,ห้วยปริศนา,0,0,0,Krabi,Ao Luek,Ao Luek Tai
+2015-05-01,500403,เชียงใหม่,เชียงดาว,เมืองงาย,ใหม่,9,2.75,16,Chiang Mai,Chiang Dao,Mueang Ngai
+2015-05-01,500403,เชียงใหม่,เชียงดาว,เมืองงาย,สบงาย,18,4.13,27,Chiang Mai,Chiang Dao,Mueang Ngai
+2015-05-01,801501,นครศรีธรรมราช,ขนอม,ขนอม,บางโหนด,5,0.93,5,Nakhon Si Thammarat,Khanom,Khanom
+2015-05-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ห้วยทรายขาว,9,2.91,30,Nakhon Si Thammarat,Chawang,Na Wae
+2015-05-01,802304,นครศรีธรรมราช,เฉลิมพระเกียรติ,ทางพูน,ทางพูน,10,2.35,10,Nakhon Si Thammarat,Chaloem Phra Kiet,Thang Phun
+2015-05-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนหนองหงษ์,7.5,1.74,15,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2015-05-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนมีชัย,10,2.57,25,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2015-05-01,802201,นครศรีธรรมราช,ช้างกลาง,ช้างกลาง,หน้าเหมน,11,2.24,21,Nakhon Si Thammarat,Chang Klang,Chang Klang
+2015-05-01,800607,นครศรีธรรมราช,เชียรใหญ่,ท้องลำเจียก,คลองขวาง,13,1.24,15,Nakhon Si Thammarat,Chian Yai,Thong Lamchiak
+2015-05-01,801801,นครศรีธรรมราช,ถ้ำพรรณรา,ถ้ำพรรณรา,ทุ่งคางิ้ว,15,2.96,27,Nakhon Si Thammarat,Tham Phannara,Tham Phannara
+2015-05-01,800806,นครศรีธรรมราช,ท่าศาลา,สระแก้ว,สระแก้ว,9,1.86,9,Nakhon Si Thammarat,Tha Sala,Sa Kaeo
+2015-05-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,อ่าวมิน,23,4.36,29,Nakhon Si Thammarat,Thung Song,Khao Khao
+2015-05-01,802101,นครศรีธรรมราช,นบพิตำ,นบพิตำ,โรงเหล็ก,8,4.39,28,Nakhon Si Thammarat,Nopphitam,Nopphitam
+2015-05-01,800204,นครศรีธรรมราช,พรหมคีรี,ทอนหงส์,ในเขียว 1,9,5.49,32,Nakhon Si Thammarat,Phrom Khiri,Thon Hong
+2015-05-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,นาพรุ,6,1.74,6,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2015-05-01,800503,นครศรีธรรมราช,พิปูน,เขาพระ,ห้วยตรีต,10,1.54,15,Nakhon Si Thammarat,Phipun,Khao Phra
+2015-05-01,800115,นครศรีธรรมราช,เมืองนครศรีธรรมราช,นาเคียน,ห้วยทะเล,9,5.85,38,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Na Khian
+2015-05-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,ขุนพัง,2,0.59,6,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2015-05-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,บ้านวังโหล,7,5.68,34,Nakhon Si Thammarat,Lan Saka,Kamlon
+2015-05-01,801402,นครศรีธรรมราช,สิชล,ทุ่งปรัง,ทุ่งปรัง,7,1.28,7,Nakhon Si Thammarat,Sichon,Thung Prang
+2015-05-01,801602,นครศรีธรรมราช,หัวไทร,หน้าสตน,หน้าศาล,4,0.58,8,Nakhon Si Thammarat,Hua Sai,Na Saton
+2015-05-01,760801,เพชรบุรี,แก่งกระจาน,แก่งกระจาน,ท่าเรือ,0,0,0,Phetchaburi,Kaeng Krachan,Kaeng Krachan
+2015-05-01,510702,ลำพูน,บ้านธิ,ห้วยยาบ,ห้วยยาบ,4.94,1.65,6.17,Lamphun,Ban Thi,Huai Yap
+2015-05-01,510702,ลำพูน,บ้านธิ,ห้วยยาบ,ห้วยไซ,23,6.85,44,Lamphun,Ban Thi,Huai Yap
+2015-04-01,810402,กระบี่,คลองท่อม,คลองท่อมเหนือ,คลองท่อมเหนือ,45,10.21,60,Krabi,Khlong Thom,Khlong Thom Nuea
+2015-04-01,630701,ตาก,พบพระ,พบพระ,พบพระ,0,0,0,Tak,Phop Phra,Phop Phra
+2015-04-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนสวรรค์,17.5,2.64,17.5,Nakhon Si Thammarat,Chawang,Na Wae
+2015-04-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนยูง,12.5,1.95,12.5,Nakhon Si Thammarat,Chawang,Na Wae
+2015-04-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ห้วยทรายขาว,15,2.26,15,Nakhon Si Thammarat,Chawang,Na Wae
+2015-04-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ห้วยทรายขาว,20,2.88,20,Nakhon Si Thammarat,Chawang,Na Wae
+2015-04-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขาพระทอง,10,4.15,32.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2015-04-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,วังเคียน,15,3.92,30,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2015-04-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขากอย,7.5,2.05,15,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2015-04-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ชายคลอง,10,4.32,32.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2015-04-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ทุ่งไม้ใผ่,12.5,5.3,40,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2015-04-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,พรุนา,17.5,4.76,37.5,Nakhon Si Thammarat,Thung Song,Khao Khao
+2015-04-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,สหกรณ์,12.5,4.99,45,Nakhon Si Thammarat,Thung Song,Khao Khao
+2015-04-01,800911,นครศรีธรรมราช,ทุ่งสง,ถ้ำใหญ่,จำปา,12.5,6.75,40,Nakhon Si Thammarat,Thung Song,Tham Yai
+2015-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,บ่อปลา,12.5,1.73,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,10,1.75,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,12.5,1.91,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ปากคลองกรุงหยัน,15,2.37,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ถ้ำเพดาน,15,2.23,15,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-04-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,บางปรน,17.5,2.45,17.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-04-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนประชาสรรค์,17.5,2.32,17.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-04-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,เสม็ดจวน,15,2.45,15,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-04-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนแดง,10,1.72,10,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-04-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คลองเสาเหนือ,5,0.41,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-04-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,สมสรร,2.5,0.23,2.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2015-04-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,นิคมแนว 4,5,0.34,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2015-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางปริก,2.5,0.37,2.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ไสยาสน์,7.5,0.68,7.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-04-01,800503,นครศรีธรรมราช,พิปูน,เขาพระ,ห้วยตรีต,22.5,7.97,27.5,Nakhon Si Thammarat,Phipun,Khao Phra
+2015-03-01,810401,กระบี่,คลองท่อม,คลองท่อมใต้,นาใน,10,2.44,10,Krabi,Khlong Thom,Khlong Thom Tai
+2015-03-01,630703,ตาก,พบพระ,คีรีราษฎร์,ร่มเกล้าสหมิตร,0,0,0,Tak,Phop Phra,Khiri Rat
+2015-03-01,630702,ตาก,พบพระ,ช่องแคบ,ทีกะเป่อ,0,0,0,Tak,Phop Phra,Chong Khaep
+2015-03-01,800415,นครศรีธรรมราช,ฉวาง,นาเขลียง,นาเขลียง,17.5,2.88,17.5,Nakhon Si Thammarat,Chawang,Na Khliang
+2015-03-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ไสโคกเกาะ,20,3.27,20,Nakhon Si Thammarat,Chawang,Na Wae
+2015-03-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ท่าแห้ง,12.5,1.92,12.5,Nakhon Si Thammarat,Chawang,Na Wae
+2015-03-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,วังโก,15,2.91,15,Nakhon Si Thammarat,Chawang,Na Wae
+2015-03-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ปากเปียด,15,2.82,15,Nakhon Si Thammarat,Chawang,Na Wae
+2015-03-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,อ่าวมิน,12.5,2.3,17.5,Nakhon Si Thammarat,Thung Song,Khao Khao
+2015-03-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,พรุนา,17.5,4.19,35,Nakhon Si Thammarat,Thung Song,Khao Khao
+2015-03-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ชายคลอง,5,2.67,15,Nakhon Si Thammarat,Thung Song,Thi Wang
+2015-03-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,นาเปลี่ยน,10,2.59,15,Nakhon Si Thammarat,Thung Song,Thi Wang
+2015-03-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,บ่อปลา,16.13,2.65,16.13,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-03-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,บ่อปลา,12.5,2.07,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-03-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยัน,17.5,2.75,17.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-03-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,กรุงหยันใต้,10,1.49,10,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-03-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ป่าไม้,20,2.71,20,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-03-01,801107,นครศรีธรรมราช,ทุ่งใหญ่,กรุงหยัน,ทะเลสองห้อง,12.5,1.83,12.5,Nakhon Si Thammarat,Thung Yai,Krung Yan
+2015-03-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนประชาสรรค์,22.5,3.59,22.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-03-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,จุฬาภรณ์พัฒนา 4,20,3.9,20,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-03-01,801104,นครศรีธรรมราช,ทุ่งใหญ่,กุแหระ,ควนแดง,12.5,2.67,12.5,Nakhon Si Thammarat,Thung Yai,Kurae
+2015-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คอกช้าง,7.5,1.24,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,อ่าวมิน,5,0.56,5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2015-03-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,บ้านนาตำเสา,5,0.5,5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2015-03-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางขัน,2.5,0.26,2.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-03-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ควนชก,2.5,0.25,2.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2015-03-01,720401,สุพรรณบุรี,บางปลาม้า,โคกคราม,โคกคราม,5.26,3.57,5.26,Suphan Buri,Bang Pla Ma,Khok Khram
+2015-02-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,นา,18,3.68,24,Krabi,Khlong Thom,Huai Nam Khao
+2015-02-01,810501,กระบี่,อ่าวลึก,อ่าวลึกใต้,ห้วยปริศนา,23,1.46,37,Krabi,Ao Luek,Ao Luek Tai
+2015-02-01,500403,เชียงใหม่,เชียงดาว,เมืองงาย,ใหม่,10,2.3,12,Chiang Mai,Chiang Dao,Mueang Ngai
+2015-02-01,500403,เชียงใหม่,เชียงดาว,เมืองงาย,สบงาย,9,1.86,10,Chiang Mai,Chiang Dao,Mueang Ngai
+2015-02-01,801501,นครศรีธรรมราช,ขนอม,ขนอม,บางโหนด,16,2.44,15,Nakhon Si Thammarat,Khanom,Khanom
+2015-02-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ห้วยทรายขาว,15,1.87,18,Nakhon Si Thammarat,Chawang,Na Wae
+2015-02-01,802304,นครศรีธรรมราช,เฉลิมพระเกียรติ,ทางพูน,สะเพรง,10,2.35,10,Nakhon Si Thammarat,Chaloem Phra Kiet,Thang Phun
+2015-02-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,กุมแป,19,3.42,31,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2015-02-01,802201,นครศรีธรรมราช,ช้างกลาง,ช้างกลาง,หน้าเหมน,16,2.06,20,Nakhon Si Thammarat,Chang Klang,Chang Klang
+2015-02-01,801801,นครศรีธรรมราช,ถ้ำพรรณรา,ถ้ำพรรณรา,ทุ่งคางิ้ว,20,3.01,27,Nakhon Si Thammarat,Tham Phannara,Tham Phannara
+2015-02-01,800806,นครศรีธรรมราช,ท่าศาลา,สระแก้ว,ชุมโลง,21,3.95,21,Nakhon Si Thammarat,Tha Sala,Sa Kaeo
+2015-02-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,อ่าวมิน,29,7.81,41,Nakhon Si Thammarat,Thung Song,Khao Khao
+2015-02-01,802101,นครศรีธรรมราช,นบพิตำ,นบพิตำ,โรงเหล็ก,9,4.4,27,Nakhon Si Thammarat,Nopphitam,Nopphitam
+2015-02-01,800204,นครศรีธรรมราช,พรหมคีรี,ทอนหงส์,ในเขียว 1,13,6.36,35,Nakhon Si Thammarat,Phrom Khiri,Thon Hong
+2015-02-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,นาพรุ,13,3.76,13,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2015-02-01,800503,นครศรีธรรมราช,พิปูน,เขาพระ,ห้วยตรีต,12,2.21,23,Nakhon Si Thammarat,Phipun,Khao Phra
+2015-02-01,800115,นครศรีธรรมราช,เมืองนครศรีธรรมราช,นาเคียน,ห้วยทะเล,16,6.84,42,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Na Khian
+2015-02-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,ขุนพัง,24,6.32,62,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2015-02-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,บ้านวังโหล,8,5.92,33,Nakhon Si Thammarat,Lan Saka,Kamlon
+2015-02-01,801402,นครศรีธรรมราช,สิชล,ทุ่งปรัง,ทุ่งปรัง,26,4.41,26,Nakhon Si Thammarat,Sichon,Thung Prang
+2015-02-01,801602,นครศรีธรรมราช,หัวไทร,หน้าสตน,หน้าศาล,34,9.91,136,Nakhon Si Thammarat,Hua Sai,Na Saton
+2015-02-01,760801,เพชรบุรี,แก่งกระจาน,แก่งกระจาน,ท่าเรือ,0,0,0,Phetchaburi,Kaeng Krachan,Kaeng Krachan
+2015-02-01,510702,ลำพูน,บ้านธิ,ห้วยยาบ,ห้วยยาบ,3.57,1.29,4.76,Lamphun,Ban Thi,Huai Yap
+2015-02-01,510702,ลำพูน,บ้านธิ,ห้วยยาบ,ห้วยไซ,13,3.09,13,Lamphun,Ban Thi,Huai Yap
+2015-01-01,810305,กระบี่,เกาะลันตา,ศาลาด่าน,ศาลาด่าน,13,5.39,22,Krabi,Ko Lanta,Sala Dan
+2015-01-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,นา,18,3.68,24,Krabi,Khlong Thom,Huai Nam Khao
+2015-01-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ทุ่งควนหิน,20,6.07,30,Krabi,Khlong Thom,Huai Nam Khao
+2014-11-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ท่าประจะ,7.5,1.4,15,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2014-11-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังอ่าง,5,0.95,10,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2014-11-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองนนทรีย์,12.5,3.95,45,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2014-11-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,สหกรณ์,7.5,5.88,45,Nakhon Si Thammarat,Thung Song,Khao Khao
+2014-11-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ทุ่งอินทนิล,25,12.44,120,Nakhon Si Thammarat,Thung Song,Thi Wang
+2014-11-01,800910,นครศรีธรรมราช,ทุ่งสง,น้ำตก,ถ้ำตลอด,20,12.47,117.5,Nakhon Si Thammarat,Thung Song,Namtok
+2014-10-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ไม้เสียบ,12.5,3.39,35,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2014-10-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังอ่าง,5,1.04,10,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2014-10-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ท่าไทร,7.5,1.77,17.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2014-10-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังหอน,10,2.62,27.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2014-10-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนมิตร,7.5,1.63,17.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2014-07-01,810105,กระบี่,เมืองกระบี่,เขาคราม,ทุ่ง,12.5,4.56,27.5,Krabi,Mueang Krabi,Khao Khram
+2014-07-01,810502,กระบี่,อ่าวลึก,แหลมสัก,แหลมสัก,10,5.37,40,Krabi,Ao Luek,Laem Sak
+2014-07-01,802201,นครศรีธรรมราช,ช้างกลาง,ช้างกลาง,คลองงา,50,9.68,60,Nakhon Si Thammarat,Chang Klang,Chang Klang
+2014-07-01,802201,นครศรีธรรมราช,ช้างกลาง,ช้างกลาง,มะนาวหวาน,17.5,3.49,22.5,Nakhon Si Thammarat,Chang Klang,Chang Klang
+2014-07-01,800803,นครศรีธรรมราช,ท่าศาลา,ท่าขึ้น,ตะเคียนดำ,30,3.28,20,Nakhon Si Thammarat,Tha Sala,Tha Khuen
+2014-07-01,802101,นครศรีธรรมราช,นบพิตำ,นบพิตำ,โรงเหล็ก,30,8,40,Nakhon Si Thammarat,Nopphitam,Nopphitam
+2014-07-01,800204,นครศรีธรรมราช,พรหมคีรี,ทอนหงส์,วังลุง,30,7.46,50,Nakhon Si Thammarat,Phrom Khiri,Thon Hong
+2014-07-01,800503,นครศรีธรรมราช,พิปูน,เขาพระ,ห้วยตรีต,7.5,2.24,17.5,Nakhon Si Thammarat,Phipun,Khao Phra
+2014-06-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ไร่ยาว,7.5,3.91,17.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2014-06-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,อ่าวมิน,7.5,1.71,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2014-06-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,บ้านนิคม,7.5,2.76,12.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2014-06-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เหนือโตน,10,2.84,15,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2014-06-01,801703,นครศรีธรรมราช,บางขัน,วังหิน,น้ำหัก,10,3.09,12.5,Nakhon Si Thammarat,Bang Khan,Wang Hin
+2014-06-01,580106,แม่ฮ่องสอน,เมืองแม่ฮ่องสอน,ห้วยผา,แม่สุยะ,0,0,0,Mae Hong Son,Mueang Mae Hong Son,Huai Pha
+2014-06-01,490512,มุกดาหาร,คำชะอี,คำบก,ห้วยลำโมง,0,0,0,Mukdahan,Khamcha-i,Kham Bok
+2014-05-01,220606,จันทบุรี,แหลมสิงห์,บางสระเก้า,กลาง,0,0,0,Chanthaburi,Laem Sing,Bang Sa Kao
+2014-05-01,240214,ฉะเชิงเทรา,บางคล้า,หัวไทร,หัวไทร,42.55,18.03,70.21,Chachoengsao,Bang Khla,Hua Sai
+2014-05-01,240406,ฉะเชิงเทรา,บางปะกง,บางเกลือ,คลองใหม่,0,0,0,Chachoengsao,Bang Pakong,Bang Kluea
+2014-05-01,240903,ฉะเชิงเทรา,แปลงยาว,หัวสำโรง,หัวสำโรง,32.5,10.07,35,Chachoengsao,Pleang Yao,Hua Samrong
+2014-05-01,240105,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,บางตีนเป็ด,บางตีนเป็ด,25,4.44,27.5,Chachoengsao,Mueang Chachoengsao,Bang Tin Pet
+2014-05-01,200501,ชลบุรี,พานทอง,พานทอง,พานทอง,21.95,5,34.15,Chon Buri,Phan Thong,Phan Thong
+2014-05-01,200707,ชลบุรี,ศรีราชา,บางพระ,บางพระ,7.5,2.4,7.5,Chon Buri,Si Racha,Bang Phra
+2014-05-01,860113,ชุมพร,เมืองชุมพร,ขุนกระทิง,ขุนกระทิง,0,0,0,Chumphon,Mueang Chumphon,Khun Krathing
+2014-05-01,860108,ชุมพร,เมืองชุมพร,บางลึก,บางลึก,0,0,0,Chumphon,Mueang Chumphon,Bang Luek
+2014-05-01,860102,ชุมพร,เมืองชุมพร,ปากน้ำ,ปากน้ำ,0,0,0,Chumphon,Mueang Chumphon,Pak Nam
+2014-05-01,860110,ชุมพร,เมืองชุมพร,วังไผ่,วังไผ่,0,0,0,Chumphon,Mueang Chumphon,Wang Phai
+2014-05-01,501704,เชียงใหม่,ดอยเต่า,บ้านแอ่น,วังหม้อ,30,7.3,47,Chiang Mai,Doi Tao,Ban Aen
+2014-05-01,501704,เชียงใหม่,ดอยเต่า,บ้านแอ่น,แอ่นสรรจัด,49,14.29,74,Chiang Mai,Doi Tao,Ban Aen
+2014-05-01,501005,เชียงใหม่,แม่อาย,ท่าตอน,ท่าตอน,17,3.55,24,Chiang Mai,Mae Ai,Tha Ton
+2014-05-01,501005,เชียงใหม่,แม่อาย,ท่าตอน,ห้วยปู,6,0.85,6,Chiang Mai,Mae Ai,Tha Ton
+2014-05-01,730702,นครปฐม,พุทธมณฑล,คลองโยง,คลองโยง,10,1.78,15,Nakhon Pathom,Phutthamonthon,Khlong Yong
+2014-05-01,801802,นครศรีธรรมราช,ถ้ำพรรณรา,คลองเส,แพรกกลาง,0,0,0,Nakhon Si Thammarat,Tham Phannara,Khlong Se
+2014-05-01,801803,นครศรีธรรมราช,ถ้ำพรรณรา,ดุสิต,แหลมดิน,0,0,0,Nakhon Si Thammarat,Tham Phannara,Dusit
+2014-05-01,801801,นครศรีธรรมราช,ถ้ำพรรณรา,ถ้ำพรรณรา,ทรายเพชร,0,0,0,Nakhon Si Thammarat,Tham Phannara,Tham Phannara
+2014-05-01,800810,นครศรีธรรมราช,ท่าศาลา,ดอนตะโก,ดอนตะโก,2,1.07,4,Nakhon Si Thammarat,Tha Sala,Don Tako
+2014-05-01,800801,นครศรีธรรมราช,ท่าศาลา,ท่าศาลา,ในถุ้ง,8,2.64,20,Nakhon Si Thammarat,Tha Sala,Tha Sala
+2014-05-01,800809,นครศรีธรรมราช,ท่าศาลา,ไทยบุรี,ประตูช้าง,8,2,14,Nakhon Si Thammarat,Tha Sala,Thai Buri
+2014-05-01,800806,นครศรีธรรมราช,ท่าศาลา,สระแก้ว,สระแก้ว,9,3.89,29,Nakhon Si Thammarat,Tha Sala,Sa Kaeo
+2014-05-01,800910,นครศรีธรรมราช,ทุ่งสง,น้ำตก,ถ้ำตลอด,14,3.02,13,Nakhon Si Thammarat,Thung Song,Namtok
+2014-05-01,802102,นครศรีธรรมราช,นบพิตำ,กรุงชิง,กรุงชิง,0,0,0,Nakhon Si Thammarat,Nopphitam,Krung Ching
+2014-05-01,802102,นครศรีธรรมราช,นบพิตำ,กรุงชิง,กรุงชิง,0,0,0,Nakhon Si Thammarat,Nopphitam,Krung Ching
+2014-05-01,802102,นครศรีธรรมราช,นบพิตำ,กรุงชิง,เปียน,0,0,0,Nakhon Si Thammarat,Nopphitam,Krung Ching
+2014-05-01,800106,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าไร่,บางหลวง,3,0.71,6,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Tha Rai
+2014-05-01,800115,นครศรีธรรมราช,เมืองนครศรีธรรมราช,นาเคียน,นาเคียนใต้,6,2.3,15,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Na Khian
+2014-05-01,800119,นครศรีธรรมราช,เมืองนครศรีธรรมราช,บางจาก,บางพุทรา,2,0.86,7,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Bang Chak
+2014-05-01,800114,นครศรีธรรมราช,เมืองนครศรีธรรมราช,มะม่วงสองต้น,คลองลาว,7,4.57,17,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Mamuang Song Ton
+2014-05-01,801306,นครศรีธรรมราช,ร่อนพิบูลย์,ควนชุม,ควนชุม,5,1.11,10,Nakhon Si Thammarat,Ron Phibun,Khuan Chum
+2014-05-01,801305,นครศรีธรรมราช,ร่อนพิบูลย์,ควนพัง,กลอง,3,0.7,7,Nakhon Si Thammarat,Ron Phibun,Khuan Phang
+2014-05-01,801302,นครศรีธรรมราช,ร่อนพิบูลย์,หินตก,สามร้อยกล้า,2,0.54,4,Nakhon Si Thammarat,Ron Phibun,Hin Tok
+2014-05-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,วังไทร,4,1.38,9,Nakhon Si Thammarat,Lan Saka,Kamlon
+2014-05-01,800305,นครศรีธรรมราช,ลานสกา,ขุนทะเล,ราษฎร์บำรุง,4,0.91,6,Nakhon Si Thammarat,Lan Saka,Khun Thale
+2014-05-01,800301,นครศรีธรรมราช,ลานสกา,เขาแก้ว,เขาแก้ว,7,1.25,9,Nakhon Si Thammarat,Lan Saka,Khao Kaeo
+2014-05-01,800303,นครศรีธรรมราช,ลานสกา,ท่าดี,มะม่วงทอง,6,1.46,10,Nakhon Si Thammarat,Lan Saka,Tha Di
+2014-05-01,490503,มุกดาหาร,คำชะอี,บ้านซ่ง,บ้านซ่ง,0,0,0,Mukdahan,Khamcha-i,Ban Song
+2014-05-01,490504,มุกดาหาร,คำชะอี,คำชะอี,หนองกะปาด,0,0,0,Mukdahan,Khamcha-i,Kham Cha-I
+2014-05-01,490304,มุกดาหาร,ดอนตาล,เหล่าหมี,นายอ,0,0,0,Mukdahan,Don Tan,Lao Mi
+2014-05-01,490304,มุกดาหาร,ดอนตาล,เหล่าหมี,โคกสว่าง,0,0,0,Mukdahan,Don Tan,Lao Mi
+2014-05-01,490105,มุกดาหาร,เมืองมุกดาหาร,โพนทราย,ป่งเป้า,0,0,0,Mukdahan,Mueang Mukdahan,Phon Sai
+2014-05-01,110413,สมุทรปราการ,พระประแดง,ทรงคนอง,ทรงคนอง,20,6.71,27.5,Samut Prakarn,Phra Pradaeng,Song Khanong
+2014-05-01,110505,สมุทรปราการ,พระสมุทรเจดีย์,ในคลองบางปลากด,ในคลองบางปลากด,12.5,4.2,12.5,Samut Prakarn,Phra Samut Chedi,Nai Khlong Bang Pla Kot
+2014-05-01,370205,อำนาจเจริญ,ชานุมาน,ป่าก่อ,เทพสถิตย์,0,0,0,Amnat Charoen,Chanuman,Pa Ko
+2014-04-01,810403,กระบี่,คลองท่อม,คลองพน,คลองพน,27,8.91,46,Krabi,Khlong Thom,Khlong Phon
+2014-04-01,810404,กระบี่,คลองท่อม,ทรายขาว,ห้วยลึก,13,5.05,21,Krabi,Khlong Thom,Sai Khao
+2014-04-01,810406,กระบี่,คลองท่อม,พรุดินนา,ควน,35,16.2,93,Krabi,Khlong Thom,Phru Din Na
+2014-04-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ทุ่งควนหิน,9,1.61,9,Krabi,Khlong Thom,Huai Nam Khao
+2014-04-01,810106,กระบี่,เมืองกระบี่,เขาทอง,เขาทอง,2,0.44,2,Krabi,Mueang Krabi,Khao Thong
+2014-04-01,810115,กระบี่,เมืองกระบี่,ไสไทย,แหลมโพธิ์,2,0.9,2,Krabi,Mueang Krabi,Sai Thai
+2014-04-01,800401,นครศรีธรรมราช,ฉวาง,ฉวาง,คลองหลุน,0,0,0,Nakhon Si Thammarat,Chawang,Chawang
+2014-04-01,800415,นครศรีธรรมราช,ฉวาง,นาเขลียง,ปากเพรง,0,0,0,Nakhon Si Thammarat,Chawang,Na Khliang
+2014-04-01,800415,นครศรีธรรมราช,ฉวาง,นาเขลียง,โคกมะขาม,0,0,0,Nakhon Si Thammarat,Chawang,Na Khliang
+2014-04-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ในไร่,0,0,0,Nakhon Si Thammarat,Chawang,Na Wae
+2014-04-01,802301,นครศรีธรรมราช,เฉลิมพระเกียรติ,เชียรเขา,ปลายคลอง,0,0,0,Nakhon Si Thammarat,Chaloem Phra Kiet,Chian Khao
+2014-04-01,802302,นครศรีธรรมราช,เฉลิมพระเกียรติ,ดอนตรอ,ดอนตรอ,6,0.78,6,Nakhon Si Thammarat,Chaloem Phra Kiet,Don Tro
+2014-04-01,802304,นครศรีธรรมราช,เฉลิมพระเกียรติ,ทางพูน,ทางพูน,7,1.63,7,Nakhon Si Thammarat,Chaloem Phra Kiet,Thang Phun
+2014-04-01,802303,นครศรีธรรมราช,เฉลิมพระเกียรติ,สวนหลวง,ดอนทือ,15,1.96,16,Nakhon Si Thammarat,Chaloem Phra Kiet,Suan Luang
+2014-04-01,800907,นครศรีธรรมราช,ทุ่งสง,เขาโร,หนองปลิง,19,2.77,13,Nakhon Si Thammarat,Thung Song,Khao Ro
+2014-04-01,800911,นครศรีธรรมราช,ทุ่งสง,ถ้ำใหญ่,ไสใหญ่,14,1.87,8,Nakhon Si Thammarat,Thung Song,Tham Yai
+2014-04-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ชายคลอง,22,5.1,23,Nakhon Si Thammarat,Thung Song,Thi Wang
+2014-04-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ช้างซ้าย,30,7.66,102,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2014-04-01,802003,นครศรีธรรมราช,พระพรหม,ท้ายสำเภา,ท้ายสำเภา,30,6.89,37,Nakhon Si Thammarat,Phra Phrom,Thai Samphao
+2014-04-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,นาพรุ,18,3.77,18,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2014-04-01,802002,นครศรีธรรมราช,พระพรหม,นาสาร,มะม่วงตลอด,22,3.49,21,Nakhon Si Thammarat,Phra Phrom,Na San
+2014-04-01,490504,มุกดาหาร,คำชะอี,คำชะอี,หนองกะปาด,0,0,0,Mukdahan,Khamcha-i,Kham Cha-I
+2014-04-01,370205,อำนาจเจริญ,ชานุมาน,ป่าก่อ,เทพสถิตย์,0,0,0,Amnat Charoen,Chanuman,Pa Ko
+2014-03-01,860603,ชุมพร,พะโต๊ะ,ปังหวาน,ปังหวาน,0,0,0,Chumphon,Phato,Pang Wan
+2014-03-01,860602,ชุมพร,พะโต๊ะ,ปากทรง,ปากทรง,0,0,0,Chumphon,Phato,Pak Song
+2014-03-01,860604,ชุมพร,พะโต๊ะ,พระรักษ์,พระรักษ์,0,0,0,Chumphon,Phato,Phrarak
+2014-03-01,860601,ชุมพร,พะโต๊ะ,พะโต๊ะ,พะโต๊ะ,0,0,0,Chumphon,Phato,Phato
+2014-03-01,860113,ชุมพร,เมืองชุมพร,ขุนกระทิง,ขุนกระทิง,0,0,0,Chumphon,Mueang Chumphon,Khun Krathing
+2014-03-01,860102,ชุมพร,เมืองชุมพร,ปากน้ำ,ปากน้ำ,0,0,0,Chumphon,Mueang Chumphon,Pak Nam
+2014-03-01,860110,ชุมพร,เมืองชุมพร,วังไผ่,วังไผ่,0,0,0,Chumphon,Mueang Chumphon,Wang Phai
+2014-03-01,860110,ชุมพร,เมืองชุมพร,วังไผ่,ดอนเมือง,0,0,0,Chumphon,Mueang Chumphon,Wang Phai
+2014-03-01,860504,ชุมพร,ละแม,ทุ่งคาวัด,ทุ่งคาวัด,0,0,0,Chumphon,Lamae,Thung Kha Wat
+2014-03-01,860502,ชุมพร,ละแม,ทุ่งหลวง,ทุ่งหลวง,0,0,0,Chumphon,Lamae,Thung Luang
+2014-03-01,860501,ชุมพร,ละแม,ละแม,ละแม,0,0,0,Chumphon,Lamae,Lamae
+2014-03-01,860503,ชุมพร,ละแม,สวนแตง,สวนแตง,0,0,0,Chumphon,Lamae,Suan Taeng
+2014-03-01,860411,ชุมพร,หลังสวน,แหลมทราย,แหลมทราย,0,0,0,Chumphon,Lang Suan,Laem Sai
+2014-03-01,490203,มุกดาหาร,นิคมคำสร้อย,หนองแวง,บังอี่,0,0,0,Mukdahan,Nikhom Kham Soi,Nong Waeng
+2014-02-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,กระบี่น้อย,1,0.55,1,Krabi,Mueang Krabi,Krabi Noi
+2014-02-01,810106,กระบี่,เมืองกระบี่,เขาทอง,ในสระ,3,0.91,4,Krabi,Mueang Krabi,Khao Thong
+2014-02-01,810111,กระบี่,เมืองกระบี่,ทับปริก,ทับปริก,0,0,0,Krabi,Mueang Krabi,Thap Prik
+2014-02-01,810115,กระบี่,เมืองกระบี่,ไสไทย,แหลมโพธิ์,1,0.59,1,Krabi,Mueang Krabi,Sai Thai
+2014-02-01,710613,กาญจนบุรี,ท่าม่วง,หนองตากยา,คอเขา,34,9.93,56,Kanchanaburi,Tha Muang,Nong Tak Ya
+2014-02-01,710613,กาญจนบุรี,ท่าม่วง,หนองตากยา,หนองใหญ่,28,8.87,50,Kanchanaburi,Tha Muang,Nong Tak Ya
+2014-02-01,220606,จันทบุรี,แหลมสิงห์,บางสระเก้า,บางสระเก้า,0,0,0,Chanthaburi,Laem Sing,Bang Sa Kao
+2014-02-01,501704,เชียงใหม่,ดอยเต่า,บ้านแอ่น,วังหม้อ,12,2.85,19,Chiang Mai,Doi Tao,Ban Aen
+2014-02-01,501704,เชียงใหม่,ดอยเต่า,บ้านแอ่น,แอ่นสรรจัด,22,7.72,39,Chiang Mai,Doi Tao,Ban Aen
+2014-02-01,501005,เชียงใหม่,แม่อาย,ท่าตอน,ห้วยปู,14,2.52,16,Chiang Mai,Mae Ai,Tha Ton
+2014-02-01,490503,มุกดาหาร,คำชะอี,บ้านซ่ง,โพธิ์ศรี,0,0,0,Mukdahan,Khamcha-i,Ban Song
+2014-02-01,730109,นครปฐม,เมืองนครปฐม,ถนนขาด,ถนนขาด,0,0,0,Nakhon Pathom,mueang Nakhon Pathom,Thanon Khat
+2014-02-01,800415,นครศรีธรรมราช,ฉวาง,นาเขลียง,นาเขลียง,2,0.67,4,Nakhon Si Thammarat,Chawang,Na Khliang
+2014-02-01,800415,นครศรีธรรมราช,ฉวาง,นาเขลียง,โคกมะขาม,4,1.1,5,Nakhon Si Thammarat,Chawang,Na Khliang
+2014-02-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ในไร่,2,0.82,4,Nakhon Si Thammarat,Chawang,Na Wae
+2014-02-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนยูง,17,4.34,36,Nakhon Si Thammarat,Chawang,Na Wae
+2014-02-01,802301,นครศรีธรรมราช,เฉลิมพระเกียรติ,เชียรเขา,เชียรเขา,16,0.19,1,Nakhon Si Thammarat,Chaloem Phra Kiet,Chian Khao
+2014-02-01,802302,นครศรีธรรมราช,เฉลิมพระเกียรติ,ดอนตรอ,ดอนตรอ,24,7.73,45,Nakhon Si Thammarat,Chaloem Phra Kiet,Don Tro
+2014-02-01,802304,นครศรีธรรมราช,เฉลิมพระเกียรติ,ทางพูน,ทางพูน,16,4.04,19,Nakhon Si Thammarat,Chaloem Phra Kiet,Thang Phun
+2014-02-01,802303,นครศรีธรรมราช,เฉลิมพระเกียรติ,สวนหลวง,สวนหลวง,41,8.4,56,Nakhon Si Thammarat,Chaloem Phra Kiet,Suan Luang
+2014-02-01,801803,นครศรีธรรมราช,ถ้ำพรรณรา,ดุสิต,แหลมดิน,2,0.3,2,Nakhon Si Thammarat,Tham Phannara,Dusit
+2014-02-01,801801,นครศรีธรรมราช,ถ้ำพรรณรา,ถ้ำพรรณรา,วังตลับ,5,1.22,6,Nakhon Si Thammarat,Tham Phannara,Tham Phannara
+2014-02-01,800810,นครศรีธรรมราช,ท่าศาลา,ดอนตะโก,ดอนตะโก,0,0,0,Nakhon Si Thammarat,Tha Sala,Don Tako
+2014-02-01,800801,นครศรีธรรมราช,ท่าศาลา,ท่าศาลา,ท่าศาลา,36,13.23,102,Nakhon Si Thammarat,Tha Sala,Tha Sala
+2014-02-01,800809,นครศรีธรรมราช,ท่าศาลา,ไทยบุรี,ไทยบุรี,45,7.18,56,Nakhon Si Thammarat,Tha Sala,Thai Buri
+2014-02-01,800806,นครศรีธรรมราช,ท่าศาลา,สระแก้ว,สระแก้ว,50,8.35,72,Nakhon Si Thammarat,Tha Sala,Sa Kaeo
+2014-02-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ช้างซ้าย,16,7.74,60,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2014-02-01,802003,นครศรีธรรมราช,พระพรหม,ท้ายสำเภา,ท้ายสำเภา,41,9.89,115,Nakhon Si Thammarat,Phra Phrom,Thai Samphao
+2014-02-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,นาพรุ,16,30.71,320,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2014-02-01,800106,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าไร่,ท่าไร่,4,1.64,7,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Tha Rai
+2014-02-01,800115,นครศรีธรรมราช,เมืองนครศรีธรรมราช,นาเคียน,นาเคียนใต้,8,2,13,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Na Khian
+2014-02-01,800119,นครศรีธรรมราช,เมืองนครศรีธรรมราช,บางจาก,บางจาก,2,1.06,5,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Bang Chak
+2014-02-01,800114,นครศรีธรรมราช,เมืองนครศรีธรรมราช,มะม่วงสองต้น,คลองลาว,9,6.54,24,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Mamuang Song Ton
+2014-02-01,801305,นครศรีธรรมราช,ร่อนพิบูลย์,ควนพัง,กลอง,7,1.54,14,Nakhon Si Thammarat,Ron Phibun,Khuan Phang
+2014-02-01,800305,นครศรีธรรมราช,ลานสกา,ขุนทะเล,ขุนทะเล,6,0.91,6,Nakhon Si Thammarat,Lan Saka,Khun Thale
+2014-02-01,800301,นครศรีธรรมราช,ลานสกา,เขาแก้ว,เขาแก้ว,9,0.25,2,Nakhon Si Thammarat,Lan Saka,Khao Kaeo
+2014-02-01,800303,นครศรีธรรมราช,ลานสกา,ท่าดี,ท่าดี,7,0.14,1,Nakhon Si Thammarat,Lan Saka,Tha Di
+2014-02-01,760801,เพชรบุรี,แก่งกระจาน,แก่งกระจาน,แก่งกระจาน,0,0,0,Phetchaburi,Kaeng Krachan,Kaeng Krachan
+2014-02-01,760801,เพชรบุรี,แก่งกระจาน,แก่งกระจาน,หนองหงษ์,1,0.19,1,Phetchaburi,Kaeng Krachan,Kaeng Krachan
+2014-02-01,760801,เพชรบุรี,แก่งกระจาน,แก่งกระจาน,ท่าเรือ,0,0,0,Phetchaburi,Kaeng Krachan,Kaeng Krachan
+2014-02-01,490506,มุกดาหาร,คำชะอี,บ้านค้อ,โคก,0,0,0,Mukdahan,Khamcha-i,Ban Kho
+2014-02-01,490507,มุกดาหาร,คำชะอี,บ้านเหล่า,หนองหญ้าปล้อง,0,0,0,Mukdahan,Khamcha-i,Ban Lao
+2014-02-01,490403,มุกดาหาร,ดงหลวง,กกตูม,แก่งนาง,0,0,0,Mukdahan,Don Tan,Kok Tum
+2014-02-01,490403,มุกดาหาร,ดงหลวง,กกตูม,ศรีถาวรพนา,0,0,0,Mukdahan,Don Tan,Kok Tum
+2014-02-01,490203,มุกดาหาร,นิคมคำสร้อย,หนองแวง,หนองกระโซ่,0,0,0,Mukdahan,Nikhom Kham Soi,Nong Waeng
+2014-02-01,490702,มุกดาหาร,หนองสูง,โนนยาง,งิ้ว,0,0,0,Mukdahan,Nong Sung,Non Yang
+2014-02-01,490702,มุกดาหาร,หนองสูง,โนนยาง,งิ้ว,0,0,0,Mukdahan,Nong Sung,Non Yang
+2014-02-01,490702,มุกดาหาร,หนองสูง,โนนยาง,วังนอง,0,0,0,Mukdahan,Nong Sung,Non Yang
+2014-02-01,490702,มุกดาหาร,หนองสูง,โนนยาง,วังนอง,0,0,0,Mukdahan,Nong Sung,Non Yang
+2014-02-01,350113,ยโสธร,เมืองยโสธร,หนองหิน,หนองบ่อ,0,0,0,Yasothon,Mueang Yasothon,Nong Hin
+2014-02-01,700710,ราชบุรี,โพธาราม,คลองข่อย,คลองข่อย,6,0.96,6,Ratchaburi,Photharam,Khlong Khoi
+2014-02-01,700120,ราชบุรี,เมืองราชบุรี,คูบัว,คูบัว,12,1.59,12,Ratchaburi,Mueang Ratchaburi,Khu Bua
+2014-02-01,110413,สมุทรปราการ,พระประแดง,ทรงคนอง,ทรงคนอง,0,0,0,Samut Prakarn,Phra Pradaeng,Song Khanong
+2014-02-01,110505,สมุทรปราการ,พระสมุทรเจดีย์,ในคลองบางปลากด,ในคลองบางปลากด,0,0,0,Samut Prakarn,Phra Samut Chedi,Nai Khlong Bang Pla Kot
+2014-02-01,730312,นครปฐม,นครชัยศรี,ศรีษะทอง,ศรีษะทอง,0,0,0,Nakhon Pathom,Nakhon Chai Si,Sisa Thong
+2014-02-01,740203,สมุทรสาคร,กระทุ่มแบน,ท่าไม้,ท่าไม้,15,4.68,28,Samut Sakhon,Krathum Baen,Tha Mai
+2014-02-01,720404,สุพรรณบุรี,บางปลาม้า,บางใหญ่,บางแม่หม้าย,18,3.86,18,Suphan Buri,Bang Pla Ma,Bang Yai
+2014-02-01,720404,สุพรรณบุรี,บางปลาม้า,บางใหญ่,บางแม่หม้าย,10,2.41,14,Suphan Buri,Bang Pla Ma,Bang Yai
+2014-02-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ทุ่งคอก,16,2.37,16,Suphan Buri,Song Phi Nong,Thung Khok
+2014-02-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ปากคอก,4,0.42,4,Suphan Buri,Song Phi Nong,Thung Khok
+2014-02-01,720909,สุพรรณบุรี,อู่ทอง,พลับพลาไชย,ขาม,20,3.23,28,Suphan Buri,U Thong,Phlapphla Chai
+2014-02-01,720909,สุพรรณบุรี,อู่ทอง,พลับพลาไชย,ขามใต้,16,3.03,18,Suphan Buri,U Thong,Phlapphla Chai
+2014-02-01,370302,อำนาจเจริญ,ปทุมราชวงศา,คำโพน,คำโพน,0,0,0,Amnat Charoen,Pathum Ratchawongsa,Kham Phon
+2014-02-01,370403,อำนาจเจริญ,พนา,ไม้กลอน,ดอนหวาย,0,0,0,Amnat Charoen,Phana,Mai Klon
+2014-02-01,370403,อำนาจเจริญ,พนา,ไม้กลอน,โคกกลาง,0,0,0,Amnat Charoen,Phana,Mai Klon
+2014-02-01,370705,อำนาจเจริญ,ลืออำนาจ,ไร่ขี,เหล่าเลิง,0,0,0,Amnat Charoen,Lue Amnat,Rai Khi
+2014-02-01,370705,อำนาจเจริญ,ลืออำนาจ,ไร่ขี,นาดี,0,0,0,Amnat Charoen,Lue Amnat,Rai Khi
+2014-02-01,370503,อำนาจเจริญ,เสนางคนิคม,ไร่สีสุก,ไร่สีสุก,0,0,0,Amnat Charoen,Senangkhanikhom,Rai Si Suk
+2014-02-01,370506,อำนาจเจริญ,เสนางคนิคม,หนองสามสี,หนองสามสี,0,0,0,Amnat Charoen,Senangkhanikhom,Nong Sam Si
+2014-02-01,370604,อำนาจเจริญ,หัวตะพาน,หนองแก้ว,หนองแก้ว,0,0,0,Amnat Charoen,Hua Taphan,Nong Kaeo
+2014-02-01,370604,อำนาจเจริญ,หัวตะพาน,หนองแก้ว,โนนค้อ,0,0,0,Amnat Charoen,Hua Taphan,Nong Kaeo
+2014-02-01,370604,อำนาจเจริญ,หัวตะพาน,หนองแก้ว,โคกเลาะ,0,0,0,Amnat Charoen,Hua Taphan,Nong Kaeo
+2014-01-01,710404,กาญจนบุรี,ศรีสวัสดิ์,ท่ากระดาน,ท่ากระดาน,0,0,0,Kanchanaburi,Si Sawat,Tha Kradan
+2014-01-01,802102,นครศรีธรรมราช,นบพิตำ,กรุงชิง,ห้วยตง,36.67,6.58,66.67,Nakhon Si Thammarat,Nopphitam,Krung Ching
+2014-01-01,480409,นครพนม,บ้านแพง,นาเข,นาเขเหนือ,0,0,0,Nakhon Phanom,Ban Phaeng,Na Khae
+2013-12-01,800405,นครศรีธรรมราช,ฉวาง,ไม้เรียง,หนองท่อม,70.64,8.29,95.41,Nakhon Si Thammarat,Chawang,Mai Riang
+2013-12-01,800813,นครศรีธรรมราช,ท่าศาลา,โพธิ์ทอง,สองแพรก,64.47,24.94,255.26,Nakhon Si Thammarat,Tha Sala,Pho Thong
+2013-12-01,800107,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากนคร,นางพระยา,55.56,14.14,151.85,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pak Nakhon
+2013-11-01,810201,กระบี่,เขาพนม,เขาพนม,เขาพนม,0,0,0,Krabi,Khao Phanom,Khao Phanom
+2013-11-01,810401,กระบี่,คลองท่อม,คลองท่อมใต้,หน้าค่าย,0,0,0,Krabi,Khlong Thom,Khlong Thom Tai
+2013-11-01,810601,กระบี่,ปลายพระยา,ปลายพระยา,วังจา,0,0,0,Krabi,Plai Phraya,Plai Phraya
+2013-11-01,810701,กระบี่,ลำทับ,ลำทับ,ลำทับ,0,0,0,Krabi,Lam Thap,Lam Thap
+2013-11-01,810801,กระบี่,เหนือคลอง,เหนือคลอง,เหนือคลอง,0,0,0,Krabi,Nuea Khlong,Nuea Khlong
+2013-11-01,810501,กระบี่,อ่าวลึก,อ่าวลึกใต้,เขาหลัก,0,0,0,Krabi,Ao Luek,Ao Luek Tai
+2013-11-01,801906,นครศรีธรรมราช,จุฬาภรณ์,สามตำบล,สำนักไม้เรียบ,12.5,5.45,45,Nakhon Si Thammarat,Chulabhorn,Sam Tambon
+2013-11-01,800410,นครศรีธรรมราช,ฉวาง,ไสหร้า,ไสหร้า,7.14,7.14,7.14,Nakhon Si Thammarat,Chawang,Sai Ra
+2013-11-01,800701,นครศรีธรรมราช,ชะอวด,ชะอวด,เนินทราย,0,0,0,Nakhon Si Thammarat,Cha-uat,Cha-Uat
+2013-11-01,800607,นครศรีธรรมราช,เชียรใหญ่,ท้องลำเจียก,ท้องลำเจียก,0,0,0,Nakhon Si Thammarat,Chian Yai,Thong Lamchiak
+2013-11-01,801801,นครศรีธรรมราช,ถ้ำพรรณรา,ถ้ำพรรณรา,ปรายรา,20,9.09,20,Nakhon Si Thammarat,Tham Phannara,Tham Phannara
+2013-11-01,800801,นครศรีธรรมราช,ท่าศาลา,ท่าศาลา,ท่าสูง,16.67,16.67,50,Nakhon Si Thammarat,Tha Sala,Tha Sala
+2013-11-01,801101,นครศรีธรรมราช,ทุ่งใหญ่,ท่ายาง,ท่ายาง,60,20.34,240,Nakhon Si Thammarat,Thung Yai,Tha Yang
+2013-11-01,801001,นครศรีธรรมราช,นาบอน,นาบอน,นาบอนบ้าน,0,0,0,Nakhon Si Thammarat,Na Bon,Na Bon
+2013-11-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางจันสี,10,1.41,10,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2013-11-01,800201,นครศรีธรรมราช,พรหมคีรี,พรหมโลก,พรหมโลก,25,7.14,25,Nakhon Si Thammarat,Phrom Khiri,Phrom Lok
+2013-11-01,800504,นครศรีธรรมราช,พิปูน,ยางค้อม,ยางค้อม,16.67,13.33,33.33,Nakhon Si Thammarat,Phipun,Yang Khom
+2013-11-01,801301,นครศรีธรรมราช,ร่อนพิบูลย์,ร่อนพิบูลย์,ศาลาขี้เหล็ก,0,0,0,Nakhon Si Thammarat,Ron Phibun,Ron Phibun
+2013-11-01,800301,นครศรีธรรมราช,ลานสกา,เขาแก้ว,เขาแก้ว,0,0,0,Nakhon Si Thammarat,Lan Saka,Khao Kaeo
+2013-11-01,801601,นครศรีธรรมราช,หัวไทร,หัวไทร,หัวลำภู,0,0,0,Nakhon Si Thammarat,Hua Sai,Hua Sai
+2013-10-01,810303,กระบี่,เกาะลันตา,เกาะกลาง,ขุนสมุทร,0,0,0,Krabi,Ko Lanta,Ko Klang
+2013-10-01,810202,กระบี่,เขาพนม,เขาดิน,หนองบัว,0,0,0,Krabi,Khao Phanom,Khao Din
+2013-10-01,810808,กระบี่,เหนือคลอง,ห้วยยูง,นาปง,10,2.17,10,Krabi,Nuea Khlong,Huai Yung
+2013-10-01,810502,กระบี่,อ่าวลึก,แหลมสัก,อ่าวน้ำ,40,2.55,50,Krabi,Ao Luek,Laem Sak
+2013-10-01,810502,กระบี่,อ่าวลึก,แหลมสัก,อ่าวน้ำ,40,2.55,50,Krabi,Ao Luek,Laem Sak
+2013-10-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,เกาะขันธ์,12.5,3.79,37.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2013-10-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ไม้เสียบ,5,1.15,12.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2013-10-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ลานนา,10,2.55,27.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2013-10-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ควนดินแดง,7.5,1.55,17.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2013-10-01,800911,นครศรีธรรมราช,ทุ่งสง,ถ้ำใหญ่,จำปา,17.5,13.27,75,Nakhon Si Thammarat,Thung Song,Tham Yai
+2013-10-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ชายคลอง,25,7.66,45,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-10-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ทุ่งอินทนิล,12.5,5.42,32.5,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-09-01,810304,กระบี่,เกาะลันตา,คลองยาง,เขาฝาก,20,4,60,Krabi,Ko Lanta,Khlong Yang
+2013-09-01,810205,กระบี่,เขาพนม,หน้าเขา,ห้วยน้ำแก้ว,20,3.23,20,Krabi,Khao Phanom,Na Khao
+2013-09-01,810406,กระบี่,คลองท่อม,พรุดินนา,ควนหวายแดง,30,5.41,60,Krabi,Khlong Thom,Phru Din Na
+2013-09-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,นานอก,0,0,0,Krabi,Mueang Krabi,Krabi Noi
+2013-09-01,810805,กระบี่,เหนือคลอง,โคกยาง,ห้วยแทงงู,10,1.32,10,Krabi,Nuea Khlong,Khok Yang
+2013-09-01,810805,กระบี่,เหนือคลอง,โคกยาง,ห้วยแทงงู,10,1.32,10,Krabi,Nuea Khlong,Khok Yang
+2013-09-01,810502,กระบี่,อ่าวลึก,แหลมสัก,ในใส,30,2.4,30,Krabi,Ao Luek,Laem Sak
+2013-09-01,800902,นครศรีธรรมราช,ทุ่งสง,ชะมาย,คลองเขเปล,17.5,6.97,42.5,Nakhon Si Thammarat,Thung Song,Chamai
+2013-09-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ชายเขา,17.5,7.06,45,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-09-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,นาเปลี่ยน,12.5,6.4,40,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-09-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หนองแสง,5,2.09,12.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2013-09-01,800106,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าไร่,บางหลวง,10,1.54,10,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Tha Rai
+2013-08-01,810201,กระบี่,เขาพนม,เขาพนม,ควน,17.5,3.06,25,Krabi,Khao Phanom,Khao Phanom
+2013-08-01,810201,กระบี่,เขาพนม,เขาพนม,หนองไหล,7.5,1.16,7.5,Krabi,Khao Phanom,Khao Phanom
+2013-08-01,810401,กระบี่,คลองท่อม,คลองท่อมใต้,คลองขนาน,32.5,6.07,52.5,Krabi,Khlong Thom,Khlong Thom Tai
+2013-08-01,810407,กระบี่,คลองท่อม,เพหลา,พรุเตย,10,1.47,12.5,Krabi,Khlong Thom,Phela
+2013-08-01,810602,กระบี่,ปลายพระยา,เขาเขน,เขาเขน,10,0.85,10,Krabi,Plai Phraya,Khao Khen
+2013-08-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,20,6.3,20,Krabi,Mueang Krabi,Sai Thai
+2013-08-01,810503,กระบี่,อ่าวลึก,นาเหนือ,นาเหนือ,5,0.63,7.5,Krabi,Ao Luek,Na Nuea
+2013-08-01,730205,นครปฐม,กำแพงแสน,ทุ่งขวาง,ทุ่งขวาง,20,5.42,24,Nakhon Pathom,Kamphaeng Saen,Thung Khwang
+2013-08-01,730304,นครปฐม,นครชัยศรี,ท่าตำหนัก,ท่าตำหนัก,0,0,0,Nakhon Pathom,Nakhon Chai Si,Tha Tamnak
+2013-08-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขากอย,10,3.17,25,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2013-08-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ชายคลอง,12.5,3.65,30,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2013-08-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ท่าไทร,7.5,2.05,22.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2013-08-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,หัวนายเหลียว,28.75,11.31,78.75,Nakhon Si Thammarat,Thung Song,Khao Khao
+2013-08-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,ทับกลาง,17.5,7.16,67.5,Nakhon Si Thammarat,Thung Song,Khao Khao
+2013-08-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ฉาง,22.5,7.12,57.5,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-08-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ชายเขา,17.5,6.41,45,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-08-01,802102,นครศรีธรรมราช,นบพิตำ,กรุงชิง,เปียน,0,0,0,Nakhon Si Thammarat,Nopphitam,Krung Ching
+2013-08-01,802102,นครศรีธรรมราช,นบพิตำ,กรุงชิง,สวนปราง,0,0,0,Nakhon Si Thammarat,Nopphitam,Krung Ching
+2013-08-01,802102,นครศรีธรรมราช,นบพิตำ,กรุงชิง,ปากลง,0,0,0,Nakhon Si Thammarat,Nopphitam,Krung Ching
+2013-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,พรุเตย,10,4.56,32.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2013-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หน้าเขา,5,2.31,15,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2013-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คลองลำนาว,12.5,5.32,35,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2013-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,บางขัน,2.5,1.32,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2013-08-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หนองแสง,40,10,90,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2013-08-01,801409,นครศรีธรรมราช,สิชล,ทุ่งใส,ตลาดเสาร์(เขาฝาย),40,5.4,75,Nakhon Si Thammarat,Sichon,Thung Sai
+2013-08-01,700201,ราชบุรี,จอมบึง,จอมบึง,จอมบึง,0,0,0,Ratchaburi,Chom Bueng,Chom Bueng
+2013-08-01,740205,สมุทรสาคร,กระทุ่มแบน,บางยาง,บางยาง,0,0,0,Samut Sakhon,Krathum Baen,Bang Yang
+2013-07-01,810202,กระบี่,เขาพนม,เขาดิน,ช้างตาย,20,6.49,50,Krabi,Khao Phanom,Khao Din
+2013-07-01,810202,กระบี่,เขาพนม,เขาดิน,ทับพรุ,23.33,2.99,23.33,Krabi,Khao Phanom,Khao Din
+2013-07-01,500611,เชียงใหม่,แม่แตง,บ้านช้าง,ปางไม้แดง,40,8.62,50,Chiang Mai,Mae Taeng,Ban Chang
+2013-07-01,500611,เชียงใหม่,แม่แตง,บ้านช้าง,ต้นลุง,60,9.92,120,Chiang Mai,Mae Taeng,Ban Chang
+2013-07-01,500611,เชียงใหม่,แม่แตง,บ้านช้าง,ศรีดงเย็น,40,8.33,50,Chiang Mai,Mae Taeng,Ban Chang
+2013-07-01,730610,นครปฐม,สามพราน,กระทุ่มล้ม,กระทุ่มล้ม,40,6.87,53.33,Nakhon Pathom,Sam Phran,Krathum Lom
+2013-07-01,730605,นครปฐม,สามพราน,บางเตย,บางเตย,53.33,12.63,80,Nakhon Pathom,Sam Phran,Bang Toei
+2013-07-01,770704,ประจวบคีรีขันธ์,หัวหิน,หนองพลับ,ละเมาะ,76.67,25.99,263.33,Prachuap Khiri Khan,Hua Hin,Nong Phlap
+2013-07-01,770706,ประจวบคีรีขันธ์,หัวหิน,ห้วยสัตว์ใหญ่,ฟ้าประทาน,50,6.2,53.33,Prachuap Khiri Khan,Hua Hin,Huai Sat Yai
+2013-07-01,760502,เพชรบุรี,ท่ายาง,ท่าคอย,หนองขานาง,40,5.38,50,Phetchaburi,Tha Yang,Tha Khoi
+2013-07-01,760502,เพชรบุรี,ท่ายาง,ท่าคอย,หนองประดู่,30,3.77,40,Phetchaburi,Tha Yang,Tha Khoi
+2013-07-01,760502,เพชรบุรี,ท่ายาง,ท่าคอย,วังพลับ,50,8.65,90,Phetchaburi,Tha Yang,Tha Khoi
+2013-07-01,760503,เพชรบุรี,ท่ายาง,ยางหย่อง,ยางหย่อง,0,0,0,Phetchaburi,Tha Yang,Yang Yong
+2013-07-01,760503,เพชรบุรี,ท่ายาง,ยางหย่อง,ท่าวาย,0,0,0,Phetchaburi,Tha Yang,Yang Yong
+2013-07-01,760503,เพชรบุรี,ท่ายาง,ยางหย่อง,ท่าโรงหีบ,10,4.55,10,Phetchaburi,Tha Yang,Yang Yong
+2013-07-01,700510,ราชบุรี,บ้านโป่ง,บ้านม่วง,บ้านม่วง,90,9.78,180,Ratchaburi,Ban Pong,Ban Muang
+2013-07-01,700504,ราชบุรี,บ้านโป่ง,ปากแรต,ปากแรต,40,4.92,270,Ratchaburi,Ban Pong,Pak Raet
+2013-07-01,510206,ลำพูน,แม่ทา,ทาแม่ลอบ,ปงแม่ลอบ,6.67,1.52,10,Lamphun,Mae Tha,Tha Mae Lop
+2013-07-01,750308,สมุทรสงคราม,อัมพวา,ปลายโพงพาง,ปลายโพงพาง,10,29.51,180,Samut Songkhram,Amphawa,Plai Phongphang
+2013-07-01,750308,สมุทรสงคราม,อัมพวา,ปลายโพงพาง,วัดประชา,0,0,0,Samut Songkhram,Amphawa,Plai Phongphang
+2013-07-01,750308,สมุทรสงคราม,อัมพวา,ปลายโพงพาง,โคกเกตุ,40,4.44,60,Samut Songkhram,Amphawa,Plai Phongphang
+2013-07-01,750305,สมุทรสงคราม,อัมพวา,เหมืองใหม่,ปลายคลองเหมืองใหม่,20,8.75,70,Samut Songkhram,Amphawa,Mueang Mai
+2013-07-01,750305,สมุทรสงคราม,อัมพวา,เหมืองใหม่,ปลายคลองอ้อม,0,0,0,Samut Songkhram,Amphawa,Mueang Mai
+2013-07-01,750305,สมุทรสงคราม,อัมพวา,เหมืองใหม่,คลองวัว,20,4.59,50,Samut Songkhram,Amphawa,Mueang Mai
+2013-07-01,740205,สมุทรสาคร,กระทุ่มแบน,บางยาง,บางยาง,36.67,9.44,73.33,Samut Sakhon,Krathum Baen,Bang Yang
+2013-07-01,840213,สุราษฎร์ธานี,กาญจนดิษฐ์,คลองสระ,ม่วงลีบ,26.67,15.29,43.33,Surat Thani,Kanchanadit,Khlong Sa
+2013-07-01,840201,สุราษฎร์ธานี,กาญจนดิษฐ์,ท่าทองใหม่,ท่าทองใหม่,30,14.29,46.67,Surat Thani,Kanchanadit,Tha Thong Mai
+2013-06-01,810202,กระบี่,เขาพนม,เขาดิน,ช้างตาย,23.33,5.05,36.67,Krabi,Khao Phanom,Khao Din
+2013-06-01,810202,กระบี่,เขาพนม,เขาดิน,ทับพรุ,6.67,0.83,6.67,Krabi,Khao Phanom,Khao Din
+2013-06-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,คลองแค,10,2.61,10,Krabi,Khlong Thom,Huai Nam Khao
+2013-06-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,นา,7.5,1.92,7.5,Krabi,Khlong Thom,Huai Nam Khao
+2013-06-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,กระบี่น้อย,10,1.75,10,Krabi,Mueang Krabi,Krabi Noi
+2013-06-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,น้ำจาน,35,11.76,60,Krabi,Mueang Krabi,Krabi Noi
+2013-06-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,ห้วยเหรียง,7.5,1.82,10,Krabi,Mueang Krabi,Krabi Noi
+2013-06-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,ควนเนียง,12.5,2.61,10,Krabi,Mueang Krabi,Krabi Noi
+2013-06-01,810111,กระบี่,เมืองกระบี่,ทับปริก,ทับปริก,7.5,1.57,7.5,Krabi,Mueang Krabi,Thap Prik
+2013-06-01,810111,กระบี่,เมืองกระบี่,ทับปริก,ห้วยโต้,5,0.98,5,Krabi,Mueang Krabi,Thap Prik
+2013-06-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองจิลาด,5,0.93,2.5,Krabi,Mueang Krabi,Sai Thai
+2013-06-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,2.5,0.93,2.5,Krabi,Mueang Krabi,Sai Thai
+2013-06-01,810117,กระบี่,เมืองกระบี่,หนองทะเล,หนองทะเล,2.5,0.51,2.5,Krabi,Mueang Krabi,Nong Thale
+2013-06-01,810801,กระบี่,เหนือคลอง,เหนือคลอง,เหนือคลอง,5,1.44,7,Krabi,Nuea Khlong,Nuea Khlong
+2013-06-01,710604,กาญจนบุรี,ท่าม่วง,ท่าล้อ,หนองสองตอน,43.33,9.63,103.33,Kanchanaburi,Tha Muang,Tha Lo
+2013-06-01,710603,กาญจนบุรี,ท่าม่วง,วังศาลา,วังศาลา,66.67,14.83,130,Kanchanaburi,Tha Muang,Wang Sala
+2013-06-01,501506,เชียงใหม่,หางดง,สบแม่ข่า,เกาะ,40,11.05,66.67,Chiang Mai,Hang Dong,Sop Mae Kha
+2013-06-01,730406,นครปฐม,ดอนตูม,ดอนรวก,ดอนรวก,0,0,0,Nakhon Pathom,Don Tum,Don Ruak
+2013-06-01,730406,นครปฐม,ดอนตูม,ดอนรวก,ดอนรวก,0,0,0,Nakhon Pathom,Don Tum,Don Ruak
+2013-06-01,730406,นครปฐม,ดอนตูม,ดอนรวก,ดอนรวก,0,0,0,Nakhon Pathom,Don Tum,Don Ruak
+2013-06-01,730405,นครปฐม,ดอนตูม,บ้านหลวง,บ้านหลวง,50,10.34,90,Nakhon Pathom,Don Tum,Ban Luang
+2013-06-01,730405,นครปฐม,ดอนตูม,บ้านหลวง,บ้านหลวง,0,0,0,Nakhon Pathom,Don Tum,Ban Luang
+2013-06-01,730405,นครปฐม,ดอนตูม,บ้านหลวง,บ้านหลวง,0,0,0,Nakhon Pathom,Don Tum,Ban Luang
+2013-06-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,นาแว,28,8.66,68,Nakhon Si Thammarat,Chawang,Na Wae
+2013-06-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,คีรีวง,3.33,0.47,3.33,Nakhon Si Thammarat,Lan Saka,Kamlon
+2013-06-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,วังไทร,6.67,0.45,3.33,Nakhon Si Thammarat,Lan Saka,Kamlon
+2013-06-01,770604,ประจวบคีรีขันธ์,ปราณบุรี,ปากน้ำปราณ,สุขสวัสดิ์,0,0,0,Prachuap Khiri Khan,Pran Buri,Pak Nam Pran
+2013-06-01,760405,เพชรบุรี,ชะอำ,หนองศาลา,เพชรบูรณ์,10,1.25,10,Phetchaburi,Cha-am,Nong Sala
+2013-06-01,760405,เพชรบุรี,ชะอำ,หนองศาลา,หนองกระโดก,0,0,0,Phetchaburi,Cha-am,Nong Sala
+2013-06-01,760405,เพชรบุรี,ชะอำ,หนองศาลา,ข่อยกลึงดุม,10,2.74,20,Phetchaburi,Cha-am,Nong Sala
+2013-06-01,760406,เพชรบุรี,ชะอำ,ห้วยทรายเหนือ,ทุ่งหลวง,20,2.44,30,Phetchaburi,Cha-am,Huai Sai Nuea
+2013-06-01,760406,เพชรบุรี,ชะอำ,ห้วยทรายเหนือ,ทุ่งเคล็ด,10,1.52,10,Phetchaburi,Cha-am,Huai Sai Nuea
+2013-06-01,760406,เพชรบุรี,ชะอำ,ห้วยทรายเหนือ,ไร่ดินทอง,0,0,0,Phetchaburi,Cha-am,Huai Sai Nuea
+2013-06-01,490306,มุกดาหาร,ดอนตาล,นาสะเม็ง,โคกพัฒนา,0,0,0,Mukdahan,Don Tan,Na Sameng
+2013-06-01,490205,มุกดาหาร,นิคมคำสร้อย,นาอุดม,สมสะอาด,0,0,0,Mukdahan,Nikhom Kham Soi,Na Udom
+2013-06-01,490203,มุกดาหาร,นิคมคำสร้อย,หนองแวง,หนองแวง,0,0,0,Mukdahan,Nikhom Kham Soi,Nong Waeng
+2013-06-01,510605,ลำพูน,ป่าซาง,บ้านเรือน,เจดีย์สามยอด,26.67,4.23,30,Lamphun,Pa Sang,Ban Ruean
+2013-06-01,750309,สมุทรสงคราม,อัมพวา,บางแค,ปากคลองวัว,30,6.25,50,Samut Songkhram,Amphawa,Bang Khae
+2013-06-01,750309,สมุทรสงคราม,อัมพวา,บางแค,คลองบุญนาค,20,4.62,30,Samut Songkhram,Amphawa,Bang Khae
+2013-06-01,750309,สมุทรสงคราม,อัมพวา,บางแค,ปลายคลองบางแค,0,0,0,Samut Songkhram,Amphawa,Bang Khae
+2013-06-01,750308,สมุทรสงคราม,อัมพวา,ปลายโพงพาง,ปลายโพงพาง,30,2.44,20,Samut Songkhram,Amphawa,Plai Phongphang
+2013-06-01,750308,สมุทรสงคราม,อัมพวา,ปลายโพงพาง,ปลายโพงพาง,80,29.51,180,Samut Songkhram,Amphawa,Plai Phongphang
+2013-06-01,750308,สมุทรสงคราม,อัมพวา,ปลายโพงพาง,โคกเกตุ,20,9.23,60,Samut Songkhram,Amphawa,Plai Phongphang
+2013-06-01,720302,สุพรรณบุรี,ด่านช้าง,ด่านช้าง,โป่งค่าง,16.67,5.05,36.67,Suphan Buri,Dan Chang,Dan Chang
+2013-06-01,720301,สุพรรณบุรี,ด่านช้าง,หนองมะค่าโมง,ป่าสัก,43.33,12.59,120,Suphan Buri,Dan Chang,Nong Makha Mong
+2013-06-01,840213,สุราษฎร์ธานี,กาญจนดิษฐ์,คลองสระ,ม่วงลีบ,43.33,24.04,83.33,Surat Thani,Kanchanadit,Khlong Sa
+2013-06-01,840201,สุราษฎร์ธานี,กาญจนดิษฐ์,ท่าทองใหม่,ท่าทองใหม่,36.67,14.53,56.67,Surat Thani,Kanchanadit,Tha Thong Mai
+2013-06-01,370201,อำนาจเจริญ,ชานุมาน,ชานุมาน,นาสีดาน้อย,0,0,0,Amnat Charoen,Chanuman,Chanuman
+2013-06-01,370302,อำนาจเจริญ,ปทุมราชวงศา,คำโพน,คำโพน,0,0,0,Amnat Charoen,Pathum Ratchawongsa,Kham Phon
+2013-06-01,370302,อำนาจเจริญ,ปทุมราชวงศา,คำโพน,คำโพน,0,0,0,Amnat Charoen,Pathum Ratchawongsa,Kham Phon
+2013-06-01,370116,อำนาจเจริญ,เมืองอำนาจเจริญ,กุดปลาดุก,กุดน้ำคำ,0,0,0,Amnat Charoen,Mueang Amnat Charoen,Kut Pla Duk
+2013-06-01,370118,อำนาจเจริญ,เมืองอำนาจเจริญ,นายม,นาเยีย,0,0,0,Amnat Charoen,Mueang Amnat Charoen,Na Yom
+2013-06-01,370706,อำนาจเจริญ,ลืออำนาจ,แมด,เหล่าฝ้าย,0,0,0,Amnat Charoen,Lue Amnat,Maet
+2013-06-01,370705,อำนาจเจริญ,ลืออำนาจ,ไร่ขี,เหล่าเลิง,0,0,0,Amnat Charoen,Lue Amnat,Rai Khi
+2013-05-01,810305,กระบี่,เกาะลันตา,ศาลาด่าน,ศาลาด่าน,5,1.47,5,Krabi,Ko Lanta,Sala Dan
+2013-05-01,810202,กระบี่,เขาพนม,เขาดิน,ช้างตาย,20,5.61,40,Krabi,Khao Phanom,Khao Din
+2013-05-01,810202,กระบี่,เขาพนม,เขาดิน,ทับพรุ,13.33,1.6,10,Krabi,Khao Phanom,Khao Din
+2013-05-01,810404,กระบี่,คลองท่อม,ทรายขาว,ทรายขาว,7,2.01,7,Krabi,Khlong Thom,Sai Khao
+2013-05-01,810117,กระบี่,เมืองกระบี่,หนองทะเล,หนองทะเล,15,3.83,26,Krabi,Mueang Krabi,Nong Thale
+2013-05-01,710612,กาญจนบุรี,ท่าม่วง,รางสาลี่,สระกลอย,18,3.79,32,Kanchanaburi,Tha Muang,Rang Sali
+2013-05-01,710613,กาญจนบุรี,ท่าม่วง,หนองตากยา,คอเขา,36,10.56,60,Kanchanaburi,Tha Muang,Nong Tak Ya
+2013-05-01,710202,กาญจนบุรี,ไทรโยค,ท่าเสา,ท่าเสา,34,5.75,44,Kanchanaburi,Sai Yok,Tha Sao
+2013-05-01,220801,จันทบุรี,แก่งหางแมว,แก่งหางแมว,โป่งขนมจีน,0,0,0,Chanthaburi,Kaeng Hang Maeo,Kaeng Hang Maeo
+2013-05-01,220702,จันทบุรี,สอยดาว,ทุ่งขนาน,หนองบอน,6,1.15,8,Chanthaburi,Soi Dao,Thung Khanan
+2013-05-01,240104,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,คลองนา,คลองนา,12,2.66,14,Chachoengsao,Mueang Chachoengsao,Khlong Na
+2013-05-01,240703,ฉะเชิงเทรา,ราชสาส์น,ดงน้อย,ดงน้อย,52,13.25,95,Chachoengsao,Ratchasan,Dong Noi
+2013-05-01,200708,ชลบุรี,ศรีราชา,บ่อวิน,เขาขยาย,22,12.03,38,Chon Buri,Si Racha,Bo Win
+2013-05-01,860205,ชุมพร,ท่าแซะ,รับร่อ,รับร่อ,0,0,0,Chumphon,Tha Sae,Rap Ro
+2013-05-01,860802,ชุมพร,ทุ่งตะโก,ทุ่งตะไคร,ทุ่งตะไคร,0,0,0,Chumphon,Thung Tako,Thung Takhrai
+2013-05-01,860406,ชุมพร,หลังสวน,บ้านควน,บ้านควน,0,0,0,Chumphon,Lang Suan,Ban Khuan
+2013-05-01,500710,เชียงใหม่,แม่ริม,ดอนแก้ว,ศาลา,28,7.78,55,Chiang Mai,Mae Rim,Don Kaeo
+2013-05-01,730311,นครปฐม,นครชัยศรี,โคกพระเจดีย์,โคกพระเจดีย์,0,0,0,Nakhon Pathom,Nakhon Chai Si,Khok Phra Chedi
+2013-05-01,730311,นครปฐม,นครชัยศรี,โคกพระเจดีย์,โคกพระเจดีย์,0,0,0,Nakhon Pathom,Nakhon Chai Si,Khok Phra Chedi
+2013-05-01,730311,นครปฐม,นครชัยศรี,โคกพระเจดีย์,โคกพระเจดีย์,0,0,0,Nakhon Pathom,Nakhon Chai Si,Khok Phra Chedi
+2013-05-01,730311,นครปฐม,นครชัยศรี,โคกพระเจดีย์,โคกพระเจดีย์,0,0,0,Nakhon Pathom,Nakhon Chai Si,Khok Phra Chedi
+2013-05-01,730311,นครปฐม,นครชัยศรี,โคกพระเจดีย์,โคกพระเจดีย์,0,0,0,Nakhon Pathom,Nakhon Chai Si,Khok Phra Chedi
+2013-05-01,730311,นครปฐม,นครชัยศรี,โคกพระเจดีย์,โคกพระเจดีย์,40,7.14,50,Nakhon Pathom,Nakhon Chai Si,Khok Phra Chedi
+2013-05-01,730310,นครปฐม,นครชัยศรี,บางระกำ,บางระกำ,33,8.07,49,Nakhon Pathom,Nakhon Chai Si,Bang Rakam
+2013-05-01,730107,นครปฐม,เมืองนครปฐม,สนามจันทร์,สนามจันทร์,9,2.16,14,Nakhon Pathom,mueang Nakhon Pathom,Sanam Chan
+2013-05-01,730611,นครปฐม,สามพราน,คลองใหม่,คลองใหม่,15,2.88,18,Nakhon Pathom,Sam Phran,Khlong Mai
+2013-05-01,480503,นครพนม,ธาตุพนม,โพนแพง,โพนแพง,0,0,0,Nakhon Phanom,That Phanom,Phon Phaeng
+2013-05-01,480709,นครพนม,นาแก,นาเลียง,หนองคอง,0,0,0,Nakhon Phanom,Na Kae,Na Liang
+2013-05-01,480703,นครพนม,นาแก,หนองสังข์,หนองสังข์,0,0,0,Nakhon Phanom,Na Kae,Nong Sang
+2013-05-01,801906,นครศรีธรรมราช,จุฬาภรณ์,สามตำบล,สำนักไม้เรียบ,0,0,0,Nakhon Si Thammarat,Chulabhorn,Sam Tambon
+2013-05-01,480403,นครพนม,บ้านแพง,โพนทอง,นาดีหัวภู,0,0,0,Nakhon Phanom,Ban Phaeng,Phon Thong
+2013-05-01,480201,นครพนม,ปลาปาก,ปลาปาก,วังสิม,0,0,0,Nakhon Phanom,Pla Pak,Pla Pak
+2013-05-01,480206,นครพนม,ปลาปาก,มหาชัย,ดอนกลาง,0,0,0,Nakhon Phanom,Pla Pak,Mahachai
+2013-05-01,480604,นครพนม,เรณูนคร,นางาม,นายอ,0,0,0,Nakhon Phanom,Renu Nakhon,Na Ngam
+2013-05-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังอ่าง,16,2.9,37,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2013-05-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,บนควน,22,4.96,34,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-05-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,บางขัน,7.5,3.04,17.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2013-05-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนประ,7.5,3.66,22.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2013-05-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,สมสรร,10,4.65,30,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2013-05-01,801703,นครศรีธรรมราช,บางขัน,วังหิน,วังหิน,5,3,20,Nakhon Si Thammarat,Bang Khan,Wang Hin
+2013-05-01,801703,นครศรีธรรมราช,บางขัน,วังหิน,ทุ่งทับควาย,10,5.02,32.5,Nakhon Si Thammarat,Bang Khan,Wang Hin
+2013-05-01,802002,นครศรีธรรมราช,พระพรหม,นาสาร,หนองเข้,8,2.65,16,Nakhon Si Thammarat,Phra Phrom,Na San
+2013-05-01,800121,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าซัก,อ่างสำโรง,18,6.09,54,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Tha Sak
+2013-05-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,คีรีวง,10,1.79,13.33,Nakhon Si Thammarat,Lan Saka,Kamlon
+2013-05-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,วังไทร,6.67,0.96,6.67,Nakhon Si Thammarat,Lan Saka,Kamlon
+2013-05-01,770604,ประจวบคีรีขันธ์,ปราณบุรี,ปากน้ำปราณ,สุขสวัสดิ์,0,0,0,Prachuap Khiri Khan,Pran Buri,Pak Nam Pran
+2013-05-01,770608,ประจวบคีรีขันธ์,ปราณบุรี,วังก์พง,วังก์พง,23.33,8.51,53.33,Prachuap Khiri Khan,Pran Buri,Wang Phong
+2013-05-01,250214,ปราจีนบุรี,กบินทร์บุรี,วังท่าช้าง,วังท่าช้าง,12.61,3.48,20.17,Prachin Buri,Kabin Buri,Wang Tha Chang
+2013-05-01,250304,ปราจีนบุรี,นาดี,ทุ่งโพธิ์,ทุ่งโพธิ์,13.11,3.97,19.67,Prachin Buri,Na Di,Thung Pho
+2013-05-01,801406,นครศรีธรรมราช,สิชล,สีขีด,เขาพับผ่า,40,3.23,20,Nakhon Si Thammarat,Sichon,Si Khit
+2013-05-01,801406,นครศรีธรรมราช,สิชล,สีขีด,เขาพับผ่า,2.5,0.4,2.5,Nakhon Si Thammarat,Sichon,Si Khit
+2013-05-01,801406,นครศรีธรรมราช,สิชล,สีขีด,เขาพับผ่า,5,0.53,5,Nakhon Si Thammarat,Sichon,Si Khit
+2013-05-01,760615,เพชรบุรี,บ้านลาด,ห้วยข้อง,ห้วยข้อง,20,4.11,30,Phetchaburi,Ban Lat,Huai Khong
+2013-05-01,760615,เพชรบุรี,บ้านลาด,ห้วยข้อง,เหียงค้อม,0,1.79,20,Phetchaburi,Ban Lat,Huai Khong
+2013-05-01,760615,เพชรบุรี,บ้านลาด,ห้วยข้อง,หนองโสน,10,0.76,10,Phetchaburi,Ban Lat,Huai Khong
+2013-05-01,490506,มุกดาหาร,คำชะอี,บ้านค้อ,โคก,0,0,0,Mukdahan,Khamcha-i,Ban Kho
+2013-05-01,801406,นครศรีธรรมราช,สิชล,สีขีด,เขาพับผ่า,15,7.36,30,Nakhon Si Thammarat,Sichon,Si Khit
+2013-05-01,490505,มุกดาหาร,คำชะอี,หนองเอี่ยน,หนองบง,0,0,0,Mukdahan,Khamcha-i,Nong Ian
+2013-05-01,490405,มุกดาหาร,ดงหลวง,ชะโนดน้อย,หนองยาง,0,0,0,Mukdahan,Don Tan,Chanot Noi
+2013-05-01,490402,มุกดาหาร,ดงหลวง,หนองบัว,เหล่าดง,0,0,0,Mukdahan,Don Tan,Nong Bua
+2013-05-01,490110,มุกดาหาร,เมืองมุกดาหาร,คำอาฮวน,โนนสะอาด,0,0,0,Mukdahan,Mueang Mukdahan,Kham A Huan
+2013-05-01,490111,มุกดาหาร,เมืองมุกดาหาร,ดงเย็น,สามขัว,0,0,0,Mukdahan,Mueang Mukdahan,Dong Yen
+2013-05-01,490105,มุกดาหาร,เมืองมุกดาหาร,โพนทราย,ป่งเป้า,0,0,0,Mukdahan,Mueang Mukdahan,Phon Sai
+2013-05-01,490105,มุกดาหาร,เมืองมุกดาหาร,โพนทราย,ป่งเป้า,0,0,0,Mukdahan,Mueang Mukdahan,Phon Sai
+2013-05-01,210507,ระยอง,บ้านค่าย,ชากบก,ชากบก,17,0,0,Rayong,Ban Khai,Chak Bok
+2013-05-01,700410,ราชบุรี,ดำเนินสะดวก,สี่หมื่น,สี่หมื่น,0,0,0,Ratchaburi,Damnoen Saduak,Si Muen
+2013-05-01,700606,ราชบุรี,บางแพ,ดอนคา,ดอนคา,16,3.32,25,Ratchaburi,Bang Phae,Don Kha
+2013-05-01,700507,ราชบุรี,บ้านโป่ง,ดอนกระเบื้อง,ดอนกระเบื้อง,0,0,0,Ratchaburi,Ban Pong,Don Krabueang
+2013-05-01,700507,ราชบุรี,บ้านโป่ง,ดอนกระเบื้อง,ดอนกระเบื้อง,0,0,0,Ratchaburi,Ban Pong,Don Krabueang
+2013-05-01,700507,ราชบุรี,บ้านโป่ง,ดอนกระเบื้อง,ดอนกระเบื้อง,10,1.59,10,Ratchaburi,Ban Pong,Don Krabueang
+2013-05-01,700510,ราชบุรี,บ้านโป่ง,บ้านม่วง,บ้านม่วง,6,2.18,14,Ratchaburi,Ban Pong,Ban Muang
+2013-05-01,700510,ราชบุรี,บ้านโป่ง,บ้านม่วง,วังมะนาว,0,0,0,Ratchaburi,Ban Pong,Ban Muang
+2013-05-01,700510,ราชบุรี,บ้านโป่ง,บ้านม่วง,วังมะนาว,0,0,0,Ratchaburi,Ban Pong,Ban Muang
+2013-05-01,700510,ราชบุรี,บ้านโป่ง,บ้านม่วง,วังมะนาว,10,0.83,10,Ratchaburi,Ban Pong,Ban Muang
+2013-05-01,700710,ราชบุรี,โพธาราม,คลองข่อย,คลองข่อย,1,0.15,1,Ratchaburi,Photharam,Khlong Khoi
+2013-05-01,700112,ราชบุรี,เมืองราชบุรี,น้ำพุ,น้ำพุ,2,0.26,2,Ratchaburi,Mueang Ratchaburi,Namphu
+2013-05-01,510702,ลำพูน,บ้านธิ,ห้วยยาบ,ห้วยยาบ,6.67,1.55,6.67,Lamphun,Ban Thi,Huai Yap
+2013-05-01,760611,เพชรบุรี,บ้านลาด,สะพานไกร,สะพานไกร,0,0,0,Phetchaburi,Ban Lat,Sapan Krai
+2013-05-01,760611,เพชรบุรี,บ้านลาด,สะพานไกร,สะพานไกร,20,10.71,60,Phetchaburi,Ban Lat,Sapan Krai
+2013-05-01,750202,สมุทรสงคราม,บางคนที,บางสะแก,บางสะแก,10,0.81,10,Samut Songkhram,Bang Khonthi,Bang Sakae
+2013-05-01,750202,สมุทรสงคราม,บางคนที,บางสะแก,บางสะแก,0,0,0,Samut Songkhram,Bang Khonthi,Bang Sakae
+2013-05-01,750202,สมุทรสงคราม,บางคนที,บางสะแก,คลองชื่อ,20,5.41,20,Samut Songkhram,Bang Khonthi,Bang Sakae
+2013-05-01,750204,สมุทรสงคราม,บางคนที,โรงหีบ,โรงหีบ,0,0,0,Samut Songkhram,Bang Khonthi,Rong Hip
+2013-05-01,750204,สมุทรสงคราม,บางคนที,โรงหีบ,โรงหีบ,0,0,0,Samut Songkhram,Bang Khonthi,Rong Hip
+2013-05-01,750204,สมุทรสงคราม,บางคนที,โรงหีบ,คลองวัดกลางเหนือ,0,0,0,Samut Songkhram,Bang Khonthi,Rong Hip
+2013-05-01,760611,เพชรบุรี,บ้านลาด,สะพานไกร,ห้วยหลวง,0,0,0,Phetchaburi,Ban Lat,Sapan Krai
+2013-04-01,810701,กระบี่,ลำทับ,ลำทับ,นาพรุ,0,0,0,Krabi,Lam Thap,Lam Thap
+2013-04-01,710610,กาญจนบุรี,ท่าม่วง,พังตรุ,หนองหม้อแกง,13.33,3.69,26.67,Kanchanaburi,Tha Muang,Phang Tru
+2013-04-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,คีรีวง,6.67,1.4,10,Nakhon Si Thammarat,Lan Saka,Kamlon
+2013-04-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,วังไทร,6.67,2.45,16.67,Nakhon Si Thammarat,Lan Saka,Kamlon
+2013-04-01,770304,ประจวบคีรีขันธ์,ทับสะแก,เขาล้าน,พุตะแบก,20,4.55,43.33,Prachuap Khiri Khan,Thap Sakae,Khao Lan
+2013-04-01,760505,เพชรบุรี,ท่ายาง,มาบปลาเค้า,มาบปลาเค้า,50,13.33,60,Phetchaburi,Tha Yang,Map Pla Khao
+2013-04-01,760505,เพชรบุรี,ท่ายาง,มาบปลาเค้า,มาบปลาเค้า,60,13.21,70,Phetchaburi,Tha Yang,Map Pla Khao
+2013-04-01,760505,เพชรบุรี,ท่ายาง,มาบปลาเค้า,ตาลกง,40,16.67,60,Phetchaburi,Tha Yang,Map Pla Khao
+2013-04-01,750303,สมุทรสงคราม,อัมพวา,ท่าคา,ท่าคา,30,4.05,30,Samut Songkhram,Amphawa,Tha Kha
+2013-04-01,750303,สมุทรสงคราม,อัมพวา,ท่าคา,ท่าคา,0,0,0,Samut Songkhram,Amphawa,Tha Kha
+2013-04-01,750303,สมุทรสงคราม,อัมพวา,ท่าคา,ท่าคา,30,4.55,30,Samut Songkhram,Amphawa,Tha Kha
+2013-04-01,750305,สมุทรสงคราม,อัมพวา,เหมืองใหม่,เหมืองใหม่,30,3.19,30,Samut Songkhram,Amphawa,Mueang Mai
+2013-04-01,750305,สมุทรสงคราม,อัมพวา,เหมืองใหม่,ปลายคลองเหมืองใหม่,50,8.45,60,Samut Songkhram,Amphawa,Mueang Mai
+2013-04-01,750305,สมุทรสงคราม,อัมพวา,เหมืองใหม่,ปลายคลองชนาง,30,4.21,40,Samut Songkhram,Amphawa,Mueang Mai
+2013-04-01,720710,สุพรรณบุรี,สองพี่น้อง,ต้นตาล,แม่พระประจักษ์,3.33,0.59,3.33,Suphan Buri,Song Phi Nong,Ton Tan
+2013-04-01,840213,สุราษฎร์ธานี,กาญจนดิษฐ์,คลองสระ,ม่วงลีบ,23.33,6.15,26.67,Surat Thani,Kanchanadit,Khlong Sa
+2013-04-01,840213,สุราษฎร์ธานี,กาญจนดิษฐ์,คลองสระ,ม่วงลีบ,23.33,6.15,26.67,Surat Thani,Kanchanadit,Khlong Sa
+2013-04-01,840201,สุราษฎร์ธานี,กาญจนดิษฐ์,ท่าทองใหม่,ท่าทองใหม่,26.67,8.4,36.67,Surat Thani,Kanchanadit,Tha Thong Mai
+2013-04-01,840201,สุราษฎร์ธานี,กาญจนดิษฐ์,ท่าทองใหม่,ท่าทองใหม่,26.67,8.4,36.67,Surat Thani,Kanchanadit,Tha Thong Mai
+2013-03-01,810404,กระบี่,คลองท่อม,ทรายขาว,ห้วยลึก,24.56,7.97,38.6,Krabi,Khlong Thom,Sai Khao
+2013-03-01,810117,กระบี่,เมืองกระบี่,หนองทะเล,เกาะกวาง,24.56,7.53,43.86,Krabi,Mueang Krabi,Nong Thale
+2013-03-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ในไร่,31.25,5.89,57.81,Nakhon Si Thammarat,Chawang,Na Wae
+2013-03-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ควนดินแดง,10,1.97,22.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2013-03-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ห้วยปรง,5,1.34,12.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2013-03-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ทุ่งใหญ่,7.5,1.66,17.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2013-03-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,บ้านตูล,10,3.7,25,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2013-03-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ตูล,10,4.18,32.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2013-03-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ควนเงิน,10,3.64,27.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2013-03-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,กุมแป,7.5,2.71,20,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2013-03-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,วังกลม,7.5,2.23,15,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2013-03-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองบัว,50.63,16.43,164.56,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2013-03-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ที่วัง,28,5.79,34,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-03-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ก้างปลา,0,0,0,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-03-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ก้างปลา,61.54,9.01,76.92,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-03-01,801106,นครศรีธรรมราช,ทุ่งใหญ่,บางรูป,บางรูป,71.43,21.65,150,Nakhon Si Thammarat,Thung Yai,Bang Rup
+2013-03-01,802002,นครศรีธรรมราช,พระพรหม,นาสาร,มะม่วงตลอด,53.06,17.74,202.04,Nakhon Si Thammarat,Phra Phrom,Na San
+2013-03-01,802002,นครศรีธรรมราช,พระพรหม,นาสาร,ห้วยพระ,40.54,13.67,110.81,Nakhon Si Thammarat,Phra Phrom,Na San
+2013-03-01,800121,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าซัก,สว่าง,42.11,9.67,84.21,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Tha Sak
+2013-03-01,800121,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าซัก,คงคาเลียบ,51.72,8.46,75.86,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Tha Sak
+2013-03-01,800121,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าซัก,อ่างสำโรง,26.32,3.65,39.47,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Tha Sak
+2013-03-01,801409,นครศรีธรรมราช,สิชล,ทุ่งใส,ทุ่งใส,25,3.72,35,Nakhon Si Thammarat,Sichon,Thung Sai
+2013-03-01,801409,นครศรีธรรมราช,สิชล,ทุ่งใส,เขาเหลง,20,2.79,25,Nakhon Si Thammarat,Sichon,Thung Sai
+2013-02-01,810305,กระบี่,เกาะลันตา,ศาลาด่าน,ศาลาด่าน,7,2.4,7,Krabi,Ko Lanta,Sala Dan
+2013-02-01,810404,กระบี่,คลองท่อม,ทรายขาว,ทรายขาว,9,2.79,9,Krabi,Khlong Thom,Sai Khao
+2013-02-01,810117,กระบี่,เมืองกระบี่,หนองทะเล,หนองทะเล,14.71,2.53,17.65,Krabi,Mueang Krabi,Nong Thale
+2013-02-01,710612,กาญจนบุรี,ท่าม่วง,รางสาลี่,สระกลอย,30,6.87,58,Kanchanaburi,Tha Muang,Rang Sali
+2013-02-01,710613,กาญจนบุรี,ท่าม่วง,หนองตากยา,คอเขา,32,11.75,70,Kanchanaburi,Tha Muang,Nong Tak Ya
+2013-02-01,710202,กาญจนบุรี,ไทรโยค,ท่าเสา,ท่าเสา,46,4.6,58,Kanchanaburi,Sai Yok,Tha Sao
+2013-02-01,220801,จันทบุรี,แก่งหางแมว,แก่งหางแมว,โป่งขนมจีน,24,4.83,31,Chanthaburi,Kaeng Hang Maeo,Kaeng Hang Maeo
+2013-02-01,220801,จันทบุรี,แก่งหางแมว,แก่งหางแมว,โป่งขนมจีน,24,4.83,31,Chanthaburi,Kaeng Hang Maeo,Kaeng Hang Maeo
+2013-02-01,220401,จันทบุรี,โป่งน้ำร้อน,ทับไทร,ดงจิก,24,4.84,28,Chanthaburi,Pong Nam Ron,Thap Sai
+2013-02-01,220702,จันทบุรี,สอยดาว,ทุ่งขนาน,หนองบอน,24,4.52,35,Chanthaburi,Soi Dao,Thung Khanan
+2013-02-01,220702,จันทบุรี,สอยดาว,ทุ่งขนาน,หนองบอน,27,4.52,35,Chanthaburi,Soi Dao,Thung Khanan
+2013-02-01,240104,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,คลองนา,คลองนา,17,5.34,21,Chachoengsao,Mueang Chachoengsao,Khlong Na
+2013-02-01,240703,ฉะเชิงเทรา,ราชสาส์น,ดงน้อย,ดงน้อย,40,9.86,68,Chachoengsao,Ratchasan,Dong Noi
+2013-02-01,200618,ชลบุรี,พนัสนิคม,บ้านช้าง,สวนผัก,42.86,9.62,92.21,Chon Buri,Phanat Nikhom,Ban Chang
+2013-02-01,200708,ชลบุรี,ศรีราชา,บ่อวิน,บ่อวิน,27,11.08,39,Chon Buri,Si Racha,Bo Win
+2013-02-01,860205,ชุมพร,ท่าแซะ,รับร่อ,หาดใน,49.06,17.76,115.09,Chumphon,Tha Sae,Rap Ro
+2013-02-01,860802,ชุมพร,ทุ่งตะโก,ทุ่งตะไคร,ทุ่งตะไคร,34.31,9.05,53.92,Chumphon,Thung Tako,Thung Takhrai
+2013-02-01,860406,ชุมพร,หลังสวน,บ้านควน,บ้านควน,27.45,42.86,85.29,Chumphon,Lang Suan,Ban Khuan
+2013-02-01,730205,นครปฐม,กำแพงแสน,ทุ่งขวาง,ทุ่งขวาง,31,8.12,62,Nakhon Pathom,Kamphaeng Saen,Thung Khwang
+2013-02-01,730310,นครปฐม,นครชัยศรี,บางระกำ,บางระกำ,42,9.28,64,Nakhon Pathom,Nakhon Chai Si,Bang Rakam
+2013-02-01,730107,นครปฐม,เมืองนครปฐม,สนามจันทร์,สนามจันทร์,25,5.44,40,Nakhon Pathom,mueang Nakhon Pathom,Sanam Chan
+2013-02-01,730611,นครปฐม,สามพราน,คลองใหม่,คลองใหม่,24,4.51,35,Nakhon Pathom,Sam Phran,Khlong Mai
+2013-02-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,นาแว,18,2.79,18,Nakhon Si Thammarat,Chawang,Na Wae
+2013-02-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังอ่าง,14,2.2,27,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2013-02-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,สหกรณ์,32.5,13.47,82.5,Nakhon Si Thammarat,Thung Song,Khao Khao
+2013-02-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ชายเขา,22.5,6.47,37.5,Nakhon Si Thammarat,Thung Song,Thi Wang
+2013-02-01,800121,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ท่าซัก,ท่าซัก,27,8.45,75,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Tha Sak
+2013-02-01,120207,นนทบุรี,บางกรวย,มหาสวัสดิ์,โรงหมู,31.9,11.88,57.76,Nonthaburi,Bang Kruai,Mahasawat
+2013-02-01,120405,นนทบุรี,บางบัวทอง,ละหาร,สุเหร่าแดง,27.5,7.38,33.33,Nonthaburi,Bang Bua Thong,Lahan
+2013-02-01,120606,นนทบุรี,ปากเกร็ด,คลองพระอุดม,แหลมใหญ่,47.15,17.33,85.37,Nonthaburi,Pak Kret,Khlong Phra Udom
+2013-02-01,130204,ปทุมธานี,คลองหลวง,คลองสี่,คลองสี่,53.33,22.84,103.33,Pathum Thani,khlong Luang,Khlong Si
+2013-02-01,130604,ปทุมธานี,ลำลูกกา,ลำลูกกา,ลำลูกกา,28.7,14.9,45.22,Pathum Thani,Lam Luk Ka,Lam Luk Ka
+2013-02-01,250214,ปราจีนบุรี,กบินทร์บุรี,วังท่าช้าง,วังท่าช้าง,27,6.34,39,Prachin Buri,Kabin Buri,Wang Tha Chang
+2013-02-01,250304,ปราจีนบุรี,นาดี,ทุ่งโพธิ์,ทุ่งโพธิ์,20,7.35,40,Prachin Buri,Na Di,Thung Pho
+2013-02-01,940104,ปัตตานี,เมืองปัตตานี,บานา,ยูโยะ,7,2.67,8,Pattani,Mueang Pattani,Bana
+2013-02-01,940110,ปัตตานี,เมืองปัตตานี,รูสะมิแล,รูสะมิแล,22,6.27,21,Pattani,Mueang Pattani,Ru Samilae
+2013-02-01,140514,พระนครศรีอยุธยา,บางบาล,บางหัก,บางหัก,28.1,6.89,38.84,Phra Nakhon Si Ayutthaya,Bang Ban,Bang Hak
+2013-02-01,140609,พระนครศรีอยุธยา,บางปะอิน,บางประแดง,บางประแดง,15.45,5.47,28.46,Phra Nakhon Si Ayutthaya,Bang Pa-in,Bang Pradaeng
+2013-02-01,140108,พระนครศรีอยุธยา,พระนครศรีอยุธยา,ภูเขาทอง,ภูเขาทอง,33.33,11.37,65,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,Phu Khao Thong
+2013-02-01,141411,พระนครศรีอยุธยา,อุทัย,ข้าวเม่า,ข้าวเม่า,17.21,9.32,50.82,Phra Nakhon Si Ayutthaya,Uthai,Khao Mao
+2013-02-01,110206,สมุทรปราการ,บางบ่อ,คลองสวน,ตลาดคลองสวน,0,0,0,Samut Prakarn,Bang Bo,Khlong Suan
+2013-02-01,210601,ระยอง,ปลวกแดง,ปลวกแดง,ปลวกแดง,14,0,0,Rayong,Pluak Daeng,Pluak Daeng
+2013-02-01,210601,ระยอง,ปลวกแดง,ปลวกแดง,ปลวกแดง,0,0,0,Rayong,Pluak Daeng,Pluak Daeng
+2013-02-01,700410,ราชบุรี,ดำเนินสะดวก,สี่หมื่น,สี่หมื่น,4,1.11,9,Ratchaburi,Damnoen Saduak,Si Muen
+2013-02-01,700606,ราชบุรี,บางแพ,ดอนคา,ดอนคา,26,7.47,62,Ratchaburi,Bang Phae,Don Kha
+2013-02-01,700510,ราชบุรี,บ้านโป่ง,บ้านม่วง,บ้านม่วง,12,3.26,18,Ratchaburi,Ban Pong,Ban Muang
+2013-02-01,700710,ราชบุรี,โพธาราม,คลองข่อย,คลองข่อย,13,2.42,15,Ratchaburi,Photharam,Khlong Khoi
+2013-02-01,421402,เลย,หนองหิน,ตาดข่า,ซำทอง,0,0,0,Loei,Nong Hin,Tat Kha
+2013-02-01,471503,สกลนคร,โคกศรีสุพรรณ,ด่านม่วงคำ,ด่านม่วงคำ,17,5.14,22,Sakon Nakhon,Khok Si Suphan,Dan Muang Kham
+2013-02-01,470701,สกลนคร,นิคมน้ำอูน,นิคมน้ำอูน,หนองเบญจ,10,3.41,14,Sakon Nakhon,Nikhom Nam un,Nikhom Nam Un
+2013-02-01,471704,สกลนคร,โพนนาแก้ว,บ้านแป้น,น้ำพุ,9,2.96,12,Sakon Nakhon,Phon Na Kaeo,Ban Paen
+2013-02-01,470604,สกลนคร,วาริชภูมิ,คำบ่อ,หนองแปน,5,2.41,9,Sakon Nakhon,Waritchaphum,Kham Bo
+2013-02-01,901113,สงขลา,หาดใหญ่,ท่าข้าม,หนองบัว,10.89,3.15,12.87,Songkhla,Hat Yai,Tha Kham
+2013-02-01,901111,สงขลา,หาดใหญ่,ทุ่งใหญ่,พรุเตาะใน,10.81,2.97,14.86,Songkhla,Hat Yai,Thung Yai
+2013-02-01,901111,สงขลา,หาดใหญ่,ทุ่งใหญ่,พรุเตาะใน,18.75,3.51,18.75,Songkhla,Hat Yai,Thung Yai
+2013-02-01,901114,สงขลา,หาดใหญ่,น้ำน้อย,น้ำน้อยใน,15.63,9.09,53.13,Songkhla,Hat Yai,Nam Noi
+2013-02-01,901114,สงขลา,หาดใหญ่,น้ำน้อย,น้ำน้อยใน,12.99,1.89,10.39,Songkhla,Hat Yai,Nam Noi
+2013-02-01,110602,สมุทรปราการ,บางเสาธง,ศรีษะจรเข้น้อย,ศรีษะจรเข้น้อย,25,6.72,32,Samut Prakarn,Bang Sao Thong,Sisa Chorakhe Noi
+2013-02-01,740301,สมุทรสาคร,บ้านแพ้ว,บ้านแพ้ว,บ้านแพ้ว,10,2.02,13,Samut Sakhon,Ban Phaeo,Ban Phaeo
+2013-02-01,270802,สระแก้ว,โคกสูง,หนองม่วง,สว่างพัฒนา,6.8,1.11,6.8,Sa kaeo,Khok Sung,Nong Muang
+2013-02-01,270301,สระแก้ว,ตาพระยา,ตาพระยา,กุดเวียน,4,0.43,4,Sa kaeo,Ta Phraya,Ta Phraya
+2013-02-01,270103,สระแก้ว,เมืองสระแก้ว,ศาลาลำดวน,คลองสำอางใต้,38,10.48,65,Sa kaeo,Mueang Sa Kaeo,Sala Lamduan
+2013-02-01,270607,สระแก้ว,อรัญประเทศ,ทับพริก,ทับพริก,26,5.3,36,Sa kaeo,Aranyaprathet,Thap Phrik
+2013-02-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ทุ่งคอก,8,1.04,10,Suphan Buri,Song Phi Nong,Thung Khok
+2013-02-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ลองตอง,10,1.64,14,Suphan Buri,Song Phi Nong,Thung Khok
+2013-02-01,110602,สมุทรปราการ,บางเสาธง,ศรีษะจรเข้น้อย,ศรีษะจรเข้น้อย,25,8.28,42,Samut Prakarn,Bang Sao Thong,Sisa Chorakhe Noi
+2013-02-01,840703,สุราษฎร์ธานี,ท่าชนะ,ประสงค์,เกาะมุกด์,26,8.66,40,Surat Thani,Tha Chana,Prasong
+2013-02-01,390101,หนองบัวลำภู,เมืองหนองบัวลำภู,หนองบัว,วังน้ำขาว,0,0,0,Nong Bua Lam Phu,Mueang Nong Bua Lam Phu,Nong Bua
+2013-02-01,390412,หนองบัวลำภู,ศรีบุญเรือง,หันนางาม,โปร่งแจ้ง,0,0,0,Nong Bua Lam Phu,Si Bun Rueang,Han Na Ngam
+2013-02-01,370202,อำนาจเจริญ,ชานุมาน,โคกสาร,คันสูง,0,0,0,Amnat Charoen,Chanuman,Khok San
+2013-02-01,370201,อำนาจเจริญ,ชานุมาน,ชานุมาน,โนนสำราญ,0,0,0,Amnat Charoen,Chanuman,Chanuman
+2013-02-01,370201,อำนาจเจริญ,ชานุมาน,ชานุมาน,โนนสำราญ,24,0,0,Amnat Charoen,Chanuman,Chanuman
+2013-02-01,370302,อำนาจเจริญ,ปทุมราชวงศา,คำโพน,พุทธศิลป์,0,0,0,Amnat Charoen,Pathum Ratchawongsa,Kham Phon
+2013-02-01,370303,อำนาจเจริญ,ปทุมราชวงศา,นาหว้า,สหกรณ์,0,0,0,Amnat Charoen,Pathum Ratchawongsa,Na Wa
+2013-02-01,370402,อำนาจเจริญ,พนา,จานลาน,ผึ้ง,0,0,0,Amnat Charoen,Phana,Chan Lan
+2013-02-01,370401,อำนาจเจริญ,พนา,พนา,ม่วงสวาสดิ์,0,0,0,Amnat Charoen,Phana,Phana
+2013-02-01,370503,อำนาจเจริญ,เสนางคนิคม,ไร่สีสุก,ไร่สีสุก,0,0,0,Amnat Charoen,Senangkhanikhom,Rai Si Suk
+2013-02-01,370506,อำนาจเจริญ,เสนางคนิคม,หนองสามสี,หนองสามสี,0,0,0,Amnat Charoen,Senangkhanikhom,Nong Sam Si
+2013-01-01,800120,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากพูน,สวนจันทร์,45,7.89,60,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pak Phun
+2012-12-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,วังทอง,0,0,0,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-12-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,ห้วยหินฝน,0,0,0,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-12-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,ห้วยหินฝน,0,0,0,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-12-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ควนสมบูรณ์,10,2.14,22.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2012-12-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,สี่แยก,7.5,1.67,17.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2012-12-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองนนทรีย์,12.5,2.94,32.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-12-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองบัว,10,2.17,27.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-11-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ไม้เสียบ,5,1.46,15,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-11-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ลานนา,10,2.7,27.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-11-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ห้วยปรง,15,3.53,35,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-11-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ควนดินแดง,7.5,1.84,22.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-10-01,630605,ตาก,แม่สอด,แม่กาษา,แม่กื้ดสามท่า,0,0,0,Tak,Mae Sot,Mae Kasa
+2012-10-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ท่าไทร,7.5,2.13,22.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-10-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ลำแบน,7.5,2.87,32.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2012-10-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองบัว,10,2.28,27.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-10-01,940103,ปัตตานี,เมืองปัตตานี,จะบังติกอ,จะบังติกอ,5,0.81,6,Pattani,Mueang Pattani,Chabang Tiko
+2012-10-01,940104,ปัตตานี,เมืองปัตตานี,บานา,ยูโยะ,0,0,0,Pattani,Mueang Pattani,Bana
+2012-10-01,940104,ปัตตานี,เมืองปัตตานี,บานา,ปากาดอรอ,6,1.03,6,Pattani,Mueang Pattani,Bana
+2012-09-01,810404,กระบี่,คลองท่อม,ทรายขาว,ห้วยพลูหนัง,10,3.7,10,Krabi,Khlong Thom,Sai Khao
+2012-09-01,810404,กระบี่,คลองท่อม,ทรายขาว,บ่อม่วง,12.5,3.42,10,Krabi,Khlong Thom,Sai Khao
+2012-09-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,ทุ่งทับควาย,0,0,0,Krabi,Lam Thap,Thung Sai Thong
+2012-09-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,เกาะไทร,0,0,0,Krabi,Lam Thap,Thung Sai Thong
+2012-09-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองบัว,2.5,0.35,2.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-09-01,801001,นครศรีธรรมราช,นาบอน,นาบอน,นาบอน,22,8.71,68,Nakhon Si Thammarat,Na Bon,Na Bon
+2012-09-01,800118,นครศรีธรรมราช,เมืองนครศรีธรรมราช,โพธิ์เสด็จ,โพธิ์เสด็จ,14.81,1.8,7.41,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pho Sadet
+2012-09-01,950203,ยะลา,เบตง,ตาเนาะแมเราะ,มาลา,3,0.9,4,Yala,Betong,Tano Maero
+2012-09-01,950205,ยะลา,เบตง,ธารน้ำทิพย์,จาเราะซูซู,2,0.22,1,Yala,Betong,Than Nam Thip
+2012-09-01,950202,ยะลา,เบตง,ยะรม,ยะรม,5,1.17,5,Yala,Betong,Yarom
+2012-09-01,950106,ยะลา,เมืองยะลา,ยะลา,ยะลา,12,6.27,24,Yala,Mueang Yala,Yala
+2012-09-01,950109,ยะลา,เมืองยะลา,ลำใหม่,ป่าพ้อ,5,1.46,5,Yala,Mueang Yala,Lam Mai
+2012-08-01,810403,กระบี่,คลองท่อม,คลองพน,ดินนา,10,3.81,10,Krabi,Khlong Thom,Khlong Phon
+2012-08-01,810403,กระบี่,คลองท่อม,คลองพน,ในไร่0บ้านนา,12.5,3.45,10,Krabi,Khlong Thom,Khlong Phon
+2012-08-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,เขาตั้ง,5,1.65,7,Krabi,Mueang Krabi,Krabi Noi
+2012-08-01,710612,กาญจนบุรี,ท่าม่วง,รางสาลี่,สระกลอย,42,6.47,70,Kanchanaburi,Tha Muang,Rang Sali
+2012-08-01,710613,กาญจนบุรี,ท่าม่วง,หนองตากยา,หนองตากยา,62,15.27,120,Kanchanaburi,Tha Muang,Nong Tak Ya
+2012-08-01,710202,กาญจนบุรี,ไทรโยค,ท่าเสา,ท่าเสา,22,5.36,36,Kanchanaburi,Sai Yok,Tha Sao
+2012-08-01,860114,ชุมพร,เมืองชุมพร,ทุ่งคา,ทุ่งคา,21.7,4.49,28.3,Chumphon,Mueang Chumphon,Thung Kha
+2012-08-01,500209,เชียงใหม่,จอมทอง,แม่สอย,วังน้ำหยาด,11,2.33,13,Chiang Mai,Chom Thong,Mae Soi
+2012-08-01,500708,เชียงใหม่,แม่ริม,โป่งแยง,โป่งแยงนอก,17,4.6,22,Chiang Mai,Mae Rim,Pong Yaeng
+2012-08-01,500711,เชียงใหม่,แม่ริม,เหมืองแก้ว,ดอนตัน,24,7.35,38,Chiang Mai,Mae Rim,Mueang Kaeo
+2012-08-01,730212,นครปฐม,กำแพงแสน,กำแพงแสน,กำแพงแสน,0,0,0,Nakhon Pathom,Kamphaeng Saen,Kamphaeng Saen
+2012-08-01,730212,นครปฐม,กำแพงแสน,กำแพงแสน,กำแพงแสน,0,0,0,Nakhon Pathom,Kamphaeng Saen,Kamphaeng Saen
+2012-08-01,730215,นครปฐม,กำแพงแสน,วังน้ำเขียว,วังน้ำเขียว,0,0,0,Nakhon Pathom,Kamphaeng Saen,Wang Nam Khiao
+2012-08-01,730307,นครปฐม,นครชัยศรี,ขุนแก้ว,ขุนแก้ว,23,7.13,29,Nakhon Pathom,Nakhon Chai Si,Khun Kaeo
+2012-08-01,730301,นครปฐม,นครชัยศรี,นครชัยศรี,นครชัยศรี,0,0,0,Nakhon Pathom,Nakhon Chai Si,Nakhon Chai Si
+2012-08-01,730322,นครปฐม,นครชัยศรี,ลานตากฟ้า,ลานตากฟ้า,0,0,0,Nakhon Pathom,Nakhon Chai Si,Lan Tak Fa
+2012-08-01,730504,นครปฐม,บางเลน,บางภาษี,บางภาษี,0,0,0,Nakhon Pathom,Bang Len,Bang Phasi
+2012-08-01,730504,นครปฐม,บางเลน,บางภาษี,บางภาษี,59,2.26,9,Nakhon Pathom,Bang Len,Bang Phasi
+2012-08-01,730501,นครปฐม,บางเลน,บางเลน,บางเลน,0,0,0,Nakhon Pathom,Bang Len,Bang Len
+2012-08-01,730701,นครปฐม,พุทธมณฑล,ศาลายา,ศาลายา,0,0,0,Nakhon Pathom,Phutthamonthon,Sala Ya
+2012-08-01,730701,นครปฐม,พุทธมณฑล,ศาลายา,ศาลายา,26,13.03,49,Nakhon Pathom,Phutthamonthon,Sala Ya
+2012-08-01,730701,นครปฐม,พุทธมณฑล,ศาลายา,ศาลายา,0,0,0,Nakhon Pathom,Phutthamonthon,Sala Ya
+2012-08-01,730608,นครปฐม,สามพราน,ไร่ขิง,ไร่ขิง,0,0,0,Nakhon Pathom,Sam Phran,Rai Khing
+2012-08-01,730608,นครปฐม,สามพราน,ไร่ขิง,ไร่ขิง,0,0,0,Nakhon Pathom,Sam Phran,Rai Khing
+2012-08-01,730608,นครปฐม,สามพราน,ไร่ขิง,ไร่ขิง,1,0.39,1,Nakhon Pathom,Sam Phran,Rai Khing
+2012-08-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ท่าประจะ,2.5,0.23,2.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2012-08-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ควนสมบูรณ์,5,1.52,17.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2012-08-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,สี่แยก,5,1.28,12.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2012-08-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,บ้านตูล,7.5,2.16,15,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2012-08-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ตูล,10,2.23,15,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2012-08-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,กุมแป,75,2.15,150,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2012-08-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,วังกลม,5,0.7,5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2012-08-01,800906,นครศรีธรรมราช,ทุ่งสง,นาหลวงเสน,นาหลวงเสน,16,2.76,33,Nakhon Si Thammarat,Thung Song,Na Luang Sen
+2012-08-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ห้วยยูง,11,5.83,28,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2012-08-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ไสมะนาว,12,6.35,32,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2012-08-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,บ่อขรบ,8,1.78,10,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2012-08-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,ห้วยระย้า,5,0.94,6,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2012-08-01,800107,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากนคร,ปากนคร,11,2.03,27,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pak Nakhon
+2012-08-01,210502,ระยอง,บ้านค่าย,หนองละลอก,ตรอกสัตบัน,28,7.5,41,Rayong,Ban Khai,Nong Lalok
+2012-08-01,700405,ราชบุรี,ดำเนินสะดวก,ดอนกรวย,ดอนกรวย,0,0,0,Ratchaburi,Damnoen Saduak,Don Kruai
+2012-08-01,700411,ราชบุรี,ดำเนินสะดวก,ท่านัด,ท่านัด,0,0,0,Ratchaburi,Damnoen Saduak,Tha Nat
+2012-08-01,700410,ราชบุรี,ดำเนินสะดวก,สี่หมื่น,สี่หมื่น,2,0.44,4,Ratchaburi,Damnoen Saduak,Si Muen
+2012-08-01,700601,ราชบุรี,บางแพ,บางแพ,บางแพ,12,4.95,32,Ratchaburi,Bang Phae,Bang Phae
+2012-08-01,700607,ราชบุรี,บางแพ,โพหัก,โพหัก,0,0,0,Ratchaburi,Bang Phae,Pho Hak
+2012-08-01,700602,ราชบุรี,บางแพ,วังเย็น,วังเย็น,8,0.96,8,Ratchaburi,Bang Phae,Wang Yen
+2012-08-01,510611,ลำพูน,ป่าซาง,นครเจดีย์,โป่งรู,23,7.78,41,Lamphun,Pa Sang,Nakhon Chedi
+2012-08-01,510605,ลำพูน,ป่าซาง,บ้านเรือน,หนองดู่,4,0.85,5,Lamphun,Pa Sang,Ban Ruean
+2012-08-01,740209,สมุทรสาคร,กระทุ่มแบน,แคราย,แคราย,0,0,0,Samut Sakhon,Krathum Baen,Khae Rai
+2012-08-01,740205,สมุทรสาคร,กระทุ่มแบน,บางยาง,บางยาง,3,0.99,8,Samut Sakhon,Krathum Baen,Bang Yang
+2012-08-01,740202,สมุทรสาคร,กระทุ่มแบน,อ้อมน้อย,อ้อมน้อย,0,0,0,Samut Sakhon,Krathum Baen,Om Noi
+2012-08-01,740301,สมุทรสาคร,บ้านแพ้ว,บ้านแพ้ว,บ้านแพ้ว,0,0,0,Samut Sakhon,Ban Phaeo,Ban Phaeo
+2012-08-01,740303,สมุทรสาคร,บ้านแพ้ว,ยกกระบัตร,ยกกระบัตร,0,0,0,Samut Sakhon,Ban Phaeo,Yok Krabat
+2012-08-01,740304,สมุทรสาคร,บ้านแพ้ว,โรงเข้,โรงเข้,10,1.81,13,Samut Sakhon,Ban Phaeo,Rong Khe
+2012-08-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ทุ่งคอก,22,1.95,22,Suphan Buri,Song Phi Nong,Thung Khok
+2012-08-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ปากคอก,18,2.13,18,Suphan Buri,Song Phi Nong,Thung Khok
+2012-07-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,ห้วยหินฝน,0,0,0,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-07-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,ห้วยหินฝน,0,0,0,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-07-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,ผาทอง,3,0.4,2,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-07-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ไม้เสียบ,10,2.49,25,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-07-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ลานนา,5,1.65,17.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-07-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ห้วยปรง,7.5,1.77,20,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-07-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ทุ่งใหญ่,7.5,2.34,25,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-07-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ควนดินแดง,10,2.17,27.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-07-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขาพระทอง,5,2.02,15,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-07-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขาพระทอง,10,2.63,22.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-07-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,วังเคียน,7.5,2.59,20,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-07-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขากอย,10,4.1,32.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-07-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ชายคลอง,7.5,2.29,17.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-07-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนตอ,10,2.73,20,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2012-07-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,วังทอง,7.5,1.68,12.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2012-07-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางขัน,5,1.7,12.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-07-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เคี่ยมงาม,7.5,2.8,20,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-07-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,รัตนธาร,10,3.42,25,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-07-01,801409,นครศรีธรรมราช,สิชล,ทุ่งใส,ห้วยศรีชัย,30,5.97,52.5,Nakhon Si Thammarat,Sichon,Thung Sai
+2012-07-01,930201,พัทลุง,กงหรา,กงหรา,กงหรา,9,3.02,13,Phatthalung,Kong Ra,Kong Ra
+2012-07-01,930203,พัทลุง,กงหรา,คลองเฉลิม,พูด,1,0.22,1,Phatthalung,Kong Ra,Khlong Cha Loem
+2012-07-01,930204,พัทลุง,กงหรา,คลองทรายขาว,ท่าเหนาะ,9,2.45,11,Phatthalung,Kong Ra,Khlong Sai Khao
+2012-07-01,930202,พัทลุง,กงหรา,ชะรัด,ควนขี้แรด,6,2.73,11,Phatthalung,Kong Ra,Charat
+2012-07-01,930302,พัทลุง,เขาชัยสน,ควนขนุน,นาหยา,9,1.45,7,Phatthalung,Khao Chaison,Khuan Kha Nun
+2012-07-01,930307,พัทลุง,เขาชัยสน,โคกม่วง,ท่าควาย,5,1.38,7,Phatthalung,Khao Chaison,Khok Muang
+2012-07-01,930305,พัทลุง,เขาชัยสน,จองถนน,แตระ,4,1.11,4,Phatthalung,Khao Chaison,Chong Tha Non
+2012-07-01,930306,พัทลุง,เขาชัยสน,หานโพธิ์,คลองขุด,8,1.9,9,Phatthalung,Khao Chaison,Han Pho
+2012-07-01,930513,พัทลุง,ควนขนุน,ชะมวง,หัวถนน,0,0,0,Phatthalung,Khuan Khanun,Chamuang
+2012-07-01,930510,พัทลุง,ควนขนุน,ดอนทราย,ใสอ้อย,0,0,0,Phatthalung,Khuan Khanun,Don Sai
+2012-07-01,930504,พัทลุง,ควนขนุน,นาขยาด,เกาะยาง,0,1.17,0,Phatthalung,Khuan Khanun,Nakhayat
+2012-07-01,930505,พัทลุง,ควนขนุน,พนมวังก์,เขาพนม,9,2.06,9,Phatthalung,Khuan Khanun,Phanom Wang
+2012-07-01,901604,สงขลา,คลองหอยโข่ง,คลองหลา,คลองหลา,9.8,2.85,15.69,Songkhla,Khlong Hoi Khong,Khlong La
+2012-07-01,901601,สงขลา,คลองหอยโข่ง,คลองหอยโข่ง,เก่าร้าง,11.21,3.55,19.63,Songkhla,Khlong Hoi Khong,Khlong Hoi Khong
+2012-07-01,901603,สงขลา,คลองหอยโข่ง,โคกม่วง,โคกม่วง,10,1.82,10,Songkhla,Khlong Hoi Khong,Khok Muang
+2012-07-01,901602,สงขลา,คลองหอยโข่ง,ทุ่งลาน,ทุ่งลาน,8.91,3.35,16.83,Songkhla,Khlong Hoi Khong,Thung Lan
+2012-06-01,120405,นนทบุรี,บางบัวทอง,ละหาร,ละหาร,17.07,0,0,Nonthaburi,Bang Bua Thong,Lahan
+2012-06-01,120405,นนทบุรี,บางบัวทอง,ละหาร,ละหาร,17.07,2.72,17.07,Nonthaburi,Bang Bua Thong,Lahan
+2012-06-01,120607,นนทบุรี,ปากเกร็ด,ท่าอิฐ,ท่าอิฐ,75,27.52,205,Nonthaburi,Pak Kret,Tha It
+2012-06-01,120607,นนทบุรี,ปากเกร็ด,ท่าอิฐ,ท่าอิฐ,0,0,0,Nonthaburi,Pak Kret,Tha It
+2012-06-01,210502,ระยอง,บ้านค่าย,หนองละลอก,ตรอกสัตบัน,38,11.79,68,Rayong,Ban Khai,Nong Lalok
+2012-06-01,900310,สงขลา,จะนะ,จะโหนง,ตรับ,20.75,6.31,37.74,Songkhla,Chana,Cha Nong
+2012-06-01,900305,สงขลา,จะนะ,นาหว้า,ประจ่าใต้,18.18,6.16,31.82,Songkhla,Chana,Na Wa
+2012-05-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,เขาตั้ง,9,1.52,9,Krabi,Mueang Krabi,Krabi Noi
+2012-05-01,710612,กาญจนบุรี,ท่าม่วง,รางสาลี่,สระกลอย,28,4.86,50,Kanchanaburi,Tha Muang,Rang Sali
+2012-05-01,710613,กาญจนบุรี,ท่าม่วง,หนองตากยา,หนองตากยา,52,14.97,106,Kanchanaburi,Tha Muang,Nong Tak Ya
+2012-05-01,710202,กาญจนบุรี,ไทรโยค,ท่าเสา,ท่าเสา,13,3.02,21,Kanchanaburi,Sai Yok,Tha Sao
+2012-05-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,วังทอง,0,0,0,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-05-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,วังทอง,0,0,0,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-05-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,ผาทอง,9,1.19,10,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-05-01,860114,ชุมพร,เมืองชุมพร,ทุ่งคา,ทุ่งคา,44.33,9.32,85.57,Chumphon,Mueang Chumphon,Thung Kha
+2012-05-01,500209,เชียงใหม่,จอมทอง,แม่สอย,วังน้ำหยาด,13,2.41,15,Chiang Mai,Chom Thong,Mae Soi
+2012-05-01,500708,เชียงใหม่,แม่ริม,โป่งแยง,โป่งแยงนอก,34,9.89,52,Chiang Mai,Mae Rim,Pong Yaeng
+2012-05-01,500711,เชียงใหม่,แม่ริม,เหมืองแก้ว,ดอนตัน,17,4.07,23,Chiang Mai,Mae Rim,Mueang Kaeo
+2012-05-01,260303,นครนายก,บ้านนา,บ้านพริก,บ้านพริก,13.24,2.72,20.59,Nakhon Nayok,Ban Na,Ban Phrik
+2012-05-01,801905,นครศรีธรรมราช,จุฬาภรณ์,นาหมอบุญ,นาหมอบุญ,12.5,3.83,27.5,Nakhon Si Thammarat,Chulabhorn,Na Mo Bun
+2012-05-01,801905,นครศรีธรรมราช,จุฬาภรณ์,นาหมอบุญ,คอกวัว,10,2.79,20,Nakhon Si Thammarat,Chulabhorn,Na Mo Bun
+2012-05-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ไม้เสียบ,7.5,1.59,15,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-05-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ลานนา,0,0,0,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-05-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,บ้านตูล,15,3.86,27.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2012-05-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ตูล,7.5,2.02,15,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2012-05-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ควนเงิน,10,2.88,22.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2012-05-01,800906,นครศรีธรรมราช,ทุ่งสง,นาหลวงเสน,ใต้,12,3.54,23,Nakhon Si Thammarat,Thung Song,Na Luang Sen
+2012-05-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ห้วยยูง,6,1.1,8,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2012-05-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ไสมะนาว,7,1.51,11,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2012-05-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,บ่อขรบ,3,0.59,4,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2012-05-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,บ่อขรบ,5,1.05,9,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2012-05-01,800107,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากนคร,ปากนคร,11,3.63,38,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pak Nakhon
+2012-05-01,130203,ปทุมธานี,คลองหลวง,คลองสาม,คลองสาม,37.74,12.63,66.98,Pathum Thani,khlong Luang,Khlong Sam
+2012-05-01,700410,ราชบุรี,ดำเนินสะดวก,สี่หมื่น,คูหาสวรรค์,1,0.12,1,Ratchaburi,Damnoen Saduak,Si Muen
+2012-05-01,700601,ราชบุรี,บางแพ,บางแพ,บางแพ,0,0,0,Ratchaburi,Bang Phae,Bang Phae
+2012-05-01,700602,ราชบุรี,บางแพ,วังเย็น,วังเย็น,2,1.46,8,Ratchaburi,Bang Phae,Wang Yen
+2012-05-01,510611,ลำพูน,ป่าซาง,นครเจดีย์,โป่งรู,24,7.17,36,Lamphun,Pa Sang,Nakhon Chedi
+2012-05-01,510605,ลำพูน,ป่าซาง,บ้านเรือน,หนองดู่,14,4.99,25,Lamphun,Pa Sang,Ban Ruean
+2012-05-01,740209,สมุทรสาคร,กระทุ่มแบน,แคราย,แคราย,0,0,0,Samut Sakhon,Krathum Baen,Khae Rai
+2012-05-01,740205,สมุทรสาคร,กระทุ่มแบน,บางยาง,บางยาง,7,2.75,11,Samut Sakhon,Krathum Baen,Bang Yang
+2012-05-01,740202,สมุทรสาคร,กระทุ่มแบน,อ้อมน้อย,อ้อมน้อย,0,0,0,Samut Sakhon,Krathum Baen,Om Noi
+2012-05-01,740301,สมุทรสาคร,บ้านแพ้ว,บ้านแพ้ว,บ้านแพ้ว,11,0,0,Samut Sakhon,Ban Phaeo,Ban Phaeo
+2012-05-01,740303,สมุทรสาคร,บ้านแพ้ว,ยกกระบัตร,ยกกระบัตร,0,0,0,Samut Sakhon,Ban Phaeo,Yok Krabat
+2012-05-01,740304,สมุทรสาคร,บ้านแพ้ว,โรงเข้,โรงเข้,7,2.4,10,Samut Sakhon,Ban Phaeo,Rong Khe
+2012-05-01,270306,สระแก้ว,ตาพระยา,ทัพราช,หนองปรือ,31.68,5.52,46.53,Sa kaeo,Ta Phraya,Thappharat
+2012-05-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ทุ่งคอก,52,10.58,102,Suphan Buri,Song Phi Nong,Thung Khok
+2012-05-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ปากคอก,12,2.21,20,Suphan Buri,Song Phi Nong,Thung Khok
+2012-05-01,430502,หนองคาย,โพนพิสัย,วัดหลวง,วัดหลวง,0,0,0,Nong Khai,Phon Phisai,Wat Luang
+2012-05-01,430110,หนองคาย,เมืองหนองคาย,ค่ายบกหวาน,ค่ายบกหวาน,0,0,0,Nong Khai,Mueang Nong Khai,Khai Bok Wan
+2012-05-01,411101,อุดรธานี,บ้านดุง,ศรีสุทโธ,ศรีสุทโธ,0,0,0,Udon Thani,Ban Dung,Si Suttho
+2012-05-01,411701,อุดรธานี,บ้านผือ,บ้านผือ,บ้านผือ,0,0,0,Udon Thani,Ban Phue,Ban Phue
+2012-05-01,411901,อุดรธานี,เพ็ญ,เพ็ญ,เพ็ญ,0,0,0,Udon Thani,Phen,Phen
+2012-05-01,410101,อุดรธานี,เมืองอุดรธานี,หมากแข้ง,หมากแข้ง,23,7.54,26,Udon Thani,Mueang Udon Thani,Mak Khaeng
+2012-05-01,410601,อุดรธานี,หนองหาน,หนองหาน,หนองหาน,0,0,0,Udon Thani,Nong Saeng,Nong Han
+2012-04-01,810204,กระบี่,เขาพนม,พรุเตียว,พรุเตียว,7.5,1.21,7.5,Krabi,Khao Phanom,Phru Tiao
+2012-04-01,360301,ชัยภูมิ,คอนสวรรค์,คอนสวรรค์,คอนสวรรค์,30,6.44,37.5,Chaiyaphum,Khon Sawan,Khon Sawan
+2012-04-01,360307,ชัยภูมิ,คอนสวรรค์,โคกมั่งงอย,โคกมั่งงอย,42.5,10.78,62.5,Chaiyaphum,Khon Sawan,Khok Mang Ngoi
+2012-04-01,360309,ชัยภูมิ,คอนสวรรค์,ศรีสำราญ,นามน,27.5,6.53,40,Chaiyaphum,Khon Sawan,Si Samran
+2012-04-01,360308,ชัยภูมิ,คอนสวรรค์,หนองขาม,ฝาย,37.5,7.28,47.5,Chaiyaphum,Khon Sawan,Nong Kham
+2012-04-01,361501,ชัยภูมิ,เนินสง่า,หนองฉิม,หนองบัวแดง,7.5,10.19,55,Chaiyaphum,Noen Sa-nga,Nong Chim
+2012-04-01,360204,ชัยภูมิ,บ้านเขว้า,ชีบน,โนนนาพวง,12.5,2.32,17.5,Chaiyaphum,Ban Khwao,Chi Bon
+2012-04-01,360204,ชัยภูมิ,บ้านเขว้า,ชีบน,ใหม่หนองแดง,17.5,3.61,25,Chaiyaphum,Ban Khwao,Chi Bon
+2012-04-01,360202,ชัยภูมิ,บ้านเขว้า,ตลาดแร้ง,กุดยาง,17.5,3.2,20,Chaiyaphum,Ban Khwao,Talat Raeng
+2012-04-01,360202,ชัยภูมิ,บ้านเขว้า,ตลาดแร้ง,หลุบโพธิ์,17.5,3.09,20,Chaiyaphum,Ban Khwao,Talat Raeng
+2012-04-01,360202,ชัยภูมิ,บ้านเขว้า,ตลาดแร้ง,คลองอุดม,20,3.83,22.5,Chaiyaphum,Ban Khwao,Talat Raeng
+2012-04-01,360206,ชัยภูมิ,บ้านเขว้า,โนนแดง,โนนเสาเล้า,12.5,2.45,15,Chaiyaphum,Ban Khwao,Non Daeng
+2012-04-01,360201,ชัยภูมิ,บ้านเขว้า,บ้านเขว้า,โนนตาด,15,4.18,25,Chaiyaphum,Ban Khwao,Ban Khwao
+2012-04-01,360205,ชัยภูมิ,บ้านเขว้า,ภูแลนคา,โนนเหลื่อม,5,0.8,5,Chaiyaphum,Ban Khwao,Phu Laen Kha
+2012-04-01,360203,ชัยภูมิ,บ้านเขว้า,ลุ่มลำชี,โนนน้อย,22.5,4.55,27.5,Chaiyaphum,Ban Khwao,Lum Lam Chi
+2012-04-01,360203,ชัยภูมิ,บ้านเขว้า,ลุ่มลำชี,หางเรียง,12.5,3.31,20,Chaiyaphum,Ban Khwao,Lum Lam Chi
+2012-04-01,361103,ชัยภูมิ,บ้านแท่น,สระพัง,สระพัง,15,2.55,17.5,Chaiyaphum,Ban Thaen,Sa Phang
+2012-04-01,361102,ชัยภูมิ,บ้านแท่น,สามสวน,หลุบค่าย,7.5,1.46,10,Chaiyaphum,Ban Thaen,Sam Suan
+2012-04-01,361105,ชัยภูมิ,บ้านแท่น,หนองคู,โนนสะอาด,22.5,3.7,27.5,Chaiyaphum,Ban Thaen,Nong Khu
+2012-04-01,360106,ชัยภูมิ,เมืองชัยภูมิ,กุดตุ้ม,สระไข่น้ำ,10,1.69,10,Chaiyaphum,Mueang Chaiyaphum,Kut Tum
+2012-04-01,360117,ชัยภูมิ,เมืองชัยภูมิ,โคกสูง,ยางบ่า,15,3.77,22.5,Chaiyaphum,Mueang Chaiyaphum,Khok Sung
+2012-04-01,360104,ชัยภูมิ,เมืองชัยภูมิ,นาฝาย,โนนเหลี่ยม,22.5,5.32,35,Chaiyaphum,Mueang Chaiyaphum,Na Fai
+2012-04-01,360109,ชัยภูมิ,เมืองชัยภูมิ,นาเสียว,นาเสียว,10,5.65,32.5,Chaiyaphum,Mueang Chaiyaphum,Na Siao
+2012-04-01,360118,ชัยภูมิ,เมืองชัยภูมิ,บุ่งคล้า,หัวนา,32.5,8.7,50,Chaiyaphum,Mueang Chaiyaphum,Bung Khla
+2012-04-01,360110,ชัยภูมิ,เมืองชัยภูมิ,หนองนาแซง,กุดละลม,30,7.46,37.5,Chaiyaphum,Mueang Chaiyaphum,Nong Na Saeng
+2012-04-01,360114,ชัยภูมิ,เมืองชัยภูมิ,ห้วยต้อน,ดงคำน้อย,10,2.44,15,Chaiyaphum,Mueang Chaiyaphum,Huai Ton
+2012-04-01,360114,ชัยภูมิ,เมืองชัยภูมิ,ห้วยต้อน,ชีลองกลาง,20,3.98,22.5,Chaiyaphum,Mueang Chaiyaphum,Huai Ton
+2012-04-01,360115,ชัยภูมิ,เมืองชัยภูมิ,ห้วยบง,ยางบง,22.5,4.48,25,Chaiyaphum,Mueang Chaiyaphum,Huai Bong
+2012-04-01,360502,ชัยภูมิ,หนองบัวแดง,กุดชุมแสง,คลองชุมแสง,2.5,0.32,2.5,Chaiyaphum,Nong Bua Daeng,Kut Chum Saeng
+2012-04-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ไร่ยาว,5,2.07,15,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2012-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางปริก,7.5,0,0,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,น้ำนิ่ง,7.5,2.55,17.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เคี่ยมงาม,10,2.69,20,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เกาะปล้าว,10,3.19,25,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-04-01,801409,นครศรีธรรมราช,สิชล,ทุ่งใส,ฝ่ายท่า,42.5,5.8,62.5,Nakhon Si Thammarat,Sichon,Thung Sai
+2012-03-01,360303,ชัยภูมิ,คอนสวรรค์,ช่องสามหมอ,หนองแดง,40,9.86,52.5,Chaiyaphum,Khon Sawan,Chong Sam Mo
+2012-03-01,360304,ชัยภูมิ,คอนสวรรค์,โนนสะอาด,กุดโดน,27.5,5.71,35,Chaiyaphum,Khon Sawan,Non Sa-At
+2012-03-01,360306,ชัยภูมิ,คอนสวรรค์,บ้านโสก,โปร่งโก,27.5,4.18,27.5,Chaiyaphum,Khon Sawan,Ban Sok
+2012-03-01,360302,ชัยภูมิ,คอนสวรรค์,ยางหวาย,ยางหวาย,27.5,5.69,30,Chaiyaphum,Khon Sawan,Yang Wai
+2012-03-01,360305,ชัยภูมิ,คอนสวรรค์,ห้วยไร่,ซับผักกูด,27.5,5.76,27.5,Chaiyaphum,Khon Sawan,Huai Rai
+2012-03-01,361503,ชัยภูมิ,เนินสง่า,กะฮาด,หนองตาโพธิ์,15,3.62,20,Chaiyaphum,Noen Sa-nga,Kahat
+2012-03-01,361503,ชัยภูมิ,เนินสง่า,กะฮาด,ท่าหว้า,17.5,4.55,25,Chaiyaphum,Noen Sa-nga,Kahat
+2012-03-01,361503,ชัยภูมิ,เนินสง่า,กะฮาด,หนองดินดำ,10,3.06,17.5,Chaiyaphum,Noen Sa-nga,Kahat
+2012-03-01,361502,ชัยภูมิ,เนินสง่า,ตาเนิน,สามหลักพัฒนา,12.5,3.56,20,Chaiyaphum,Noen Sa-nga,Ta Noen
+2012-03-01,361502,ชัยภูมิ,เนินสง่า,ตาเนิน,เนินทอง,40,8.92,47.5,Chaiyaphum,Noen Sa-nga,Ta Noen
+2012-03-01,361504,ชัยภูมิ,เนินสง่า,รังงาม,รังงาม,30,7.56,45,Chaiyaphum,Noen Sa-nga,Rang Ngam
+2012-03-01,361104,ชัยภูมิ,บ้านแท่น,บ้านเต่า,บ้านเต่า,22.5,3.25,25,Chaiyaphum,Ban Thaen,Ban Tao
+2012-03-01,361104,ชัยภูมิ,บ้านแท่น,บ้านเต่า,ดอนขิงแดง,2.5,0.29,2.5,Chaiyaphum,Ban Thaen,Ban Tao
+2012-03-01,361101,ชัยภูมิ,บ้านแท่น,บ้านแท่น,บ้านมอญ,12.5,2.17,15,Chaiyaphum,Ban Thaen,Ban Thaen
+2012-03-01,361102,ชัยภูมิ,บ้านแท่น,สามสวน,หินลาดโนนโกศล,17.5,2.31,20,Chaiyaphum,Ban Thaen,Sam Suan
+2012-03-01,361011,ชัยภูมิ,ภูเขียว,บ้านดอน,ห้างสูง,10,1.88,15,Chaiyaphum,Phu Khiao,Ban Don
+2012-03-01,361006,ชัยภูมิ,ภูเขียว,บ้านเพชร,หนองงูเหลือม,17.5,4.59,25,Chaiyaphum,Phu Khiao,Ban Phet
+2012-03-01,361009,ชัยภูมิ,ภูเขียว,โอโล,ห้วยพลวง,12.5,2.22,12.5,Chaiyaphum,Phu Khiao,O Lo
+2012-03-01,360106,ชัยภูมิ,เมืองชัยภูมิ,กุดตุ้ม,โนนโพธิ์,7.5,1.34,7.5,Chaiyaphum,Mueang Chaiyaphum,Kut Tum
+2012-03-01,360107,ชัยภูมิ,เมืองชัยภูมิ,ชีลอง,หนองบัวขาว,30,8.82,52.5,Chaiyaphum,Mueang Chaiyaphum,Chilong
+2012-03-01,360107,ชัยภูมิ,เมืองชัยภูมิ,ชีลอง,ใหม่พัฒนา,17.5,4.24,25,Chaiyaphum,Mueang Chaiyaphum,Chilong
+2012-03-01,360119,ชัยภูมิ,เมืองชัยภูมิ,ซับสีทอง,หนองฉาน,20,4.31,27.5,Chaiyaphum,Mueang Chaiyaphum,Sap Si Thong
+2012-03-01,360113,ชัยภูมิ,เมืองชัยภูมิ,ท่าหินโงม,วังน้ำเขียว,17.5,4,27.5,Chaiyaphum,Mueang Chaiyaphum,Tha Hin Ngom
+2012-03-01,360116,ชัยภูมิ,เมืองชัยภูมิ,โนนสำราญ,งิ้ว,22.5,3.95,25,Chaiyaphum,Mueang Chaiyaphum,Non Samran
+2012-03-01,360105,ชัยภูมิ,เมืองชัยภูมิ,บ้านค่าย,กุดเวียง,15,3.31,22.5,Chaiyaphum,Mueang Chaiyaphum,Ban Khai
+2012-03-01,360108,ชัยภูมิ,เมืองชัยภูมิ,บ้านเล่า,โพธิ์น้อย,15,3.13,17.5,Chaiyaphum,Mueang Chaiyaphum,Ban Lao
+2012-03-01,360103,ชัยภูมิ,เมืองชัยภูมิ,โพนทอง,ซับม่วง,12.5,1.99,10,Chaiyaphum,Mueang Chaiyaphum,Phon Thong
+2012-03-01,360102,ชัยภูมิ,เมืองชัยภูมิ,รอบเมือง,โนนกอก,2.5,0.42,2.5,Chaiyaphum,Mueang Chaiyaphum,Rop Mueang
+2012-03-01,360111,ชัยภูมิ,เมืองชัยภูมิ,ลาดใหญ่,ดงบัง,55,13.17,67.5,Chaiyaphum,Mueang Chaiyaphum,Lat Yai
+2012-03-01,360112,ชัยภูมิ,เมืองชัยภูมิ,หนองไผ่,หนองแหน,20,3.51,20,Chaiyaphum,Mueang Chaiyaphum,Nong Phai
+2012-03-01,360508,ชัยภูมิ,หนองบัวแดง,คูเมือง,ใหม่ห้วยกนทา,5,3.54,27.5,Chaiyaphum,Nong Bua Daeng,Khu Mueang
+2012-03-01,860114,ชุมพร,เมืองชุมพร,ทุ่งคา,ทุ่งคา,35.19,7.59,61.11,Chumphon,Mueang Chumphon,Thung Kha
+2012-03-01,570501,เชียงราย,พาน,สันมะเค็ด,สันมะเค็ด,4,0.68,4,Chiang Rai,Phan,San Makhet
+2012-03-01,570101,เชียงราย,เมืองเชียงราย,เวียง,เวียง,0,0,0,Chiang Rai,Mueang Chiang Rai,Wiang
+2012-03-01,500206,เชียงใหม่,จอมทอง,บ้านแปะ,ห้วยทราย,30,5.84,38,Chiang Mai,Chom Thong,Ban Pae
+2012-03-01,500209,เชียงใหม่,จอมทอง,แม่สอย,วังน้ำหยาด,25,5.18,27,Chiang Mai,Chom Thong,Mae Soi
+2012-03-01,260303,นครนายก,บ้านนา,บ้านพริก,บ้านพริก,34,6.45,59,Nakhon Nayok,Ban Na,Ban Phrik
+2012-03-01,300202,นครราชสีมา,ครบุรี,เฉลียง,เฉลียง,13,2.94,18,Nakhon Ratchasima,Khon Buri,Chaliang
+2012-03-01,300208,นครราชสีมา,ครบุรี,บ้านใหม่,บ้านใหม่,3,0.63,4,Nakhon Ratchasima,Khon Buri,Ban Mai
+2012-03-01,301005,นครราชสีมา,โนนสูง,ดอนชมพู,ดอนชมพู,28,4.51,44,Nakhon Ratchasima,Non Sung,Don Chomphu
+2012-03-01,301009,นครราชสีมา,โนนสูง,พลสงคราม,พลสงคราม,33,4.98,50,Nakhon Ratchasima,Non Sung,Phon Songkhram
+2012-03-01,301008,นครราชสีมา,โนนสูง,มะค่า,มะค่า,18,3.06,27,Nakhon Ratchasima,Non Sung,Makha
+2012-03-01,301007,นครราชสีมา,โนนสูง,หลุมข้าว,หลุมข้าว,23,3.38,33,Nakhon Ratchasima,Non Sung,Lum Khao
+2012-03-01,301214,นครราชสีมา,บัวใหญ่,กุดจอก,ดอนแร้ง,13,2.35,20,Nakhon Ratchasima,Bua Yai,Kut Chok
+2012-03-01,301215,นครราชสีมา,บัวใหญ่,ด่านช้าง,หนองเม็ก,8,1.13,8,Nakhon Ratchasima,Bua Yai,Dan Chang
+2012-03-01,301203,นครราชสีมา,บัวใหญ่,ห้วยยาง,ด่านช้าง,12,1.97,14,Nakhon Ratchasima,Bua Yai,Huai Yang
+2012-03-01,302102,นครราชสีมา,ปากช่อง,กลางดง,กลางดง,11,2.89,16,Nakhon Ratchasima,Pak Chong,Klang Dong
+2012-03-01,302103,นครราชสีมา,ปากช่อง,จันทึก,จันทึก,6,1.2,10,Nakhon Ratchasima,Pak Chong,Chan Thuek
+2012-03-01,302106,นครราชสีมา,ปากช่อง,หนองสาหร่าย,หนองสาหร่าย,38,9.81,53,Nakhon Ratchasima,Pak Chong,Nong Sarai
+2012-03-01,301504,นครราชสีมา,พิมาย,กระเบื้องใหญ่,ตำแย,6,1,7,Nakhon Ratchasima,Phimai,Krabueang Yai
+2012-03-01,301501,นครราชสีมา,พิมาย,ในเมือง,วังหิน,10,1.7,12,Nakhon Ratchasima,Phimai,Nai Mueang
+2012-03-01,301506,นครราชสีมา,พิมาย,รังกาใหญ่,ฉกาจ,34,0.94,6,Nakhon Ratchasima,Phimai,Rang Ka Yai
+2012-03-01,300119,นครราชสีมา,เมืองนครราชสีมา,หนองบัวศาลา,หนองบัวศาลา,42,13.95,59,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Nong Bua Sala
+2012-03-01,801502,นครศรีธรรมราช,ขนอม,ควนทอง,เขาวัง,37.5,6.56,72.5,Nakhon Si Thammarat,Khanom,Khuan Thong
+2012-03-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ชายคลอง,10,3.25,25,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-03-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนวัดใหม่,10,2.8,22.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2012-03-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนหนองหงษ์,5,1.53,12.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2012-03-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ทุ่งโป๊ะ,12.5,3.91,30,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2012-03-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ลำแบน,7.5,2.36,17.5,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2012-03-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองบัว,7.5,1.26,12.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ปากแพรก,7.5,1.75,12.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2012-03-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,เขาวง,5,1.05,7.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2012-03-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,เหนือคลองซา,5,1.52,10,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2012-03-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,พรุพรี,7.5,2.39,17.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-03-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ลำนาว,2.5,0.35,2.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-03-01,801401,นครศรีธรรมราช,สิชล,สิชล,สระสี่มุม,37.5,6.56,72.5,Nakhon Si Thammarat,Sichon,Sichon
+2012-03-01,120204,นนทบุรี,บางกรวย,บางขนุน,บางขนุน,24,22.64,96,Nonthaburi,Bang Kruai,Bang Khanun
+2012-03-01,120204,นนทบุรี,บางกรวย,บางขนุน,บางขนุน,26.09,9.79,50,Nonthaburi,Bang Kruai,Bang Khanun
+2012-03-01,120204,นนทบุรี,บางกรวย,บางขนุน,บางขนุน,34.15,18.27,87.8,Nonthaburi,Bang Kruai,Bang Khanun
+2012-03-01,120405,นนทบุรี,บางบัวทอง,ละหาร,ละหาร,11.9,1.79,11.9,Nonthaburi,Bang Bua Thong,Lahan
+2012-03-01,120405,นนทบุรี,บางบัวทอง,ละหาร,ละหาร,6.82,2.48,9.09,Nonthaburi,Bang Bua Thong,Lahan
+2012-03-01,120405,นนทบุรี,บางบัวทอง,ละหาร,ละหาร,10,5.78,25,Nonthaburi,Bang Bua Thong,Lahan
+2012-03-01,310127,บุรีรัมย์,เมืองบุรีรัมย์,กระสัง,กระสัง,29,7.65,46,Buri Ram,Mueang Buri Ram,Krasang
+2012-03-01,310611,บุรีรัมย์,ละหานทราย,โคกว่าน,โคกว่าน,12,2.47,17,Buri Ram,Lahan Sai,Khok Wan
+2012-03-01,130203,ปทุมธานี,คลองหลวง,คลองสาม,คลองสาม,80,25.45,142.5,Pathum Thani,khlong Luang,Khlong Sam
+2012-03-01,130203,ปทุมธานี,คลองหลวง,คลองสาม,คลองสาม,27.5,6.88,37.5,Pathum Thani,khlong Luang,Khlong Sam
+2012-03-01,130203,ปทุมธานี,คลองหลวง,คลองสาม,คลองสาม,75,21.15,137.5,Pathum Thani,khlong Luang,Khlong Sam
+2012-03-01,930903,พัทลุง,บางแก้ว,โคกสัก,ห้วยเนียง,2,0.79,4,Phatthalung,Bang Kaeo,Khok Sak
+2012-03-01,930902,พัทลุง,บางแก้ว,นาปะขอ,หาดไข่เต่า,19,2.84,35,Phatthalung,Bang Kaeo,Na Pakho
+2012-03-01,540104,แพร่,เมืองแพร่,ป่าแดง,ป่าแดง,5.71,11.25,41.9,Phrae,Mueang Phrae,Pa Daeng
+2012-03-01,540112,แพร่,เมืองแพร่,สวนเขื่อน,สวนเขื่อน,27.52,5.73,27.52,Phrae,Mueang Phrae,Suan Khuean
+2012-03-01,580201,แม่ฮ่องสอน,ขุนยวม,ขุนยวม,ขุนยวม,0,0.23,2,Mae Hong Son,Khun Yuam,Khun Yuam
+2012-03-01,580201,แม่ฮ่องสอน,ขุนยวม,ขุนยวม,ขุนยวม,0,0,0,Mae Hong Son,Khun Yuam,Khun Yuam
+2012-03-01,580201,แม่ฮ่องสอน,ขุนยวม,ขุนยวม,ขุนยวม,0,0,0,Mae Hong Son,Khun Yuam,Khun Yuam
+2012-03-01,580304,แม่ฮ่องสอน,ปาย,แม่ฮี้,แม่เย็น,0,0,0,Mae Hong Son,Pai,Mae Hi
+2012-03-01,580304,แม่ฮ่องสอน,ปาย,แม่ฮี้,ห้วยแก้ว,0,0,0,Mae Hong Son,Pai,Mae Hi
+2012-03-01,110110,สมุทรปราการ,เมืองสมุทรปราการ,แพรกษา,แพรกษา,7.5,6.82,7.5,Samut Prakarn,Mueang Samut Prakan,Phraek Sa
+2012-03-01,510611,ลำพูน,ป่าซาง,นครเจดีย์,โป่งรู,24,11.36,41,Lamphun,Pa Sang,Nakhon Chedi
+2012-03-01,510605,ลำพูน,ป่าซาง,บ้านเรือน,หนองดู่,13,4.7,17,Lamphun,Pa Sang,Ban Ruean
+2012-03-01,510108,ลำพูน,เมืองลำพูน,บ้านแป้น,หนองเต่า,6,1.18,6,Lamphun,Mueang Lamphun,Ban Paen
+2012-03-01,510117,ลำพูน,เมืองลำพูน,หนองหนาม,ขว้าง,14,7.75,22,Lamphun,Mueang Lamphun,Nong Nam
+2012-03-01,471802,สกลนคร,ภูพาน,หลุบเลา,ฮ่องสิม,30.69,8.77,44.55,Sakon Nakhon,Phu Phan,Luplao
+2012-03-01,470117,สกลนคร,เมืองสกลนคร,เหล่าปอแดง,ท่าวัดเหนือ,26,6.77,31,Sakon Nakhon,Mueang Sakon Nakhon,Lao Po Daeng
+2012-03-01,470814,สกลนคร,วานรนิวาส,หนองแวงใต้,โคกก่อง,29,7.52,34,Sakon Nakhon,Wanon Niwat,Nong Waeng Tai
+2012-03-01,471213,สกลนคร,สว่างแดนดิน,พันนา,โมน,16,9.75,31,Sakon Nakhon,Sawang Daen Din,Phan Na
+2012-03-01,270306,สระแก้ว,ตาพระยา,ทัพราช,หนองปรือ,0,0,0,Sa kaeo,Ta Phraya,Thappharat
+2012-02-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,เขาตั้ง,12,2.48,15,Krabi,Mueang Krabi,Krabi Noi
+2012-02-01,710612,กาญจนบุรี,ท่าม่วง,รางสาลี่,สระกลอย,38,7.37,64,Kanchanaburi,Tha Muang,Rang Sali
+2012-02-01,710613,กาญจนบุรี,ท่าม่วง,หนองตากยา,หนองตากยา,40,8.06,54,Kanchanaburi,Tha Muang,Nong Tak Ya
+2012-02-01,710202,กาญจนบุรี,ไทรโยค,ท่าเสา,ท่าเสา,17,3.14,21,Kanchanaburi,Sai Yok,Tha Sao
+2012-02-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,ห้วยหินฝน,0,0,0,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-02-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,ห้วยหินฝน,0,0,0,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-02-01,361403,ชัยภูมิ,ภักดีชุมพล,วังทอง,ผาทอง,15,2.86,19,Chaiyaphum,Phakdi Chumphon,Wang Thong
+2012-02-01,500708,เชียงใหม่,แม่ริม,โป่งแยง,โป่งแยงนอก,10,3,12,Chiang Mai,Mae Rim,Pong Yaeng
+2012-02-01,500711,เชียงใหม่,แม่ริม,เหมืองแก้ว,ดอนตัน,17,5.08,25,Chiang Mai,Mae Rim,Mueang Kaeo
+2012-02-01,730212,นครปฐม,กำแพงแสน,กำแพงแสน,กำแพงแสน,0,0,0,Nakhon Pathom,Kamphaeng Saen,Kamphaeng Saen
+2012-02-01,730212,นครปฐม,กำแพงแสน,กำแพงแสน,กำแพงแสน,0,0,0,Nakhon Pathom,Kamphaeng Saen,Kamphaeng Saen
+2012-02-01,730212,นครปฐม,กำแพงแสน,กำแพงแสน,กำแพงแสน,0,0,0,Nakhon Pathom,Kamphaeng Saen,Kamphaeng Saen
+2012-02-01,730307,นครปฐม,นครชัยศรี,ขุนแก้ว,ขุนแก้ว,0,0,0,Nakhon Pathom,Nakhon Chai Si,Khun Kaeo
+2012-02-01,730301,นครปฐม,นครชัยศรี,นครชัยศรี,นครชัยศรี,0,0,0,Nakhon Pathom,Nakhon Chai Si,Nakhon Chai Si
+2012-02-01,730301,นครปฐม,นครชัยศรี,นครชัยศรี,นครชัยศรี,0,0,0,Nakhon Pathom,Nakhon Chai Si,Nakhon Chai Si
+2012-02-01,730504,นครปฐม,บางเลน,บางภาษี,บางภาษี,3,0.37,3,Nakhon Pathom,Bang Len,Bang Phasi
+2012-02-01,730504,นครปฐม,บางเลน,บางภาษี,บางภาษี,0,0,0,Nakhon Pathom,Bang Len,Bang Phasi
+2012-02-01,730501,นครปฐม,บางเลน,บางเลน,บ้านเหนือ,0,0,0,Nakhon Pathom,Bang Len,Bang Len
+2012-02-01,730701,นครปฐม,พุทธมณฑล,ศาลายา,ศาลายา,0,0,0,Nakhon Pathom,Phutthamonthon,Sala Ya
+2012-02-01,730701,นครปฐม,พุทธมณฑล,ศาลายา,ศาลายา,3,0.92,4,Nakhon Pathom,Phutthamonthon,Sala Ya
+2012-02-01,730701,นครปฐม,พุทธมณฑล,ศาลายา,ศาลายา,0,0,0,Nakhon Pathom,Phutthamonthon,Sala Ya
+2012-02-01,730601,นครปฐม,สามพราน,ท่าข้าม,ท่าข้าม,0,0,0,Nakhon Pathom,Sam Phran,Tha Kham
+2012-02-01,730608,นครปฐม,สามพราน,ไร่ขิง,ไร่ขิง,6,2.88,10,Nakhon Pathom,Sam Phran,Rai Khing
+2012-02-01,801503,นครศรีธรรมราช,ขนอม,ท้องเนียน,ท้องเนียน,75,40,195,Nakhon Si Thammarat,Khanom,Thong Nian
+2012-02-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,เกาะขันธ์,7.5,1.54,12.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-02-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองนนทรีย์,10,2.95,22.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-02-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังหอน,5,1.81,15,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-02-01,800906,นครศรีธรรมราช,ทุ่งสง,นาหลวงเสน,ใต้,18,4.59,30,Nakhon Si Thammarat,Thung Song,Na Luang Sen
+2012-02-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หน้าเขา,5,10.7,72.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2012-02-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คลองลำนาว,7.5,2.88,22.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2012-02-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนประหน้าเขา,2.5,0.92,7.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2012-02-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,พรุพรี,5,1.62,12.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-02-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ควนชก,7.5,2.13,17.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2012-02-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ห้วยยูง,8,1.16,8,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2012-02-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ไสมะนาว,9,1.58,11,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2012-02-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,บ่อขรบ,4,0.68,4,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2012-02-01,802001,นครศรีธรรมราช,พระพรหม,นาพรุ,ห้วยระย้า,6,1.54,13,Nakhon Si Thammarat,Phra Phrom,Na Phru
+2012-02-01,800107,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากนคร,ปากนคร,18,3.65,53,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pak Nakhon
+2012-02-01,140516,พระนครศรีอยุธยา,บางบาล,บ้านกุ่ม,บ้านกุ่ม,23.33,6.99,66.67,Phra Nakhon Si Ayutthaya,Bang Ban,Ban Kum
+2012-02-01,140615,พระนครศรีอยุธยา,บางปะอิน,ตลิ่งชัน,ตลิ่งชัน,10,2.61,15,Phra Nakhon Si Ayutthaya,Bang Pa-in,Taling Chan
+2012-02-01,140615,พระนครศรีอยุธยา,บางปะอิน,ตลิ่งชัน,ตลิ่งชัน,20,6.18,27.5,Phra Nakhon Si Ayutthaya,Bang Pa-in,Taling Chan
+2012-02-01,140615,พระนครศรีอยุธยา,บางปะอิน,ตลิ่งชัน,ตลิ่งชัน,25,5.26,40,Phra Nakhon Si Ayutthaya,Bang Pa-in,Taling Chan
+2012-02-01,140101,พระนครศรีอยุธยา,พระนครศรีอยุธยา,ประตูชัย,ประตูชัย,0,0,0,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,Pratu Chai
+2012-02-01,141205,พระนครศรีอยุธยา,เสนา,บางนมโค,บางนมโค,12.5,3.7,15,Phra Nakhon Si Ayutthaya,Sena,Bang Nom Kho
+2012-02-01,141205,พระนครศรีอยุธยา,เสนา,บางนมโค,บางนมโค,0,0,0,Phra Nakhon Si Ayutthaya,Sena,Bang Nom Kho
+2012-02-01,141205,พระนครศรีอยุธยา,เสนา,บางนมโค,บางนมโค,32.5,8.97,50,Phra Nakhon Si Ayutthaya,Sena,Bang Nom Kho
+2012-02-01,141401,พระนครศรีอยุธยา,อุทัย,คานหาม,คานหาม,35,15.03,57.5,Phra Nakhon Si Ayutthaya,Uthai,Khan Ham
+2012-02-01,141401,พระนครศรีอยุธยา,อุทัย,คานหาม,คานหาม,25,8.61,32.5,Phra Nakhon Si Ayutthaya,Uthai,Khan Ham
+2012-02-01,141401,พระนครศรีอยุธยา,อุทัย,คานหาม,คานหาม,42.5,13.28,80,Phra Nakhon Si Ayutthaya,Uthai,Khan Ham
+2012-02-01,210502,ระยอง,บ้านค่าย,หนองละลอก,ตรอกสัตบัน,23,7.73,43,Rayong,Ban Khai,Nong Lalok
+2012-02-01,700405,ราชบุรี,ดำเนินสะดวก,ดอนกรวย,ดอนกรวย,0,0,0,Ratchaburi,Damnoen Saduak,Don Kruai
+2012-02-01,700411,ราชบุรี,ดำเนินสะดวก,ท่านัด,ท่านัด,0,0,0,Ratchaburi,Damnoen Saduak,Tha Nat
+2012-02-01,700601,ราชบุรี,บางแพ,บางแพ,บางแพ,0,0,0,Ratchaburi,Bang Phae,Bang Phae
+2012-02-01,700607,ราชบุรี,บางแพ,โพหัก,โพหัก,0,0,0,Ratchaburi,Bang Phae,Pho Hak
+2012-02-01,700602,ราชบุรี,บางแพ,วังเย็น,วังเย็น,6,0.76,6,Ratchaburi,Bang Phae,Wang Yen
+2012-02-01,740209,สมุทรสาคร,กระทุ่มแบน,แคราย,แคราย,0,0,0,Samut Sakhon,Krathum Baen,Khae Rai
+2012-02-01,740205,สมุทรสาคร,กระทุ่มแบน,บางยาง,บางยาง,4,0.86,6,Samut Sakhon,Krathum Baen,Bang Yang
+2012-02-01,740202,สมุทรสาคร,กระทุ่มแบน,อ้อมน้อย,อ้อมน้อย,0,0,0,Samut Sakhon,Krathum Baen,Om Noi
+2012-02-01,740301,สมุทรสาคร,บ้านแพ้ว,บ้านแพ้ว,บ้านแพ้ว,0,0,0,Samut Sakhon,Ban Phaeo,Ban Phaeo
+2012-02-01,740303,สมุทรสาคร,บ้านแพ้ว,ยกกระบัตร,ยกกระบัตร,0,0,0,Samut Sakhon,Ban Phaeo,Yok Krabat
+2012-02-01,740304,สมุทรสาคร,บ้านแพ้ว,โรงเข้,โรงเข้,27,6.59,38,Samut Sakhon,Ban Phaeo,Rong Khe
+2012-02-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ทุ่งคอก,4,0.64,6,Suphan Buri,Song Phi Nong,Thung Khok
+2012-02-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ปากคอก,6,1.41,14,Suphan Buri,Song Phi Nong,Thung Khok
+2012-02-01,430502,หนองคาย,โพนพิสัย,วัดหลวง,วัดหลวง,0,0,0,Nong Khai,Phon Phisai,Wat Luang
+2012-02-01,430110,หนองคาย,เมืองหนองคาย,ค่ายบกหวาน,ค่ายบกหวาน,0,0,0,Nong Khai,Mueang Nong Khai,Khai Bok Wan
+2012-02-01,410415,อุดรธานี,กุมภวาปี,กุมภวาปี,กุมภวาปี,0,0,0,Udon Thani,Kumphawapi,Kumphawapi
+2012-02-01,411101,อุดรธานี,บ้านดุง,ศรีสุทโธ,ศรีสุทโธ,0,0,0,Udon Thani,Ban Dung,Si Suttho
+2012-02-01,411701,อุดรธานี,บ้านผือ,บ้านผือ,บ้านผือ,0,0,0,Udon Thani,Ban Phue,Ban Phue
+2012-02-01,411901,อุดรธานี,เพ็ญ,เพ็ญ,เพ็ญ,0,0,0,Udon Thani,Phen,Phen
+2012-02-01,410101,อุดรธานี,เมืองอุดรธานี,หมากแข้ง,หมากแข้ง,0,0,0,Udon Thani,Mueang Udon Thani,Mak Khaeng
+2012-02-01,410601,อุดรธานี,หนองหาน,หนองหาน,หนองหาน,0,0,0,Udon Thani,Nong Saeng,Nong Han
+2012-01-01,810201,กระบี่,เขาพนม,เขาพนม,ห้วยเสียด,56.82,10.97,79.55,Krabi,Khao Phanom,Khao Phanom
+2012-01-01,810201,กระบี่,เขาพนม,เขาพนม,ทับพล,56.1,8.95,68.29,Krabi,Khao Phanom,Khao Phanom
+2012-01-01,810601,กระบี่,ปลายพระยา,ปลายพระยา,ปากน้ำ,10,1.58,12.5,Krabi,Plai Phraya,Plai Phraya
+2012-01-01,810601,กระบี่,ปลายพระยา,ปลายพระยา,วังจา,0,0,0,Krabi,Plai Phraya,Plai Phraya
+2012-01-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,น้ำจาน,10,2.99,12.5,Krabi,Mueang Krabi,Krabi Noi
+2012-01-01,810103,กระบี่,เมืองกระบี่,กระบี่น้อย,นานอก,15,8.63,30,Krabi,Mueang Krabi,Krabi Noi
+2012-01-01,810504,กระบี่,อ่าวลึก,คลองหิน,ศาลาพระม่วง,10,2.4,12.5,Krabi,Ao Luek,Khlong Hin
+2012-01-01,810504,กระบี่,อ่าวลึก,คลองหิน,บน,10,1.2,7.5,Krabi,Ao Luek,Khlong Hin
+2012-01-01,630609,ตาก,แม่สอด,ด่านแม่ละเมา,ขุนท้ายปลาหลด,0,0,0,Tak,Mae Sot,Dan Mae Lamao
+2012-01-01,630606,ตาก,แม่สอด,ท่าสายลวด,ท่าอาจ,12.5,2.85,20,Tak,Mae Sot,Tha Sai Luat
+2012-01-01,630610,ตาก,แม่สอด,พระธาตุผาแดง,แม่ดาวใหม่,20,1.49,12.5,Tak,Mae Sot,Phrathat Pha Daeng
+2012-01-01,630608,ตาก,แม่สอด,มหาวัน,ห้วยไม้แป้น,10,0.54,5,Tak,Mae Sot,Mahawan
+2012-01-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,ทุ่งโพธิ์,17.5,1.52,17.5,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2012-01-01,801904,นครศรีธรรมราช,จุฬาภรณ์,ทุ่งโพธิ์,อ้ายเลา,7.5,0.99,5,Nakhon Si Thammarat,Chulabhorn,Thung Pho
+2012-01-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ท่าแห้ง,30,7.51,65,Nakhon Si Thammarat,Chawang,Na Wae
+2012-01-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนยูง,35,7.49,57.5,Nakhon Si Thammarat,Chawang,Na Wae
+2012-01-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,บ้านใสเหรียง,2.5,0.3,2.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2012-01-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขาพระทอง,12.5,3.87,32.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-01-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขากอย,7.5,2.86,22.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-01-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ชายคลอง,17.5,4.37,50,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-01-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,ทุ่งไม้ใผ่,10,3.48,30,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2012-01-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนวัดใหม่,12.5,3.14,27.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2012-01-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ทุ่งโป๊ะ,15,4.17,40,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2012-01-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,หนองนนทรีย์,2.5,0.23,2.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-01-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,ควนหรัง,15,3.56,35,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-01-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,คลองใหญ่,7.5,1.66,20,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2012-01-01,802201,นครศรีธรรมราช,ช้างกลาง,ช้างกลาง,นาวา,10,2.76,10,Nakhon Si Thammarat,Chang Klang,Chang Klang
+2012-01-01,802201,นครศรีธรรมราช,ช้างกลาง,ช้างกลาง,หน้าเหมน,2.5,0.98,5,Nakhon Si Thammarat,Chang Klang,Chang Klang
+2012-01-01,800613,นครศรีธรรมราช,เชียรใหญ่,แม่เจ้าอยู่หัว,บ่อล้อ,2.5,1.38,7.5,Nakhon Si Thammarat,Chian Yai,Mae Chao Yu Hua
+2012-01-01,800613,นครศรีธรรมราช,เชียรใหญ่,แม่เจ้าอยู่หัว,ในวัง,10,1.91,17.5,Nakhon Si Thammarat,Chian Yai,Mae Chao Yu Hua
+2012-01-01,801803,นครศรีธรรมราช,ถ้ำพรรณรา,ดุสิต,เกาะขวัญ,92.5,24.24,140,Nakhon Si Thammarat,Tham Phannara,Dusit
+2012-01-01,801803,นครศรีธรรมราช,ถ้ำพรรณรา,ดุสิต,ฉนวนจันทร์,67.5,10.12,105,Nakhon Si Thammarat,Tham Phannara,Dusit
+2012-01-01,800906,นครศรีธรรมราช,ทุ่งสง,นาหลวงเสน,ใต้,57.5,13.94,242.5,Nakhon Si Thammarat,Thung Song,Na Luang Sen
+2012-01-01,800901,นครศรีธรรมราช,ทุ่งสง,ปากแพรก,ปากแพรก,15,5.61,15,Nakhon Si Thammarat,Thung Song,Pak Phraek
+2012-01-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,ไร่มุสลิม,15,19.19,47.5,Nakhon Si Thammarat,Thung Yai,Prik
+2012-01-01,801105,นครศรีธรรมราช,ทุ่งใหญ่,ปริก,เหนือคลอง,57.5,13.87,107.5,Nakhon Si Thammarat,Thung Yai,Prik
+2012-01-01,801002,นครศรีธรรมราช,นาบอน,ทุ่งสง,หนองดี,47.5,16.48,185,Nakhon Si Thammarat,Na Bon,Thung Song
+2012-01-01,801002,นครศรีธรรมราช,นาบอน,ทุ่งสง,นาแค,17.5,6.5,20,Nakhon Si Thammarat,Na Bon,Thung Song
+2012-01-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คอกช้าง,17.5,2.08,17.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2012-01-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,บางขัน,22.5,2.07,20,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2012-01-01,800501,นครศรีธรรมราช,พิปูน,พิปูน,ท้ายสำเภา,32.5,7.95,65,Nakhon Si Thammarat,Phipun,Phipun
+2012-01-01,800501,นครศรีธรรมราช,พิปูน,พิปูน,หูนบ,35,8.73,77.5,Nakhon Si Thammarat,Phipun,Phipun
+2012-01-01,801409,นครศรีธรรมราช,สิชล,ทุ่งใส,ฝ่ายท่า,75,16.11,145,Nakhon Si Thammarat,Sichon,Thung Sai
+2012-01-01,801409,นครศรีธรรมราช,สิชล,ทุ่งใส,ห้วยหินลับ,65,31.25,150,Nakhon Si Thammarat,Sichon,Thung Sai
+2012-01-01,310202,บุรีรัมย์,คูเมือง,ปะเคียบ,หนองบัวแดง,12,4.22,16,Buri Ram,Khu Mueang,Pakhiap
+2012-01-01,310204,บุรีรัมย์,คูเมือง,พรสำราญ,พรสำราญ,9,2.38,10,Buri Ram,Khu Mueang,Phon Samran
+2012-01-01,312001,บุรีรัมย์,โนนดินแดง,โนนดินแดง,ซับคะนิง,13,2.11,15,Buri Ram,Non Din Daeng,Non Din Daeng
+2012-01-01,311504,บุรีรัมย์,พลับพลาชัย,สะเดา,เสม็ด,39,5.53,56,Buri Ram,Phlapphla Chai,Sadao
+2012-01-01,310907,บุรีรัมย์,พุทไธสง,บ้านแวง,บ้านแวง,11,2.5,12,Buri Ram,Phutthaisong,Ban Waeng
+2012-01-01,310910,บุรีรัมย์,พุทไธสง,หายโศก,หายโศก,12,2.33,12,Buri Ram,Phutthaisong,Hai Sok
+2012-01-01,310601,บุรีรัมย์,ละหานทราย,ละหานทราย,น้อยลำคลอง,20,3.25,24,Buri Ram,Lahan Sai,Lahan Sai
+2011-12-01,810304,กระบี่,เกาะลันตา,คลองยาง,ไท,10,1.99,10,Krabi,Ko Lanta,Khlong Yang
+2011-12-01,810304,กระบี่,เกาะลันตา,คลองยาง,หลังโสด,2.5,0.66,2.5,Krabi,Ko Lanta,Khlong Yang
+2011-12-01,810401,กระบี่,คลองท่อม,คลองท่อมใต้,เหนือ,5,1.32,5,Krabi,Khlong Thom,Khlong Thom Tai
+2011-12-01,810401,กระบี่,คลองท่อม,คลองท่อมใต้,คลองท่อมใต้,5,1.54,5,Krabi,Khlong Thom,Khlong Thom Tai
+2011-12-01,810701,กระบี่,ลำทับ,ลำทับ,นาพรุ,10,16.67,7.5,Krabi,Lam Thap,Lam Thap
+2011-12-01,810801,กระบี่,เหนือคลอง,เหนือคลอง,เหนือคลอง,7.5,3.45,17.5,Krabi,Nuea Khlong,Nuea Khlong
+2011-12-01,810801,กระบี่,เหนือคลอง,เหนือคลอง,ไสโป๊ะเหนือ,7.5,3.23,12.5,Krabi,Nuea Khlong,Nuea Khlong
+2011-12-01,801502,นครศรีธรรมราช,ขนอม,ควนทอง,ท่าน้อย,15,5.56,25,Nakhon Si Thammarat,Khanom,Khuan Thong
+2011-12-01,801502,นครศรีธรรมราช,ขนอม,ควนทอง,เขาวัง,27.5,5.83,30,Nakhon Si Thammarat,Khanom,Khuan Thong
+2011-12-01,802303,นครศรีธรรมราช,เฉลิมพระเกียรติ,สวนหลวง,หน้าห้วย,7.5,1.38,5,Nakhon Si Thammarat,Chaloem Phra Kiet,Suan Luang
+2011-12-01,802303,นครศรีธรรมราช,เฉลิมพระเกียรติ,สวนหลวง,ทุ่งเฟื้อ,80,14.97,147.5,Nakhon Si Thammarat,Chaloem Phra Kiet,Suan Luang
+2011-12-01,800701,นครศรีธรรมราช,ชะอวด,ชะอวด,ท่าสะท้อน,2.5,1.78,10,Nakhon Si Thammarat,Cha-uat,Cha-Uat
+2011-12-01,800801,นครศรีธรรมราช,ท่าศาลา,ท่าศาลา,ท่าสูงบน,15,0,0,Nakhon Si Thammarat,Tha Sala,Tha Sala
+2011-12-01,800801,นครศรีธรรมราช,ท่าศาลา,ท่าศาลา,สระบัว,52.5,16.41,105,Nakhon Si Thammarat,Tha Sala,Tha Sala
+2011-12-01,801210,นครศรีธรรมราช,ปากพนัง,ปากพนังฝั่งตะวันตก,บางทวด,30,3.24,32.5,Nakhon Si Thammarat,Pak Phanang,Pak Phanang Fang Tawan Tok
+2011-12-01,801210,นครศรีธรรมราช,ปากพนัง,ปากพนังฝั่งตะวันตก,บ้านเนิน,0,0,0,Nakhon Si Thammarat,Pak Phanang,Pak Phanang Fang Tawan Tok
+2011-12-01,800201,นครศรีธรรมราช,พรหมคีรี,พรหมโลก,นอกท่า,0,0,0,Nakhon Si Thammarat,Phrom Khiri,Phrom Lok
+2011-12-01,800201,นครศรีธรรมราช,พรหมคีรี,พรหมโลก,ปลายอวน,17.5,4.64,22.5,Nakhon Si Thammarat,Phrom Khiri,Phrom Lok
+2011-12-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ท่าจาม,0,0,0,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2011-12-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ไสมะนาว,7.5,3.25,12.5,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2011-12-01,800107,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากนคร,ปากนคร,0,0,0,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pak Nakhon
+2011-12-01,801301,นครศรีธรรมราช,ร่อนพิบูลย์,ร่อนพิบูลย์,หนองกก,5,0.82,5,Nakhon Si Thammarat,Ron Phibun,Ron Phibun
+2011-12-01,801301,นครศรีธรรมราช,ร่อนพิบูลย์,ร่อนพิบูลย์,ต้นกอ,15,1.61,15,Nakhon Si Thammarat,Ron Phibun,Ron Phibun
+2011-12-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,กำโลน,25,3.65,37.5,Nakhon Si Thammarat,Lan Saka,Kamlon
+2011-12-01,800304,นครศรีธรรมราช,ลานสกา,กำโลน,วังไทร,2.5,1.27,5,Nakhon Si Thammarat,Lan Saka,Kamlon
+2011-12-01,801409,นครศรีธรรมราช,สิชล,ทุ่งใส,ฝ่ายท่า,47.5,14.67,55,Nakhon Si Thammarat,Sichon,Thung Sai
+2011-12-01,801409,นครศรีธรรมราช,สิชล,ทุ่งใส,ห้วยทรายทอง,52.5,3.98,22.5,Nakhon Si Thammarat,Sichon,Thung Sai
+2011-12-01,801601,นครศรีธรรมราช,หัวไทร,หัวไทร,หัวไทร,0,0,0,Nakhon Si Thammarat,Hua Sai,Hua Sai
+2011-12-01,801601,นครศรีธรรมราช,หัวไทร,หัวไทร,หัวไทร,17.5,2.83,32.5,Nakhon Si Thammarat,Hua Sai,Hua Sai
+2011-12-01,801601,นครศรีธรรมราช,หัวไทร,หัวไทร,ลำคลอง,10,0.26,2.5,Nakhon Si Thammarat,Hua Sai,Hua Sai
+2011-12-01,801601,นครศรีธรรมราช,หัวไทร,หัวไทร,ลำคลอง,0,0,0,Nakhon Si Thammarat,Hua Sai,Hua Sai
+2011-11-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ลานนา,10,2.83,20,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2011-11-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ทุ่งใหญ่,12.5,3.81,22.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2011-11-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,สี่แยก,15,4.36,30,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2011-11-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังหอน,15,4.69,25,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2011-10-01,810702,กระบี่,ลำทับ,ดินอุดม,ป่าใหม่,2.5,0.39,2.5,Krabi,Lam Thap,Din Udom
+2011-10-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,ทุ่งทับควาย,5,0.83,5,Krabi,Lam Thap,Thung Sai Thong
+2011-10-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,เกาะไทร,10,1.62,10,Krabi,Lam Thap,Thung Sai Thong
+2011-10-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,บางบอนใต้,5,0.82,5,Krabi,Lam Thap,Thung Sai Thong
+2011-10-01,810701,กระบี่,ลำทับ,ลำทับ,นาพรุ,2.5,0.38,2.5,Krabi,Lam Thap,Lam Thap
+2011-10-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขากอย,15,0.57,2.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2011-10-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,สี่แยก,12.5,4.07,30,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2011-10-01,800911,นครศรีธรรมราช,ทุ่งสง,ถ้ำใหญ่,ไสใหญ่,32.5,12.04,97.5,Nakhon Si Thammarat,Thung Song,Tham Yai
+2011-10-01,800911,นครศรีธรรมราช,ทุ่งสง,ถ้ำใหญ่,ไร่ควน,37.5,11.31,112.5,Nakhon Si Thammarat,Thung Song,Tham Yai
+2011-09-01,810401,กระบี่,คลองท่อม,คลองท่อมใต้,เหนือ,7.5,1.81,7.5,Krabi,Khlong Thom,Khlong Thom Tai
+2011-09-01,810401,กระบี่,คลองท่อม,คลองท่อมใต้,นาใน,10,2.38,10,Krabi,Khlong Thom,Khlong Thom Tai
+2011-09-01,810401,กระบี่,คลองท่อม,คลองท่อมใต้,หน้าค่าย,7.5,1.76,7.5,Krabi,Khlong Thom,Khlong Thom Tai
+2011-09-01,810403,กระบี่,คลองท่อม,คลองพน,คลองพน,10,2.37,10,Krabi,Khlong Thom,Khlong Phon
+2011-09-01,810403,กระบี่,คลองท่อม,คลองพน,ดินนา,10,2.5,10,Krabi,Khlong Thom,Khlong Phon
+2011-09-01,810403,กระบี่,คลองท่อม,คลองพน,คลองไครใต้,7.5,1.78,7.5,Krabi,Khlong Thom,Khlong Phon
+2011-09-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ห้วยน้ำขาว,7.5,1.81,7.5,Krabi,Khlong Thom,Huai Nam Khao
+2011-09-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ห้วยน้ำขาว,10,2.41,10,Krabi,Khlong Thom,Huai Nam Khao
+2011-09-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,ทุ่งทับควาย,0,0,0,Krabi,Lam Thap,Thung Sai Thong
+2011-09-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,บางบอนใต้,5,0.81,5,Krabi,Lam Thap,Thung Sai Thong
+2011-09-01,810701,กระบี่,ลำทับ,ลำทับ,นาพรุ,5,0.75,5,Krabi,Lam Thap,Lam Thap
+2011-09-01,800406,นครศรีธรรมราช,ฉวาง,กะเปียด,กะเปียด,30,3.01,30,Nakhon Si Thammarat,Chawang,Kapiat
+2011-09-01,800406,นครศรีธรรมราช,ฉวาง,กะเปียด,คลองขัน,25,2.75,25,Nakhon Si Thammarat,Chawang,Kapiat
+2011-09-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนสวรรค์,42.5,4.16,42.5,Nakhon Si Thammarat,Chawang,Na Wae
+2011-09-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนยูง,37.5,4.23,37.5,Nakhon Si Thammarat,Chawang,Na Wae
+2011-09-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,เกาะขันธ์,7.5,1.61,13.75,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2011-09-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,เกาะขันธ์,6.25,1.23,10,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2011-09-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขาพระทอง,9.17,2.11,15,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2011-09-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ท่าประจะ,7.5,2,15,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2011-09-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,บ้านตูล,7.5,1.72,13.75,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2011-09-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,บ้านตูล,8.75,1.89,15,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2011-09-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,บ้านตูล,10,2.47,20,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2011-09-01,800904,นครศรีธรรมราช,ทุ่งสง,ควนกรด,ทุ่งชน,17.5,7.2,65,Nakhon Si Thammarat,Thung Song,Khuan Krot
+2011-09-01,800904,นครศรีธรรมราช,ทุ่งสง,ควนกรด,ทุ่งชน,20,3.77,20,Nakhon Si Thammarat,Thung Song,Khuan Krot
+2011-09-01,800904,นครศรีธรรมราช,ทุ่งสง,ควนกรด,แม่น้ำ,22.5,8.45,60,Nakhon Si Thammarat,Thung Song,Khuan Krot
+2011-09-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,ที่วัง,17.5,4.43,22.5,Nakhon Si Thammarat,Thung Song,Thi Wang
+2011-09-01,800905,นครศรีธรรมราช,ทุ่งสง,นาไม้ไผ่,นาไม้ไผ่,22.5,4.11,22.5,Nakhon Si Thammarat,Thung Song,Na Mai Phai
+2011-09-01,800905,นครศรีธรรมราช,ทุ่งสง,นาไม้ไผ่,นาไม้ไผ่,22.5,4.76,22.5,Nakhon Si Thammarat,Thung Song,Na Mai Phai
+2011-09-01,800905,นครศรีธรรมราช,ทุ่งสง,นาไม้ไผ่,บ้านหน้าเขา,27.5,10.86,95,Nakhon Si Thammarat,Thung Song,Na Mai Phai
+2011-09-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,บางขัน,12.5,3.46,25,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2011-09-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,บ้านนิคม,10,3.72,27.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2011-09-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,บ้านนิคม,12.5,13.44,102.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2011-09-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,บ้านนิคม,10,2.33,15,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2011-09-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,บ้านนิคม,12.5,3.38,25,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2011-09-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บ้านลำนาว,7.5,2.65,20,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2011-09-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บ้านลำนาว,10,2.7,20,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2011-09-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บ้านลำนาว,7.5,2.65,20,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2011-09-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บ้านลำนาว,10,2.7,20,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2011-08-01,810115,กระบี่,เมืองกระบี่,ไสไทย,ไสไทย,4,1.09,4,Krabi,Mueang Krabi,Sai Thai
+2011-08-01,810808,กระบี่,เหนือคลอง,ห้วยยูง,ห้วยยูง,6,0.41,3,Krabi,Nuea Khlong,Huai Yung
+2011-08-01,710612,กาญจนบุรี,ท่าม่วง,รางสาลี่,สระกลอย,42,8.45,84,Kanchanaburi,Tha Muang,Rang Sali
+2011-08-01,710613,กาญจนบุรี,ท่าม่วง,หนองตากยา,หนองตากยา,68,18.76,176,Kanchanaburi,Tha Muang,Nong Tak Ya
+2011-08-01,710202,กาญจนบุรี,ไทรโยค,ท่าเสา,ท่าเสา,30,5.68,50,Kanchanaburi,Sai Yok,Tha Sao
+2011-08-01,730307,นครปฐม,นครชัยศรี,ขุนแก้ว,ขุนแก้ว,10,2.6,16,Nakhon Pathom,Nakhon Chai Si,Khun Kaeo
+2011-08-01,730701,นครปฐม,พุทธมณฑล,ศาลายา,ศาลายา,4,4.62,29,Nakhon Pathom,Phutthamonthon,Sala Ya
+2011-08-01,730608,นครปฐม,สามพราน,ไร่ขิง,ไร่ขิง,0,0,0,Nakhon Pathom,Sam Phran,Rai Khing
+2011-08-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนยูง,7.5,3,25,Nakhon Si Thammarat,Chawang,Na Wae
+2011-08-01,800903,นครศรีธรรมราช,ทุ่งสง,หนองหงส์,หนองหงส์,4,1.33,10,Nakhon Si Thammarat,Thung Song,Nong Hong
+2011-08-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ช้างซ้าย,6.43,0.72,3.57,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2011-08-01,800120,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากพูน,ท่าแพ,5,0.83,6,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pak Phun
+2011-08-01,700405,ราชบุรี,ดำเนินสะดวก,ดอนกรวย,ดอนกรวย,0,0,0,Ratchaburi,Damnoen Saduak,Don Kruai
+2011-08-01,700602,ราชบุรี,บางแพ,วังเย็น,วังเย็น,5,0.62,5,Ratchaburi,Bang Phae,Wang Yen
+2011-08-01,700504,ราชบุรี,บ้านโป่ง,ปากแรต,ปากแรต,28,3.75,36,Ratchaburi,Ban Pong,Pak Raet
+2011-08-01,700701,ราชบุรี,โพธาราม,โพธาราม,โพธาราม,22,4.5,25,Ratchaburi,Photharam,Photharam
+2011-08-01,700103,ราชบุรี,เมืองราชบุรี,ดอนตะโก,ดอนตะโก,0,0,0,Ratchaburi,Mueang Ratchaburi,Don Tako
+2011-08-01,740209,สมุทรสาคร,กระทุ่มแบน,แคราย,แคราย,20,4.87,19,Samut Sakhon,Krathum Baen,Khae Rai
+2011-08-01,740304,สมุทรสาคร,บ้านแพ้ว,โรงเข้,โรงเข้,2,0.35,2,Samut Sakhon,Ban Phaeo,Rong Khe
+2011-08-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ทุ่งคอก,18,2.52,24,Suphan Buri,Song Phi Nong,Thung Khok
+2011-08-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ปากคอก,14,2.03,20,Suphan Buri,Song Phi Nong,Thung Khok
+2011-07-01,810403,กระบี่,คลองท่อม,คลองพน,ดินนา,10,2.4,10,Krabi,Khlong Thom,Khlong Phon
+2011-07-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ห้วยน้ำขาว,7.5,1.66,7.5,Krabi,Khlong Thom,Huai Nam Khao
+2011-07-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,คลองแค,7.5,1.79,7.5,Krabi,Khlong Thom,Huai Nam Khao
+2011-07-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,น้ำตกขาว,10,2.19,10,Krabi,Khlong Thom,Huai Nam Khao
+2011-07-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,ทุ่งทับควาย,2.5,0,0,Krabi,Lam Thap,Thung Sai Thong
+2011-07-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,เกาะไทร,2.5,1.89,2.5,Krabi,Lam Thap,Thung Sai Thong
+2011-07-01,810701,กระบี่,ลำทับ,ลำทับ,นาพรุ,2.5,1.56,2.5,Krabi,Lam Thap,Lam Thap
+2011-07-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,ปากกา,17.5,2.2,17.5,Nakhon Si Thammarat,Chawang,Huai Prik
+2011-07-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,คลองสาย,20,2.32,20,Nakhon Si Thammarat,Chawang,Huai Prik
+2011-07-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,เขาขาว,27.5,11.66,100,Nakhon Si Thammarat,Thung Song,Khao Khao
+2011-07-01,800911,นครศรีธรรมราช,ทุ่งสง,ถ้ำใหญ่,น้ำพุ,40,12.53,140,Nakhon Si Thammarat,Thung Song,Tham Yai
+2011-07-01,800906,นครศรีธรรมราช,ทุ่งสง,นาหลวงเสน,คอกช้าง,30,6.65,62.5,Nakhon Si Thammarat,Thung Song,Na Luang Sen
+2011-07-01,800910,นครศรีธรรมราช,ทุ่งสง,น้ำตก,น้ำตก,40,11.5,122.5,Nakhon Si Thammarat,Thung Song,Namtok
+2011-07-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หน้าเขา,12.5,1.77,12.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2011-07-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,เหนือคลองซา,15,2.58,17.5,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2011-07-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,ควนไทร,15,2.21,15,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2011-07-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางปริก,12.5,2.03,15,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2011-06-01,840808,สุราษฎร์ธานี,คีรีรัฐนิคม,ย่านยาว,บางพระ,21,8.08,32,Surat Thani,Khiri Rat Nikhom,Yan Yao
+2011-05-01,730101,นครปฐม,เมืองนครปฐม,พระปฐมเจดีย์,พระปฐมเจดีย์,6,1.57,7,Nakhon Pathom,mueang Nakhon Pathom,Phra Pathom Chedi
+2011-05-01,730608,นครปฐม,สามพราน,ไร่ขิง,ไร่ขิง,4,4.17,10,Nakhon Pathom,Sam Phran,Rai Khing
+2011-05-01,800416,นครศรีธรรมราช,ฉวาง,จันดี,จันดี,47.5,13.54,77.5,Nakhon Si Thammarat,Chawang,Chan Di
+2011-05-01,800401,นครศรีธรรมราช,ฉวาง,ฉวาง,ฉวาง,30,13.9,65,Nakhon Si Thammarat,Chawang,Chawang
+2011-05-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,นาแว,17.5,2.2,17.5,Nakhon Si Thammarat,Chawang,Na Wae
+2011-05-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ทุ่งกระจูด,20,2.32,20,Nakhon Si Thammarat,Chawang,Na Wae
+2011-05-01,800405,นครศรีธรรมราช,ฉวาง,ไม้เรียง,ไม้เรียง,35,15.79,75,Nakhon Si Thammarat,Chawang,Mai Riang
+2011-05-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,ห้วยปริก,22.5,2.57,22.5,Nakhon Si Thammarat,Chawang,Huai Prik
+2011-05-01,800409,นครศรีธรรมราช,ฉวาง,ห้วยปริก,คลองสาย,20,2.37,20,Nakhon Si Thammarat,Chawang,Huai Prik
+2011-05-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขาพระทอง,10,2.8,22.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2011-05-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขาพระทอง,7.5,1.87,15,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2011-05-01,800709,นครศรีธรรมราช,ชะอวด,ควนหนองหงษ์,ควนหนองหงษ์,15,3.41,32.5,Nakhon Si Thammarat,Cha-uat,Khuan Nong Hong
+2011-05-01,800703,นครศรีธรรมราช,ชะอวด,ท่าประจะ,ท่าประจะ,12.5,4.07,30,Nakhon Si Thammarat,Cha-uat,Tha Pracha
+2011-05-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังอ่าง,12.5,3.2,22.5,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2011-05-01,800903,นครศรีธรรมราช,ทุ่งสง,หนองหงส์,หนองหงส์,4,1.03,8,Nakhon Si Thammarat,Thung Song,Nong Hong
+2011-05-01,801101,นครศรีธรรมราช,ทุ่งใหญ่,ท่ายาง,ท่ายาง,32.5,14.1,80,Nakhon Si Thammarat,Thung Yai,Tha Yang
+2011-05-01,802004,นครศรีธรรมราช,พระพรหม,ช้างซ้าย,ช้างซ้าย,6.43,0.72,3.57,Nakhon Si Thammarat,Phra Phrom,Chang Sai
+2011-05-01,800501,นครศรีธรรมราช,พิปูน,พิปูน,พิปูน,32.5,17.06,72.5,Nakhon Si Thammarat,Phipun,Phipun
+2011-05-01,800120,นครศรีธรรมราช,เมืองนครศรีธรรมราช,ปากพูน,ท่าแพ,5,0.77,6,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,Pak Phun
+2011-05-01,120404,นนทบุรี,บางบัวทอง,บางคูรัด,บางคูรัด,11.65,11.52,12.14,Nonthaburi,Bang Bua Thong,Bang Khu Rat
+2011-05-01,120404,นนทบุรี,บางบัวทอง,บางคูรัด,บางคูรัด,44.44,15.35,86.67,Nonthaburi,Bang Bua Thong,Bang Khu Rat
+2011-05-01,120402,นนทบุรี,บางบัวทอง,บางบัวทอง,บางบัวทอง,9.62,10.38,9.13,Nonthaburi,Bang Bua Thong,Bang Bua Thong
+2011-05-01,120402,นนทบุรี,บางบัวทอง,บางบัวทอง,บางบัวทอง,23.91,10.14,45.65,Nonthaburi,Bang Bua Thong,Bang Bua Thong
+2011-05-01,120304,นนทบุรี,บางใหญ่,เสาธงหิน,เสาธงหิน,12.77,1.49,4.26,Nonthaburi,Bang Yai,Sao Thong Hin
+2011-05-01,120601,นนทบุรี,ปากเกร็ด,ปากเกร็ด,ปากเกร็ด,0,0,0,Nonthaburi,Pak Kret,Pak Kret
+2011-05-01,130101,ปทุมธานี,เมืองปทุมธานี,บางปรอก,บางปรอก,0,0,0,Pathum Thani,Mueang Pathum Thani,Bang Prok
+2011-05-01,130101,ปทุมธานี,เมืองปทุมธานี,บางปรอก,บางปรอก,0,0,0,Pathum Thani,Mueang Pathum Thani,Bang Prok
+2011-05-01,140605,พระนครศรีอยุธยา,บางปะอิน,บางกระสั้น,บางกระสั้น,16.67,3.27,40,Phra Nakhon Si Ayutthaya,Bang Pa-in,Bang Krasan
+2011-05-01,140106,พระนครศรีอยุธยา,พระนครศรีอยุธยา,ไผ่ลิง,ไผ่ลิง,19.7,4.96,54.55,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,Phai Ling
+2011-05-01,700401,ราชบุรี,ดำเนินสะดวก,ดำเนินสะดวก,ดำเนินสะดวก,0,0,0,Ratchaburi,Damnoen Saduak,Damnoen Saduak
+2011-05-01,700602,ราชบุรี,บางแพ,วังเย็น,วังเย็น,5,0.69,5,Ratchaburi,Bang Phae,Wang Yen
+2011-05-01,700501,ราชบุรี,บ้านโป่ง,บ้านโป่ง,บ้านโป่ง,5,0.16,1,Ratchaburi,Ban Pong,Ban Pong
+2011-05-01,700708,ราชบุรี,โพธาราม,ดอนทราย,ดอนทราย,5,1.31,6,Ratchaburi,Photharam,Don Sai
+2011-05-01,700103,ราชบุรี,เมืองราชบุรี,ดอนตะโก,ดอนตะโก,0,0,0,Ratchaburi,Mueang Ratchaburi,Don Tako
+2011-05-01,740209,สมุทรสาคร,กระทุ่มแบน,แคราย,แคราย,20,6.65,28,Samut Sakhon,Krathum Baen,Khae Rai
+2011-05-01,740304,สมุทรสาคร,บ้านแพ้ว,โรงเข้,โรงเข้,0,0,0,Samut Sakhon,Ban Phaeo,Rong Khe
+2011-05-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ทุ่งคอก,44,6.73,82,Suphan Buri,Song Phi Nong,Thung Khok
+2011-05-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ปากคอก,18,3.73,38,Suphan Buri,Song Phi Nong,Thung Khok
+2011-04-01,810204,กระบี่,เขาพนม,พรุเตียว,พรุเตียว,0,0,0,Krabi,Khao Phanom,Phru Tiao
+2011-04-01,810403,กระบี่,คลองท่อม,คลองพน,คลองปิ้ง,7.5,1.89,7.5,Krabi,Khlong Thom,Khlong Phon
+2011-04-01,810403,กระบี่,คลองท่อม,คลองพน,คลองแรด,7.5,35.34,100,Krabi,Khlong Thom,Khlong Phon
+2011-04-01,810404,กระบี่,คลองท่อม,ทรายขาว,บ่อม่วง,10,2.42,10,Krabi,Khlong Thom,Sai Khao
+2011-04-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ห้วยน้ำขาว,10,1.78,7.5,Krabi,Khlong Thom,Huai Nam Khao
+2011-04-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ควนใต้,10,2.45,10,Krabi,Khlong Thom,Huai Nam Khao
+2011-04-01,800406,นครศรีธรรมราช,ฉวาง,กะเปียด,ถนนตก,27.5,5.94,47.5,Nakhon Si Thammarat,Chawang,Kapiat
+2011-04-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนสวรรค์,32.5,3.38,32.5,Nakhon Si Thammarat,Chawang,Na Wae
+2011-04-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนยูง,22.5,3.61,30,Nakhon Si Thammarat,Chawang,Na Wae
+2011-04-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ห้วยทรายขาว,35,4.86,35,Nakhon Si Thammarat,Chawang,Na Wae
+2011-04-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ทุ่งใหญ่,12.5,3.16,25,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2011-04-01,800708,นครศรีธรรมราช,ชะอวด,เกาะขันธ์,ควนดินแดง,7.5,1.87,12.5,Nakhon Si Thammarat,Cha-uat,Ko Khan
+2011-04-01,800702,นครศรีธรรมราช,ชะอวด,ท่าเสม็ด,ห้วยลึก,15,3.1,22.5,Nakhon Si Thammarat,Cha-uat,Tha Samet
+2011-04-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,ตูล,15,3.45,22.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2011-04-01,800706,นครศรีธรรมราช,ชะอวด,บ้านตูล,วังกลม,10,3.36,22.5,Nakhon Si Thammarat,Cha-uat,Ban Tun
+2011-04-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ควนออก,12.5,3.53,27.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2011-04-01,801704,นครศรีธรรมราช,บางขัน,บ้านนิคม,เขาวง,17.5,8.93,75,Nakhon Si Thammarat,Bang Khan,Ban Nikhom
+2011-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เหนือโตน,12.5,4.08,32.5,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2011-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,เคี่ยมงาม,12.5,3.67,30,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2011-04-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,ทุ่งโคกแด,17.5,4.36,35,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2011-03-01,810201,กระบี่,เขาพนม,เขาพนม,ห้วยเสียด,10,1.44,10,Krabi,Khao Phanom,Khao Phanom
+2011-03-01,810201,กระบี่,เขาพนม,เขาพนม,ห้วยเสียด,7.5,1.11,7.5,Krabi,Khao Phanom,Khao Phanom
+2011-03-01,810405,กระบี่,คลองท่อม,ห้วยน้ำขาว,ทุ่งเสม็ด,7.5,1.69,7.5,Krabi,Khlong Thom,Huai Nam Khao
+2011-03-01,810106,กระบี่,เมืองกระบี่,เขาทอง,ท่าพรุ,5,0.83,5,Krabi,Mueang Krabi,Khao Thong
+2011-03-01,810115,กระบี่,เมืองกระบี่,ไสไทย,ไสไทย,15,5.23,20,Krabi,Mueang Krabi,Sai Thai
+2011-03-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,5,2.15,6.67,Krabi,Mueang Krabi,Sai Thai
+2011-03-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,15,5.23,20,Krabi,Mueang Krabi,Sai Thai
+2011-03-01,810703,กระบี่,ลำทับ,ทุ่งไทรทอง,เกาะไทร,5,0.86,5,Krabi,Lam Thap,Thung Sai Thong
+2011-03-01,810701,กระบี่,ลำทับ,ลำทับ,ภูผา,2.5,0.44,2.5,Krabi,Lam Thap,Lam Thap
+2011-03-01,810502,กระบี่,อ่าวลึก,แหลมสัก,แหลมสัก,7.5,1.52,7.5,Krabi,Ao Luek,Laem Sak
+2011-03-01,810502,กระบี่,อ่าวลึก,แหลมสัก,แหลมสัก,5,0.69,5,Krabi,Ao Luek,Laem Sak
+2011-03-01,810501,กระบี่,อ่าวลึก,อ่าวลึกใต้,อ่าวลึกใต้,12.5,2.1,12.5,Krabi,Ao Luek,Ao Luek Tai
+2011-03-01,730102,นครปฐม,เมืองนครปฐม,บางแขม,บางแขม,17,4.58,26,Nakhon Pathom,mueang Nakhon Pathom,Bang Khaem
+2011-03-01,730102,นครปฐม,เมืองนครปฐม,บางแขม,บางแขม,28,8.26,46,Nakhon Pathom,mueang Nakhon Pathom,Bang Khaem
+2011-03-01,730102,นครปฐม,เมืองนครปฐม,บางแขม,บางแขม,42,11.85,75,Nakhon Pathom,mueang Nakhon Pathom,Bang Khaem
+2011-03-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ทุ่งกระจูด,20,2.54,20,Nakhon Si Thammarat,Chawang,Na Wae
+2011-03-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนสวรรค์,22.5,2.1,20,Nakhon Si Thammarat,Chawang,Na Wae
+2011-03-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนยูง,27.5,3.67,27.5,Nakhon Si Thammarat,Chawang,Na Wae
+2011-03-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ห้วยทรายขาว,30,3.37,30,Nakhon Si Thammarat,Chawang,Na Wae
+2011-03-01,800710,นครศรีธรรมราช,ชะอวด,เขาพระทอง,เขาพระทอง,15,4.25,27.5,Nakhon Si Thammarat,Cha-uat,Khao Phra Thong
+2011-03-01,800705,นครศรีธรรมราช,ชะอวด,วังอ่าง,วังอ่าง,20,7.41,55,Nakhon Si Thammarat,Cha-uat,Wang Ang
+2011-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คลองเสาเหนือ,10,2.41,20,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2011-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,ไร่ยาว,10,2.33,20,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2011-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,คลองลำนาว,15,2.84,27.5,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2011-03-01,801701,นครศรีธรรมราช,บางขัน,บางขัน,หนองแสง,12.5,2.18,20,Nakhon Si Thammarat,Bang Khan,Bang Khan
+2011-03-01,801702,นครศรีธรรมราช,บางขัน,บ้านลำนาว,บางจันสี,0,0,0,Nakhon Si Thammarat,Bang Khan,Ban Lamnao
+2011-03-01,140605,พระนครศรีอยุธยา,บางปะอิน,บางกระสั้น,บางกระสั้น,7.5,6.86,43.33,Phra Nakhon Si Ayutthaya,Bang Pa-in,Bang Krasan
+2011-02-01,810115,กระบี่,เมืองกระบี่,ไสไทย,คลองหิน,5,2.4,6.67,Krabi,Mueang Krabi,Sai Thai
+2011-02-01,810808,กระบี่,เหนือคลอง,ห้วยยูง,บกห้อง,0,0,0,Krabi,Nuea Khlong,Huai Yung
+2011-02-01,810808,กระบี่,เหนือคลอง,ห้วยยูง,บกห้อง,0,0,0,Krabi,Nuea Khlong,Huai Yung
+2011-02-01,710612,กาญจนบุรี,ท่าม่วง,รางสาลี่,สระกลอย,66,17.63,134,Kanchanaburi,Tha Muang,Rang Sali
+2011-02-01,710613,กาญจนบุรี,ท่าม่วง,หนองตากยา,หนองตากยา,80,29.51,206,Kanchanaburi,Tha Muang,Nong Tak Ya
+2011-02-01,710202,กาญจนบุรี,ไทรโยค,ท่าเสา,ท่าเสา,50,11.19,79,Kanchanaburi,Sai Yok,Tha Sao
+2011-02-01,730307,นครปฐม,นครชัยศรี,ขุนแก้ว,ขุนแก้ว,13,0,0,Nakhon Pathom,Nakhon Chai Si,Khun Kaeo
+2011-02-01,730701,นครปฐม,พุทธมณฑล,ศาลายา,ศาลายา,32,10.77,89,Nakhon Pathom,Phutthamonthon,Sala Ya
+2011-02-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ทุ่งกระจูด,15,3.06,15,Nakhon Si Thammarat,Chawang,Na Wae
+2011-02-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนสวรรค์,17.5,2.86,17.5,Nakhon Si Thammarat,Chawang,Na Wae
+2011-02-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ควนยูง,22.5,3.35,22.5,Nakhon Si Thammarat,Chawang,Na Wae
+2011-02-01,800404,นครศรีธรรมราช,ฉวาง,นาแว,ห้วยทรายขาว,12.5,2.39,12.5,Nakhon Si Thammarat,Chawang,Na Wae
+2011-02-01,800913,นครศรีธรรมราช,ทุ่งสง,เขาขาว,ไสส้านใน,30,3.36,27.5,Nakhon Si Thammarat,Thung Song,Khao Khao
+2011-02-01,800909,นครศรีธรรมราช,ทุ่งสง,ที่วัง,บนควน,15,2.33,17.5,Nakhon Si Thammarat,Thung Song,Thi Wang
+2011-02-01,800905,นครศรีธรรมราช,ทุ่งสง,นาไม้ไผ่,บอมอง,20,2.91,22.5,Nakhon Si Thammarat,Thung Song,Na Mai Phai
+2011-02-01,800906,นครศรีธรรมราช,ทุ่งสง,นาหลวงเสน,ประดู่,25,2.77,25,Nakhon Si Thammarat,Thung Song,Na Luang Sen
+2011-02-01,700405,ราชบุรี,ดำเนินสะดวก,ดอนกรวย,ดอนกรวย,0,0,0,Ratchaburi,Damnoen Saduak,Don Kruai
+2011-02-01,700602,ราชบุรี,บางแพ,วังเย็น,วังเย็น,1,0.13,1,Ratchaburi,Bang Phae,Wang Yen
+2011-02-01,700504,ราชบุรี,บ้านโป่ง,ปากแรต,ปากแรต,3,0.41,3,Ratchaburi,Ban Pong,Pak Raet
+2011-02-01,700708,ราชบุรี,โพธาราม,ดอนทราย,ดอนทราย,2,0.45,3,Ratchaburi,Photharam,Don Sai
+2011-02-01,700103,ราชบุรี,เมืองราชบุรี,ดอนตะโก,ดอนตะโก,0,0,0,Ratchaburi,Mueang Ratchaburi,Don Tako
+2011-02-01,740209,สมุทรสาคร,กระทุ่มแบน,แคราย,แคราย,17,7.54,23,Samut Sakhon,Krathum Baen,Khae Rai
+2011-02-01,740304,สมุทรสาคร,บ้านแพ้ว,โรงเข้,โรงเข้,0,0,0,Samut Sakhon,Ban Phaeo,Rong Khe
+2011-02-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ทุ่งคอก,66,13.39,146,Suphan Buri,Song Phi Nong,Thung Khok
+2011-02-01,720712,สุพรรณบุรี,สองพี่น้อง,ทุ่งคอก,ปากคอก,12,2.03,14,Suphan Buri,Song Phi Nong,Thung Khok
+2011-01-01,730608,นครปฐม,สามพราน,ไร่ขิง,ไร่ขิง,9,4.68,16,Nakhon Pathom,Sam Phran,Rai Khing

@@ -1,0 +1,4 @@
+Bangkok =   790,450
+Nakhon  =   958,027
+Krabi   =   386,819
+Total   = 2,135,296

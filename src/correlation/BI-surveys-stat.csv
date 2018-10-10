@@ -1,0 +1,54 @@
+addrcode,District,Sub-district,N,Mean,SD,dengue_season,non_dengue_season
+800106,Mueang Nakhon Si Thammarat,Tha Rai,1,68.0,,0,1.0
+800112,Mueang Nakhon Si Thammarat,Kamphaeng Sao,1,57.5,,1,0.0
+800113,Mueang Nakhon Si Thammarat,Chai Montri,1,53.3,,1,0.0
+800114,Mueang Nakhon Si Thammarat,Mamuang Song Ton,1,57.5,,1,0.0
+800201,Phrom Khiri,Phrom Lok,1,30.0,,0,1.0
+800203,Phrom Khiri,In Khiri,2,50.0,3.5,0,1.0
+800204,Phrom Khiri,Thon Hong,2,33.5,2.1,0,1.0
+800303,Lan Saka,Tha Di,1,30.0,,0,1.0
+800304,Lan Saka,Kamlon,2,33.5,0.7,0,1.0
+800305,Lan Saka,Khun Thale,2,70.0,53.0,0,1.0
+800404,Chawang,Na Wae,11,15.7,2.8,1,1.0
+800409,Chawang,Huai Prik,6,16.2,1.0,1,1.0
+800415,Chawang,Na Khliang,2,15.0,3.5,1,1.0
+800502,Phipun,Kathun,8,19.0,2.0,1,1.0
+800503,Phipun,Khao Phra,2,22.1,1.2,0,1.0
+800607,Chian Yai,Thong Lamchiak,1,15.0,,0,1.0
+800611,Chian Yai,Karaket,1,32.5,,0,1.0
+800701,Cha-uat,Cha-Uat,1,42.5,,1,0.0
+800703,Cha-uat,Tha Pracha,5,31.2,7.9,1,1.0
+800705,Cha-uat,Wang Ang,17,23.0,6.2,1,1.0
+800706,Cha-uat,Ban Tun,10,30.2,3.6,1,1.0
+800707,Cha-uat,Khon Hat,1,37.5,,1,0.0
+800708,Cha-uat,Ko Khan,7,17.9,6.2,1,1.0
+800709,Cha-uat,Khuan Nong Hong,16,29.5,6.6,1,1.0
+800710,Cha-uat,Khao Phra Thong,11,31.8,4.6,1,1.0
+800711,Cha-uat,Nang Long,1,40.0,,0,1.0
+800806,Tha Sala,Sa Kaeo,2,15.0,8.5,0,1.0
+800809,Tha Sala,Thai Buri,1,33.3,,0,1.0
+800903,Thung Song,Nong Hong,1,22.5,,1,0.0
+800907,Thung Song,Khao Ro,3,54.5,16.1,1,1.0
+800909,Thung Song,Thi Wang,4,41.2,9.2,1,1.0
+800910,Thung Song,Namtok,3,25.8,2.9,0,1.0
+800912,Thung Song,Na Pho,5,43.0,9.4,1,1.0
+801001,Na Bon,Na Bon,1,22.5,,0,1.0
+801003,Na Bon,Kaeo Saen,3,62.8,29.0,1,1.0
+801102,Thung Yai,Thung Sang,1,12.5,,1,0.0
+801104,Thung Yai,Kurae,24,17.2,3.7,1,1.0
+801107,Thung Yai,Krung Yan,59,13.2,2.6,1,1.0
+801402,Sichon,Thung Prang,2,35.5,13.4,0,1.0
+801404,Sichon,Sao Phao,1,50.0,,0,1.0
+801602,Hua Sai,Na Saton,2,72.0,90.5,0,1.0
+801701,Bang Khan,Bang Khan,34,6.2,1.5,1,1.0
+801702,Bang Khan,Ban Lamnao,23,6.3,1.3,1,1.0
+801703,Bang Khan,Wang Hin,3,7.5,0.0,1,1.0
+801704,Bang Khan,Ban Nikhom,13,5.6,1.1,1,1.0
+801801,Tham Phannara,Tham Phannara,2,27.0,0.0,0,1.0
+801904,Chulabhorn,Thung Pho,10,33.1,5.3,1,1.0
+801905,Chulabhorn,Na Mo Bun,1,32.5,,1,0.0
+802001,Phra Phrom,Na Phru,2,9.5,4.9,0,1.0
+802002,Phra Phrom,Na San,1,42.5,,0,1.0
+802101,Nopphitam,Nopphitam,3,38.3,18.8,0,1.0
+802102,Nopphitam,Krung Ching,1,10.0,,0,1.0
+802304,Chaloem Phra Kiet,Thang Phun,2,10.0,0.0,0,1.0
