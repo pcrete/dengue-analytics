@@ -1,5 +1,21 @@
 # Dengue Dash
-Vector Surveillance and Street View Breeding Site Indexes Visualization Dashboard 
+Measurement of automated breeding site detection system by correlating fitted regression from breeding site features with traditional manual surveys.
+
+
+
+## How It Works
+
+### Breeding Sites Detection
+![](images/detection.png) 
+
+### Correlation between Proposed Detection System and Traditional Approach
+![](images/regression.png) 
+
+### Residual Analysis
+![](images/correlation-1.png)
+ ![](images/correlation-3.png)
+ ![](images/correlation-2.png)
+
 
 ## Getting Started
 ### Prerequisites
@@ -12,11 +28,11 @@ $ pip3 install -r requirements.txt
 ## Why?
 Why not.
 
-## Visualization Dashboard
+## Visualization Dashboard (*Deprecated*)
 ![](images/dash-1.png) 
 ![](images/dash-2.png) 
 
-### How to run
+### How to run  (*Deprecated*)
 from ./dashboard/
 ```
 $ python3 index.py
